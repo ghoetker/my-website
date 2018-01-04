@@ -42,7 +42,7 @@ projects = []
 tags = ["Alliances", "Innovation"]
 
 # Links (optional).
-url_pdf ="pdf/Lee-2015-Alliance-00.pdf"
+url_pdf ="pdf/Lee-2010-Accommodation-00.pdf"
 url_doi = ""
 url_preprint = ""
 url_code = ""

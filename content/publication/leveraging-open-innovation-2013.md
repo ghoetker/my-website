@@ -42,7 +42,7 @@ projects = []
 tags = ["Japan","Innovation"]
 
 # Links (optional).
-url_pdf = "pdf/Hoetker-2013-open-00.pdf"
+url_pdf = "pdf/Hoetker-2013-Open-00.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
