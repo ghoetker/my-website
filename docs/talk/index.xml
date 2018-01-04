@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Glenn Hoetker</title>
-    <link>ghoetker.github.io/talk/</link>
+    <link>https://ghoetker.github.io/my-website/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="ghoetker.github.io/talk/" rel="self" type="application/rss+xml" />
+    <atom:link href="/my-website/talk/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

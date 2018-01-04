@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glenn Hoetker on Glenn Hoetker</title>
-    <link>ghoetker.github.io/</link>
+    <link>https://ghoetker.github.io/my-website/</link>
     <description>Recent content in Glenn Hoetker on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="ghoetker.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="/my-website/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Update to Tools of the trade 1 -- Spelling and grammar checkers</title>
-      <link>ghoetker.github.io/post/update-to-tools-of-the-trade-1/</link>
+      <link>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</link>
       <pubDate>Wed, 18 Jan 2017 15:00:15 -0700</pubDate>
       
-      <guid>ghoetker.github.io/post/update-to-tools-of-the-trade-1/</guid>
+      <guid>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</guid>
       <description>&lt;p&gt;Shortly after I posted Tools of the trade 1—Spelling and grammar checkers, version 3.0 of the Hemingway Editor became available.  The changes are evolutionary, rather than revolutionary, but provide some useful new features. The update is free to owners of version 2, which is generous for an update of this magnitude. &lt;/p&gt;
 
 &lt;p&gt;For scholarly writing, the most important changes are the ability to have multiple documents open at once and to import text directly from Markdown-formatted plain text documents, in addition to Word, which it could already do. I found a few issues when round-tripping a draft article from Word to Hemingway and back to Word. Tables were completely mangled and some formatting was lost.  The former is not surprising given Hemingway&amp;rsquo;s more general target audience and would be easy to work around.  Formatting issues seemed, based on quick perusal, to be more common in sections with lots of manual formatting (centering and underlining seemed to vanish, while italics remained).  Styles were retained, although the exported document didn&amp;rsquo;t seem to retain the same definition of those styles. It&amp;rsquo;s not hard to move style definitions between documents, but having to do so does introduce an additional step. Oddly, although it can only import .docx files (not the older .doc format), it exports .doc files.&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>Tools of the Trade 1</title>
-      <link>ghoetker.github.io/post/tools-of-the-trade-1/</link>
+      <link>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</link>
       <pubDate>Wed, 11 Jan 2017 15:08:10 -0700</pubDate>
       
-      <guid>ghoetker.github.io/post/tools-of-the-trade-1/</guid>
+      <guid>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</guid>
       <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer here XXX. &lt;/p&gt;
 
 &lt;p&gt;Many, perhaps most, of us choose our tools fairly casually. Inertia may be the primary determinant of what we use. However, scholarship places different demands on our tools, so a more deliberate consideration of options can be worthwhile. The word processor or presentation software you&amp;rsquo;ve used for years may or may not be the best choice for your scholarly work. Also, some useful tools like bibliographic information managers (Zotero, EndNote, etc.) are probably outside of your prior experience.&lt;/p&gt;
@@ -50,7 +50,7 @@
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;ghoetker.github.io/img/Grammarly.png&#34; /&gt;
+        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Grammarly.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -63,7 +63,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;ghoetker.github.io/img/HemingwayEditor.png&#34; /&gt;
+        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/HemingwayEditor.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -91,19 +91,19 @@
     
     <item>
       <title>Using Mindmapping software for class preparation</title>
-      <link>ghoetker.github.io/post/mindmap-for-class-prep/</link>
+      <link>https://ghoetker.github.io/my-website/post/mindmap-for-class-prep/</link>
       <pubDate>Wed, 21 Dec 2016 15:55:54 -0700</pubDate>
       
-      <guid>ghoetker.github.io/post/mindmap-for-class-prep/</guid>
+      <guid>https://ghoetker.github.io/my-website/post/mindmap-for-class-prep/</guid>
       <description>&lt;p&gt;Mindmapping has been around for a long time in various forms and there are many software packages available. In this post, I discuss how I use iThoughtsX to plan my classes. Nothing I&amp;rsquo;ll discuss is specific to iThoughts since many other packages offer similar features. Having tried most of them, I&amp;rsquo;ve found that iThoughts best meets my working style. I especially appreciate its amazing export options and the fact that files move seamlessly from its Mac to iPad versions.&lt;/p&gt;
 
 &lt;p&gt;As shown below, I&amp;rsquo;ve made a map for my class. Each of the branches shown has many sub-branches.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;ghoetker.github.io/img/iThoughtPreview1.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtPreview1.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 ￼&lt;br /&gt;
 This makes it a great tool for the doodling around stage of planning, especially since moving an item from one branch to another is so quick.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;ghoetker.github.io/img/iThoughtsmovingItems.gif&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtsmovingItems.gif&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 ￼&lt;br /&gt;
 It also gives me a place to store items I come across between times I teach, so there are all in one place when I come back to prepare for the next edition of the class. I can tag new items with the pencil icon to give me a visual clue that these are new since last time I taught (there are a slew of additional icons available and you can search or filter using them).&lt;/p&gt;
 
@@ -122,23 +122,23 @@ It also gives me a place to store items I come across between times I teach, so 
 
 &lt;p&gt;The last two items on that list depends on other geeky technology, but even iThoughts itself it can do amazing things. The material that will become the syllabus all resides in the &amp;ldquo;Class Sessions&amp;rdquo; node. First I created a node for each subject module and each class session therein. Because of how easy it is the create/delete branches and move items between branches, I started with a very rough outline and refined it as I went. In the same way, it was trivial to reorganize the subject modules between annual editions of the class.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;ghoetker.github.io/img/iThoughtspreviewme8_540.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme8_540.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Within each class, I created nodes for Readings and Assignments. Having created it once, I copy-pasted it to the other sessions. If appropriate, I added subdivisions for the readings in each class. Then, I created nodes for each reading. For most of them, I copied information over from EndNote, which is how I organize my reference library. I&amp;rsquo;ve set iThought to automatically alphabetize items for me.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;img src=&#34;ghoetker.github.io/img/iThoughtspreviewme4_860.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme4_860.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The arrow on the node indicates that there is a link associated with it. That can be a link to a website or to a file (created by dragging the file onto a node). Clicking on the arrow will open the associated file, which makes it easy to re-examine items (&amp;ldquo;How long was the Carlson paper?&amp;rdquo;). I can also add notes for each node, either for myself or, as in this case, to become part of the syllabus.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;img src=&#34;ghoetker.github.io/img/iThoughtspreviewme5.png&#34; alt=&#34;&#34; /&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme5.png&#34; alt=&#34;&#34; /&gt;￼&lt;/p&gt;
 
 &lt;p&gt;Each node can also be associated with task management information, which I&amp;rsquo;ve repurposed. Here, I&amp;rsquo;ve tagged a class session with the date it occurs, how many days it will take and marked its progress as &amp;ldquo;Rollup&amp;rdquo;, that is, what proportion of the nodes below it have been completed.&lt;/p&gt;
 
-&lt;p&gt;￼￼&lt;img src=&#34;ghoetker.github.io/img/iThoughtsPreviewme7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;￼￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtsPreviewme7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This allows me to see that I&amp;rsquo;ve completed the &amp;ldquo;Setting the stage&amp;rdquo; module (the checkmark) and that I&amp;rsquo;ve dedicated 3 class sessions to it. Because this all updates dynamically, I can trivially track that I&amp;rsquo;ve not dedicated too much time to any one subject and have stayed within the 16 class session I have.&lt;/p&gt;
 
-&lt;p&gt;￼￼&lt;img src=&#34;ghoetker.github.io/img/iThoughtspreviewme3.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;￼￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme3.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 ￼&lt;br /&gt;
 Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts export capabilities, which include exporting to a PDF, a website, images, Word/Excel/Powerpoint (with lots of flexibility), other mindmapping formats, and Markdown. Simply exporting to Word would give one a great start on the Syllabus, needing minimal additional formatting. To leverage the other systems I have in place, I go another route, which I&amp;rsquo;ll &lt;em&gt;briefly&lt;/em&gt; describe just to give a flavor of what is possible.&lt;/p&gt;
 
@@ -157,91 +157,91 @@ XXX this posting for the finished product).&lt;/p&gt;
     
     <item>
       <title>Alliance experience and governance flexibility</title>
-      <link>ghoetker.github.io/publication/alliance-flexibility-2015/</link>
+      <link>https://ghoetker.github.io/my-website/publication/alliance-flexibility-2015/</link>
       <pubDate>Thu, 31 Dec 2015 20:25:17 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/alliance-flexibility-2015/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/alliance-flexibility-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technological overlap, technological capabilities, and resource recombination in technological acquisitions</title>
-      <link>ghoetker.github.io/publication/tech-overlap-2014/</link>
+      <link>https://ghoetker.github.io/my-website/publication/tech-overlap-2014/</link>
       <pubDate>Wed, 31 Dec 2014 21:24:56 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/tech-overlap-2014/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/tech-overlap-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconceptualizing Plural Sourcing</title>
-      <link>ghoetker.github.io/publication/reconceptualizing-plural-sourcing-2013/</link>
+      <link>https://ghoetker.github.io/my-website/publication/reconceptualizing-plural-sourcing-2013/</link>
       <pubDate>Tue, 01 Jan 2013 15:03:08 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/reconceptualizing-plural-sourcing-2013/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/reconceptualizing-plural-sourcing-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using open innovation to leverage Japan’s strengths (オープン・イノペーションで日本の強みを活かす)</title>
-      <link>ghoetker.github.io/publication/leveraging-open-innovation-2013/</link>
+      <link>https://ghoetker.github.io/my-website/publication/leveraging-open-innovation-2013/</link>
       <pubDate>Tue, 01 Jan 2013 14:13:41 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/leveraging-open-innovation-2013/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/leveraging-open-innovation-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leveraging Japan&#39;s ``old economy&#39;&#39;</title>
-      <link>ghoetker.github.io/publication/leveraging-japan-old-economy-2013/</link>
+      <link>https://ghoetker.github.io/my-website/publication/leveraging-japan-old-economy-2013/</link>
       <pubDate>Tue, 01 Jan 2013 14:05:54 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/leveraging-japan-old-economy-2013/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/leveraging-japan-old-economy-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Configuration of value chain activities: The effect of pre-entry capabilities, transactions hazard and industry evolution on the decision to internalize</title>
-      <link>ghoetker.github.io/publication/configuration-of-value-chain-2012/</link>
+      <link>https://ghoetker.github.io/my-website/publication/configuration-of-value-chain-2012/</link>
       <pubDate>Sun, 01 Jan 2012 15:12:37 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/configuration-of-value-chain-2012/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/configuration-of-value-chain-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Choice and performance of governance mechanisms: Matching alliance governance to asset type</title>
-      <link>ghoetker.github.io/publication/choice-and-performance-of-governance-mechanisms/</link>
+      <link>https://ghoetker.github.io/my-website/publication/choice-and-performance-of-governance-mechanisms/</link>
       <pubDate>Fri, 02 Jan 2009 17:38:33 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/choice-and-performance-of-governance-mechanisms/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/choice-and-performance-of-governance-mechanisms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NK modeling methodology in the strategy literature: Bounded search on a rugged landscape</title>
-      <link>ghoetker.github.io/publication/nk-modeling/</link>
+      <link>https://ghoetker.github.io/my-website/publication/nk-modeling/</link>
       <pubDate>Thu, 01 Jan 2009 15:33:59 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/nk-modeling/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/nk-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liberalization and litigation: Evidence from Japan</title>
-      <link>ghoetker.github.io/publication/liberalization-and-litigation/</link>
+      <link>https://ghoetker.github.io/my-website/publication/liberalization-and-litigation/</link>
       <pubDate>Thu, 01 Jan 2009 15:29:36 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/liberalization-and-litigation/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/liberalization-and-litigation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modularity and the impact of buyer-supplier relationships on the survival of suppliers</title>
-      <link>ghoetker.github.io/publication/modularity-and-impact/</link>
+      <link>https://ghoetker.github.io/my-website/publication/modularity-and-impact/</link>
       <pubDate>Tue, 02 Jan 2007 17:42:37 -0700</pubDate>
       
-      <guid>ghoetker.github.io/publication/modularity-and-impact/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/modularity-and-impact/</guid>
       <description></description>
     </item>
     
