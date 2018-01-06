@@ -263,7 +263,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
+  name = "Advice for PhD students"
   url = "#posts"
   weight = 3
 
@@ -294,3 +294,7 @@ defaultContentLanguageInSubdir = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+ # In Jan 2018, this suddenly appeared to be necessary in order to make images work as expected. Not sure what it will do in 2018 though.
+
+  canonifyurls = true
