@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Advice for doctoral students"
+title = "Advice for PhD students"
 subtitle = "Recent posts"
 
 # Order that this section will appear in.
@@ -18,6 +18,6 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 1
+count = 3
 
 +++
