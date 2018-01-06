@@ -22,4 +22,4 @@ preview = true
 
 {{< figure src="/img/research_identity.png" width="50%" >}}
 
-A {{% staticref "pdf/Research_identity.pdf" "newtab" %}}presentation{{% /staticref %}}  from the doctoral workshop at the 2016 West Coast Research Symposium on Innovation and Entrepreneurship.
+A {{% staticref "pdf/Maintain_research_stream.pdf" "newtab" %}}presentation{{% /staticref %}}  from the doctoral workshop at the 2016 West Coast Research Symposium on Innovation and Entrepreneurship.
