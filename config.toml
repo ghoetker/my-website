@@ -267,10 +267,10 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+# [[menu.main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 4
 
 [[menu.main]]
   name = "Teaching"
@@ -281,6 +281,11 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 6
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 7
 
 # Taxonomies.
 [taxonomies]
@@ -296,5 +301,4 @@ defaultContentLanguageInSubdir = false
   languageCode = "en-us"
 
  # In Jan 2018, this suddenly appeared to be necessary in order to make images work as expected. Not sure what it will do in 2018 though.
-
-  canonifyurls = true
+canonifyurls = true
