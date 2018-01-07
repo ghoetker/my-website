@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.32.2" />
+  <meta name="author" content="Glenn Hoetker">
+
+  
+  
+  
+  
+    
+      
+    
+  
+  <meta name="description" content="Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).
+ Using it to clean, combine and otherwise manage data
+ Cutting and pasting results into Excel (or worse yet, Word) and then formatting them for presentation
+  Both of these a very inefficient uses of time. The first is a disaster for data integrity, because it is hard to document, almost impossible to revise, and very easy to mess up (sort only have the variables, be one row off when pasting, etc.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ghoetker.github.io/my-website/post/excel-is-evil/">
+
+  
+
+
+  
+
+  
+  
+  <meta name="theme-color" content="#EF525B">
+  
+  
+  
+  
+    
+  
+  
+    
+    
+      
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+      
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="https://ghoetker.github.io/my-website/styles.css">
+  
+
+  
+
+  
+  <link rel="alternate" href="https://ghoetker.github.io/my-website/index.xml" type="application/rss+xml" title="Glenn Hoetker">
+  <link rel="feed" href="https://ghoetker.github.io/my-website/index.xml" type="application/rss+xml" title="Glenn Hoetker">
+  
+
+  <link rel="manifest" href="https://ghoetker.github.io/my-website/site.webmanifest">
+  <link rel="icon" type="image/png" href="https://ghoetker.github.io/my-website/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="https://ghoetker.github.io/my-website/img/icon-192.png">
+
+  <link rel="canonical" href="https://ghoetker.github.io/my-website/post/excel-is-evil/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Glenn Hoetker">
+  <meta property="og:url" content="https://ghoetker.github.io/my-website/post/excel-is-evil/">
+  <meta property="og:title" content="Excel Is evil | Glenn Hoetker">
+  <meta property="og:description" content="Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).
+ Using it to clean, combine and otherwise manage data
+ Cutting and pasting results into Excel (or worse yet, Word) and then formatting them for presentation
+  Both of these a very inefficient uses of time. The first is a disaster for data integrity, because it is hard to document, almost impossible to revise, and very easy to mess up (sort only have the variables, be one row off when pasting, etc.">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2010-09-07T13:57:08-07:00">
+  
+  <meta property="article:modified_time" content="2010-09-07T13:57:08-07:00">
+  
+
+  
+
+  <title>Excel Is evil | Glenn Hoetker</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="https://ghoetker.github.io/my-website/">Glenn Hoetker</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://ghoetker.github.io/my-website/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://ghoetker.github.io/my-website/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://ghoetker.github.io/my-website/#posts">
+            
+            <span>Advice for PhD students</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://ghoetker.github.io/my-website/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://ghoetker.github.io/my-website/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://ghoetker.github.io/my-website/cv/">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <div class="article-inner">
+      <h1 itemprop="name">Excel Is evil</h1>
+
+      
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2010-09-07 13:57:08 -0700 MST" itemprop="datePublished dateModified">
+      Sep 7, 2010
+    </time>
+  </span>
+  <span itemscope itemprop="author publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Glenn Hoetker">
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Excel%20Is%20evil&amp;url=https%3a%2f%2fghoetker.github.io%2fmy-website%2fpost%2fexcel-is-evil%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fghoetker.github.io%2fmy-website%2fpost%2fexcel-is-evil%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fghoetker.github.io%2fmy-website%2fpost%2fexcel-is-evil%2f&amp;title=Excel%20Is%20evil"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fghoetker.github.io%2fmy-website%2fpost%2fexcel-is-evil%2f&amp;title=Excel%20Is%20evil"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Excel%20Is%20evil&amp;body=https%3a%2f%2fghoetker.github.io%2fmy-website%2fpost%2fexcel-is-evil%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+      <div class="article-style" itemprop="articleBody">
+        
+
+<p>Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).</p>
+
+<ul>
+<li>Using it to clean, combine and otherwise manage data<br /></li>
+<li>Cutting and pasting results into Excel (or worse yet, Word) and then formatting them for presentation<br />
+<br /></li>
+</ul>
+
+<p>Both of these a very inefficient uses of time. The first is a disaster for data integrity, because it is hard to document, almost impossible to revise, and very easy to mess up (sort only have the variables, be one row off when pasting, etc.).</p>
+
+<p>The second use of Excel is also prone to mistakes, although they are probably more easily corrected than butchering your data in Excel. Fortunately, there are many better approaches.</p>
+
+<h2 id="descriptive-statistics">Descriptive statistics</h2>
+
+<p>There are several packages available to produce correlation matrices and descriptive statistics for publication. I wrote <em>mkcorr</em> several years ago (like most user-written additions to Stata, it can be installed with the command <code>ssc install xxxxx, replace</code>). <em>mkcorr</em> produces a correlation table in a format that is easy to import into a spreadsheet or word processing document. So, there is still formatting to do, perhaps even in, shudder, Excel. But, by writing the output directly to a logfile, it avoids two problems with cutting and pasting correlation tables from the results window. First, it allows an effectively unlimited number of variables without wrapping around. Second, it requires less post-processing in a spreadsheet or word-processor, particularly for more involved tables. It also offers a number of small advantages such as allowing the use of labels, controlling the number of decimal places used, and other formatting options. <em>corrtex</em> extends this and allows creation of tables directly in LaTeX.</p>
+
+<div class="alert alert-note">
+  <p>As of January, 2018, this part is somewhat out of date, as Stata 15 offers multiple ways to output directly to Word and Excel. However, <em>mkcorr</em> may still fit some workflows better.</p>
+
+</div>
+
+
+<p>A brief aside&ndash;LaTeX is a document layout language. It allows for very sophisticated and elegant tables and excels in formatting mathematical formulae. It is also a bit of a throwback to pre-GUI days. If you don’t already use LaTeX, I wouldn’t learn it just as a complement to Stata, particularly in you have co-authors who don’t use it. Worse yet, several journals will only accept submissions in Word. There is a midway point: using LaTex to produce tables, rendering them as PDFs and inserting those into a Word document.</p>
+
+<h2 id="producing-tables-of-results">Producing tables of results</h2>
+
+<div class="alert alert-note">
+  <p>Despite Stata 15&rsquo;s ability to output directly to Word and Excel, there is definitely still a place for <em>estout</em> (and perhaps <em>outreg</em>, although I&rsquo;ve not used it for several years) because of the fine-grained control they give over the content and appearance of the output.</p>
+
+</div>
+
+
+<p>Here is where the different between Excel and the right tools is largest. There are several approaches available within Stata.</p>
+
+<p><em>outreg</em> was the original add-on for producing tables more easily. It produces a tab delimited file with lots of formatting options. This can then be imported easily into a word processing or spreadsheet program, where additional formatting (cell-borders, bolding or italicizing) may be performed if desired. Because of the control it offers and the fact that it is programmable, it beats cutting and pasting.</p>
+
+<p><em>estout</em> is part of the “second generation” of table producing add-ons for Stata and gives the user tremendous control. I’ve yet to meet a table of results that it can’t produce. It can be used to produce a correlation table, too, but I find the more specialized <em>mkcorr</em> better for this purpose (of course, I wrote <em>mkcorr</em>, so I may not be totally unbaised). One of the great things about estout is that it produce its tables in comma delimited text, fixed format text, rich text format (rtf), html, or LaTeX. Just a little bit of code makes it easy (at least on a Mac) to have a beautiful table open automatically as either a PDF (from LaTex) or Word (from an rtf file). estout’s syntax can be a bit overwhelming, given all its options, so there is also esttab, which is just a “wrapper” for estout, providing a simpler syntax. It’s worth the effort to learn estout/esttab, because once you’ve mastered it’s basics, you’ll use the repeatedly.</p>
+
+<p>Roger Newson has provided a suite of commands that offers a slightly different approach. One saves summary statistics, the results of regressions, etc. in “resultsets” (which are just Stata datafiles) and then uses one or more commands to produce tables from those. My personal preference is for estout, but Newson’s approach has a large and enthusiastic following.</p>
+
+      </div>
+
+      
+
+
+<div class="article-tags">
+  
+  <a class="btn btn-primary btn-outline" href="https://ghoetker.github.io/my-website/tags/stata">Stata</a>
+  
+  <a class="btn btn-primary btn-outline" href="https://ghoetker.github.io/my-website/tags/statistical-packages">Statistical packages</a>
+  
+  <a class="btn btn-primary btn-outline" href="https://ghoetker.github.io/my-website/tags/software">Software</a>
+  
+  <a class="btn btn-primary btn-outline" href="https://ghoetker.github.io/my-website/tags/excel">Excel</a>
+  
+</div>
+
+
+
+    </div>
+  </div>
+
+</article>
+
+
+
+<div class="article-container article-widget">
+  <div class="hr-light"></div>
+  <h3>Related</h3>
+  <ul>
+    
+    <li><a href="https://ghoetker.github.io/my-website/post/what-statistical-package/">What statistical package should I use?</a></li>
+    
+  </ul>
+</div>
+
+
+
+
+<div class="article-container">
+  
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    <script async defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyCzPQwS-SUJ27Uo5UvF0to4WxUu1QxDAVE"></script>
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+    
+    
+    <script src="https://ghoetker.github.io/my-website/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+
