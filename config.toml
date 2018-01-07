@@ -149,9 +149,11 @@ defaultContentLanguageInSubdir = false
   #
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
-  highlight = false
+  highlight = true
   highlight_languages = []
-  # highlight_style = "github"
+  #highlight_style = "solarized-dark"
+  pygmentsCodefences = true
+  pygmentsStyle = "manni"
 
   # Enable native social sharing buttons?
   sharing = true
