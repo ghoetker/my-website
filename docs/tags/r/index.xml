@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/tags/r/</link>
+    <description>Recent content in R on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 06 Sep 2011 18:07:47 -0700</lastBuildDate>
+    <atom:link href="/tags/r/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>UPDATE OF &#39;&#39;What statistical package should I use?&#39;&#39;</title>
+      <link>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</link>
+      <pubDate>Tue, 06 Sep 2011 18:07:47 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</guid>
+      <description>&lt;p&gt;Technological progress continues. In an older &lt;a href=&#34;https://ghoetker.github.io/my-website/post/what-statistical-package&#34;&gt;posting&lt;/a&gt;, I mentioned the role of specialized packages that addressed models not available in the general purpose software, such as LISREL for structural equation modeling (SEM). That example is now somewhat moot, as Stata 12 has an extensive SEM capability and new add-ons for R allow modeling of SEMs. I suspect that if I were a power user, I would find limitations in Stata/R relative to the dedicated packages, but at my level, I haven’t found them.&lt;/p&gt;
+
+&lt;p&gt;Of course, there are still uses for dedicated packages. From the viewpoint of a Stata user, TDA still offers a few unique features for survival time modeling and HLM &amp;amp; mlwin offer some multilevel functionality not available in Stata.&lt;/p&gt;
+
+&lt;p&gt;I consider it an open question whether the broader availability of these models is a universally good thing. As I noted in my 2007 SMJ &lt;a href=&#34;https://ghoetker.github.io/my-website/publication/use-of-logit&#34;&gt;paper&lt;/a&gt;, one reason for some of the shortcomings in the field’s use of logit models is that they “look” just like OLS regression in Stata. I didn’t enjoy learning the funny Greek notation for laying out a matrix in LISREL, but it mean I had to have a deeper understanding of what was gone on in the model than is required to set up and run an SEM model in Stata.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What statistical package should I use?</title>
+      <link>https://ghoetker.github.io/my-website/post/what-statistical-package/</link>
+      <pubDate>Mon, 06 Sep 2010 18:12:23 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package/</guid>
+      <description>&lt;p&gt;This is an amazingly contentious question. My first answer is &amp;ldquo;If you are comfortable with a package and it is serving your needs, keep using it.&amp;rdquo; That can be complicated, of course, if you have a co-author dedicated to a given statistics package. If your only need to is pass data back and forth with that co-author, I strongly recommend Stat Transfer, which can convert from pretty much any statistical format to any other. Another consideration is the package most frequently used in your field.&lt;/p&gt;
+
+&lt;p&gt;If you are not already using a specific package, here are some (very idiosyncratic) observations on some of the more popular packages.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stata.com&#34; target=&#34;_blank&#34;&gt;Stata&lt;/a&gt; is an increasingly popular and powerful package. It is my runaway favorite. Strengths include the ease of using a command line interface, a menu-based interface, or saved “do” files of commands. The menu-based interface produces the appropriate command line commands, so it is a great way to improve your understanding of Stata’s command language. The Stata documentation is first rate both in its examples and its presentation of underlying econometric theory. There is also a large Stata user community which (1) powers the Statalist mailing list, where members are very generous at helping answer questions both simple and complex and (2) contributes a huge number of user-written commands which one can easily add to one’s Stata toolkit. Several of these commands make it very simple to produce ready to publish tables of results, summary data, correlation tables, etc. That saves one from having to do post-formating in Excel or Word. With Stata’s Mata language, aimed mostly at matrix manipulation, one can craft powerful and fast programs. Stata’s main command language is quite powerful in itself, but Mata can be pre-compiled and is good at especially complex calculations. Stata’s can produce attractive graphs of many types. Because there are so many options, it can be a little overwhelming at first (good chance to use the menus to learn) and Stata doesn’t do 3-D graphics (several user written modules to do so are quite basic). Additionally, it isn’t primarily focused on data manipulation. I’ve never found anything I can’t do, but sorting and merging huge datasets can take a VERY long time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/about.html&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; is the free version of the S+ statistics package. S+ offers a more sophisticated GUI, but most people I know use R instead. With its own commands and a huge number of very specialized user-written additions, R can do pretty much anything under the sun. It also has very good graphics capabilities. Its great strength and weakness is that it makes you get deep into the guts of problem. Performing a regression can involve&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#c30&#34;&gt;`gfit &amp;lt;- lm(Species ˜ Area + Elevation + Nearest + Scruz + Adjacent, data=gala);`&lt;/span&gt;
+&lt;span style=&#34;color:#c30&#34;&gt;`summary(gfit)`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;That can present a significant learning curve, but it is also helpful in learning what’s really going on in the model one is running.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.sas.com/en_us/software/stat.html&#34; target=&#34;_blank&#34;&gt;SAS&lt;/a&gt; is one of the oldest of the packages. To me, it seems unnecessarily complex and somewhat stuck in the past (come on, “Cards” as a way of identifying that what follows is data). However, it has a huge user community, many very specialized packages, and is superb at data manipulation when using large data sets. I suspect that if I still used SAS (I abandoned it about 7 years ago), I would sing its praises, but I’m not sure why one, starting from zero, would choose it over Stata.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.ibm.com/products/spss-statistics&#34; target=&#34;_blank&#34;&gt;SPSS&lt;/a&gt; is another very popular package. For a long time, it offered one of the best menu-based interfaces and thus had a very low learning curve. With Stata (and even SAS) now offering good menu interfaces, SPSS no longer has that advantage. It also doesn’t offer the range of sophisticated models the other packages I’ve mentioned do.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Specialized packages There are a plethora of specialized packages out there. Some can perform a broad swath of models, but are really specialized in one type of model. Examples include LIMDEP (limited dependent variables) and TDA (survival analysis). At one point, these offered significantly better handling of their speciality than any general package. In many regards, the general packages have caught up to maybe 90% of the specialized packages capabilities. So, unless you really need to capabilities available in a specialized package, you are probably better off to stay with the general package, rather than learning a whole new set of commands and syntax. Having once been a very capable user of both TDA and LIMDEP, it pains me to write that last sentence, but I haven’t used either in four years and don’t foresee doing so in the near future.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Another set of specialized packages offer capabilities that are either absent or relatively underdeveloped in the general purpose packages. These include LISREL and AMOS for structural equation modeling and HLM for hierarchical linear modeling. At least for now, it is worth giving these a close look if they address your needs for a specialized modeling technique.&lt;/p&gt;
+
+&lt;p&gt;In closing, it used to be worth mastering multiple packages to have a big toolkit to use. As packages have grown and now largely overlap in their capabilities, becoming highly capable in one (or perhaps two ) packages is much more useful.&lt;br /&gt;
+Tags: Stata, Statistical packages, Software&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

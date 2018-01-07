@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logit on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/tags/logit/</link>
+    <description>Recent content in Logit on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 02 Jan 2007 17:38:33 -0700</lastBuildDate>
+    <atom:link href="/tags/logit/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The use of logit and probit models in strategic management research: Critical issues</title>
+      <link>https://ghoetker.github.io/my-website/publication/use-of-logit/</link>
+      <pubDate>Tue, 02 Jan 2007 17:38:33 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/use-of-logit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
