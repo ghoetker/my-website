@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>(Re)writing and defending the dissertation</title>
+      <link>https://ghoetker.github.io/my-website/post/writing-the-dissertation/</link>
+      <pubDate>Sat, 06 Jan 2018 18:23:10 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/writing-the-dissertation/</guid>
+      <description>
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Writing-the-dissertation.png&#34; width=&#34;50%&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;A &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/Writing-the-dissertation.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt; from a panel discussion at the 2017 SMS Doctoral Workshop. It is a slightly updated version of the presentation I gave at the 2003 BPS/OMT/IMD Managing Your Dissertation Workshop, Academy of Management meeting. I’d still agree with what I said then.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Update to Tools of the trade 1 -- Spelling and grammar checkers</title>
       <link>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</link>
       <pubDate>Wed, 18 Jan 2017 15:00:15 -0700</pubDate>
@@ -212,6 +231,149 @@ XXX this posting for the finished product).&lt;/p&gt;
     </item>
     
     <item>
+      <title>Reasons to Prefer a Mac</title>
+      <link>https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac/</link>
+      <pubDate>Thu, 06 Feb 2014 16:06:49 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac/</guid>
+      <description>
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Obviously, a bit out of date. However, I think my observations still stand. The one caveat is that I&amp;rsquo;ve moved to BibDesk rather than EndNote, so can no longer speak to the quality of its AppleScript support.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;I’ve been a Mac fan since 1984 because, well, I think the Mac OS is more intuitive, stable and enjoyable to use. But, totally aside from that, I think there are three reasons that a Mac may be a better choice for many PhD students.&lt;/p&gt;
+
+&lt;h2 id=&#34;applescript&#34;&gt;Applescript&lt;/h2&gt;
+
+&lt;p&gt;Applescript is Apple&amp;rsquo;s rather, well, funky, scripting language that allows one to automate programs. Several ways this can be useful. Within a single program, you may find yourself performing the same action very frequently. Especially if it requires several steps, automating it could be helpful. For example, I take notes on PDFs in the free PDF reader, Skim. I want to export those as individual text files, each named according to elements of the notation. Applescript lets me do that with a single click of a menu.&lt;/p&gt;
+
+&lt;p&gt;Even more useful is using Applescript as the &amp;ldquo;glue&amp;rdquo; between programs. For example, I don&amp;rsquo;t like how Endnote automatically stores and names imported PDFs. I have an Applescript that goes into Endnote to figure out the files current name and location, as well as what the file should be named according to my preferred scheme (firstAuthor-year-recordNumber.pdf). It then goes out to the Finder, moves the file to the right folder and renames it appropriately. Lastly, it goes back into EndNote and points the &amp;ldquo;File attachment&amp;rdquo; record to the now properly named and located PDF. As another example, the Skim export I mentioned above actually follows up the export by tagging each text file with tags generated from the annotation I made.&lt;/p&gt;
+
+&lt;p&gt;Not every program is Applescript friendly, but for the ones that are, Applescript can really help create an efficient, integrated ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&#34;unix&#34;&gt;Unix&lt;/h2&gt;
+
+&lt;p&gt;The current Mac operating system is actually a pretty user interface on top of the Unix operating system. This has two advantages.&lt;/p&gt;
+
+&lt;p&gt;First, you have access to all the power of Unix. In particular, &lt;em&gt;awk&lt;/em&gt; and &lt;em&gt;sed&lt;/em&gt; are occasional lifesavers when it comes to munging very funky data. For example, I recently dealt with a 1.5 gig text file of patent data. I didn&amp;rsquo;t actually need many of the columns and had to deal with some very, um, &amp;ldquo;Interesting&amp;rdquo; decisions that had been made regarding the coding of the data. I certainly could have pulled it into Stata and managed it there, but it was easier and faster to throw a couple lines of &lt;em&gt;awk&lt;/em&gt; and &lt;em&gt;sed&lt;/em&gt; at it to keep just the columns I wanted and regularize the funky coding. Other little commands like &lt;em&gt;head&lt;/em&gt; make it easy to peek at the top of a big file, &lt;em&gt;curl&lt;/em&gt; and &lt;em&gt;wget&lt;/em&gt; make it easy to download information from websites, etc.&lt;/p&gt;
+
+&lt;p&gt;Second, there are a ton of programs, some very, very specific, others more general, available for Unix. For example, there are some sophisticated web-scrappers. These are generally easy to install and run on the Mac (see &lt;a href=&#34;http://www.macports.org&#34; target=&#34;_blank&#34;&gt;http://www.macports.org&lt;/a&gt;, &lt;a href=&#34;http://www.finkproject.org&#34; target=&#34;_blank&#34;&gt;http://www.finkproject.org&lt;/a&gt; and &lt;a href=&#34;http://brew.sh&#34; target=&#34;_blank&#34;&gt;http://brew.sh&lt;/a&gt; to get a sense of the packages available in an easy to install way).&lt;/p&gt;
+
+&lt;h2 id=&#34;tagging&#34;&gt;Tagging&lt;/h2&gt;
+
+&lt;p&gt;Mavericks, the newest version of the Mac operating system, introduces the ability to tag files. For example, I tag PDFs with the name of projects for which I think they are relevant. In that way, I can do a quick search and pull together all the relevant files for a project. I also tag according to the subject of a file (PDF, Powerpoint, text file, whatever). Especially combined with programs like Ammonite or Leap, this makes it really easy to see what you&amp;rsquo;ve gathered about a subject. So, I can start a search in Leap with &amp;ldquo;teaching&amp;rdquo; and see all of the files related to teaching, as well as the tags they have been given. Further limit to &amp;ldquo;strategy&amp;rdquo; and I can see that I&amp;rsquo;ve tagged 12 files related to Five Forces, of which 2 are videos, 1 a cartoon, and the rest PDFs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some useful utility programs for Stata</title>
+      <link>https://ghoetker.github.io/my-website/post/useful-stata-utility-programs/</link>
+      <pubDate>Fri, 06 Dec 2013 16:25:56 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/useful-stata-utility-programs/</guid>
+      <description>&lt;p&gt;You’ll probably spend a lot of your time doing data management and statistical analysis (which you &lt;em&gt;are&lt;/em&gt; doing in Stata, right?). So, small efficiencies in data related tasks can really pay-off in the long run. One way to get those efficiencies is through creating small utility programs that automate tasks that you perform many, many times. It&amp;rsquo;s very easy to write short programs for Stata. Below, I offer a few program, each only several lines in length, that I find really useful.&lt;/p&gt;
+
+&lt;p&gt;Consider the dta command, which is saved as dta.ado in my &amp;ldquo;PERSONAL&amp;rdquo; directory (which you can find by typing &lt;code&gt;sysdir&lt;/code&gt; at the Stata prompt. On the Mac, it is at &lt;em&gt;~/Library/Application Support/Stata/ado/personal/&lt;/em&gt;.)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;program define dta
+    ls *.dta
+    regress auto dog cat
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now, I can just type &lt;code&gt;dta&lt;/code&gt; at the Stata prompt and get a list of all the data files in the current working directory. Here are some other examples. Each should be saved as &lt;em&gt;name-of-program.ado&lt;/em&gt;, e.g., the next one should be saved as &lt;em&gt;ddo.ado&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Same idea, lists all do files in the directory:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;program define ddo
+   ls *.do
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Quick way to open the current working directory in the Finder. Makes it easy to get to related non-Stata files quickly. (May need to be different for non-Mac systems):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;program define oo
+    !open
+end
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stata Project Feature</title>
+      <link>https://ghoetker.github.io/my-website/post/stata-project-feature/</link>
+      <pubDate>Wed, 06 Nov 2013 17:58:54 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/stata-project-feature/</guid>
+      <description>&lt;p&gt;One of the features of Stata 13 and later is “Projects”, which are meant to provide easier access to multiple files related to a, well, project you are working on. The files can be do files, data, logs, graphs, etc. In fact, they don’t even need to be Stata files. One advantage I have found is that they make it possible to maintain a strict organization of certain types of files going in certain directories, while still having access to all of those files from one pane within Stata.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, this project gives easy to access to data, do files, a text file mapping variables to hypotheses and, eventually, results. Setting up and managing a project isn&amp;rsquo;t quite as automatic as I wish it was. For example, I haven&amp;rsquo;t found a way to have a &amp;ldquo;template&amp;rdquo; to set up a new project just as I want. But, it&amp;rsquo;s still pretty useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Equally useful if you have multiple projects going is the fact that opening a project by double clicking it opens up Stata and changes its working directory to whichever directory the project file sits in. So, on my Mac, I have a smart folder set up with &amp;ldquo;Kind is Stata Project File&amp;rdquo;. This folder is dynamically filled with aliases to all the Stata project files on my computer. I&amp;rsquo;ve dragged that smart folder to my dock and now have, effectively, a pop up menu that can take me to any of my ongoing projects, ready to go. I suspect Windows has some way to do something similar.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Some excellent resources on presenting</title>
+      <link>https://ghoetker.github.io/my-website/post/excellent-resources-on-presenting/</link>
+      <pubDate>Wed, 06 Nov 2013 17:47:20 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/excellent-resources-on-presenting/</guid>
+      <description>&lt;p&gt;Presenting is key to success as a management scholar. Presenting your research helps sharpen your thinking (increasing the probability of publication), gains new collaborators, increases others&amp;rsquo; awareness of your contributions, and ultimately helps build your scholarly reputation. Effective presentation is also a major component of teaching success. So, there are a number of blogs and other resources I follow to give me new ideas on presenting. Not everything in them is immediately applicable to our setting (or even about presenting), but they almost always at least spark thoughts.&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favorites.&lt;/p&gt;
+
+&lt;p&gt;Andreas Zeller’s Blog: &lt;a href=&#34;http://andreas-zeller.blogspot.com/search?q=presentation&#34; target=&#34;_blank&#34;&gt;http://andreas-zeller.blogspot.com/search?q=presentation&lt;/a&gt;&lt;br /&gt;
+Sample post: &lt;a href=&#34;http://andreas-zeller.blogspot.com/2013/10/summarizing-your-presentation-with.html&#34; target=&#34;_blank&#34;&gt;Summarizing your presentation with miniature slides&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Faculty Focus: &lt;a href=&#34;http://www.facultyfocus.com&#34; target=&#34;_blank&#34;&gt;http://www.facultyfocus.com&lt;/a&gt;&lt;br /&gt;
+Sample post: Improve Your PowerPoint Design with One Simple Rule&lt;/p&gt;
+
+&lt;p&gt;Thesis whisperer: &lt;a href=&#34;http://thesiswhisperer.com&#34; target=&#34;_blank&#34;&gt;http://thesiswhisperer.com&lt;/a&gt;&lt;br /&gt;
+Sample post: &lt;a href=&#34;https://thesiswhisperer.com/2013/07/10/four-ways-to-rock-your-next-talk/&#34; target=&#34;_blank&#34;&gt;Four Ways to Rock Your Next Talk&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Naming variables, especially in Stata</title>
+      <link>https://ghoetker.github.io/my-website/post/naming-variables/</link>
+      <pubDate>Wed, 06 Nov 2013 17:38:34 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/naming-variables/</guid>
+      <description>&lt;p&gt;A consistent scheme for naming your variables is very helpful. It makes coming back to a project after it’s been under review for 3 months much easier and is especially valuable when collaborating with someone else. This is one of those points where there are bad practices and good practices, but no &amp;ldquo;right&amp;rdquo; practice. More important is consistent project within (ideally across) projects. So, as a starting point for your consideration, here is what I have developed over time, through lots of trial and error. I think this approach make it easy to find variables and understand their provenance.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;re aiming for a balance of quick and easy to type, while being easy to understand. Remember that Stata allows us to use descriptive labels for output, meaning the reader won&amp;rsquo;t ever see our variables name, so don&amp;rsquo;t call a variable, &lt;em&gt;theYearThatYourParentsEnteredTheCountry&lt;/em&gt;. Something like &lt;em&gt;yearParentsEntered&lt;/em&gt; is sufficiently descriptive. On the other hand, &lt;em&gt;ype&lt;/em&gt; is probably going too far in abbreviation.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Capitalization&lt;/em&gt;. My strongest feeling here is to avoid ALLCAPS names. They are hard to read, hard to type, and scream 1990s software. Favor, instead, lower case. Well, actually, what&amp;rsquo;s called &amp;ldquo;Camel case&amp;rdquo; by some, since it has &amp;ldquo;humps&amp;rdquo; in the middle. For example, &lt;em&gt;workEthic&lt;/em&gt;. I find that relatively easy to read and type.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Modified variables&lt;/em&gt;. Indications of modifications of variables go at the end. This has several advantages. If we want to describe all versions of the workEthic variable, we can use the command &lt;code&gt;describe workEthic*&lt;/code&gt;. We can also take advantage of auto-complete more easily. Examples to follow include:&lt;/p&gt;
+
+&lt;p&gt;•   &lt;em&gt;workEthicSq&lt;/em&gt;. The square of &lt;em&gt;workEthic&lt;/em&gt;.&lt;br /&gt;
+•   &lt;em&gt;workEthicCu&lt;/em&gt;. The cube of &lt;em&gt;workEthic&lt;/em&gt;.&lt;br /&gt;
+•   &lt;em&gt;workEthicC&lt;/em&gt;. The centered version of &lt;em&gt;workEthic&lt;/em&gt;.&lt;br /&gt;
+•   &lt;em&gt;workEthicSt&lt;/em&gt; The standardized (mean 0, sd 1) version of &lt;em&gt;workEthic&lt;/em&gt;.&lt;br /&gt;
+•   &lt;em&gt;workEthic&lt;/em&gt; and &lt;em&gt;workEthic2&lt;/em&gt;. Suppose we have two ways we&amp;rsquo;ve measured work ethic. Perhaps the first is based on the average of three variables and the second is based on the average of just two of those variables. Name one of those &lt;em&gt;workEthic&lt;/em&gt; and the other &lt;em&gt;workEthic2&lt;/em&gt;. A third version would be, of course, &lt;em&gt;worthEthic3&lt;/em&gt;. We want to avoid the confusion that results from having multiple versions of a variable with the same name. We don&amp;rsquo;t want to wonder which &lt;em&gt;workEthic&lt;/em&gt; was used in a given regression.&lt;/p&gt;
+
+&lt;p&gt;Add indicators of modification in the order in which the modifications were made, from left to right. So, &lt;em&gt;workEthic2CSq&lt;/em&gt; means we took the second version of &lt;em&gt;workEthic&lt;/em&gt;, centered it, and then squared that. &lt;em&gt;workEthic2SqC&lt;/em&gt; means we took the second version of workEthic, squared that, and then centered the result (which is a really weird thing to do). &lt;em&gt;workEthic1C&lt;/em&gt; and &lt;em&gt;workEthic2C&lt;/em&gt; are the results of centering the first and second versions of &lt;em&gt;workEthic&lt;/em&gt;, respectively.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;yr2000&lt;/em&gt;. Stata doesn&amp;rsquo;t allow variables to start with a number. This is most often a problem when raw data has observations labeled by year, e.g, &amp;ldquo;2000&amp;rdquo;. Renaming by prepending &amp;ldquo;yr&amp;rdquo; is helpful when it comes time to reshape the data, as it allows us to refer to the stub &amp;ldquo;yr&amp;rdquo;. If we just preceded the variable with &amp;ldquo;y&amp;rdquo; (as I used to, sigh), then if you have a variable named &lt;em&gt;youngKids&lt;/em&gt;, you have to take extra steps to work around it. Very few other variable names start with &amp;ldquo;yr&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;There are some characters allowed in variable names in programs that don&amp;rsquo;t work well or at all in Stata. These include ampersands, dashes, hashmarks(#), periods, commas, parentheses, question marks, exclamation marks, asterisks, and probably about any other punctuation.&lt;/p&gt;
+
+&lt;p&gt;Just FYI, here&amp;rsquo;s why I now avoid several things I used to do. I no longer use underscores, e.g., _work&lt;em&gt;ethic&lt;/em&gt;, because they add lots of typing and add length to variable names without adding information or much readability over camelCase. I don&amp;rsquo;t use the number &amp;ldquo;2&amp;rdquo; to indicated squared variables, e.g., _workEthic&lt;em&gt;2&lt;/em&gt;, because it can be confused with the version of the variable. Lastly, I try to avoid descriptors such as &amp;ldquo;original&amp;rdquo;, &amp;ldquo;new&amp;rdquo;, &amp;ldquo;old&amp;rdquo;, &amp;ldquo;main&amp;rdquo;, &amp;ldquo;regular&amp;rdquo;, &amp;ldquo;alternative&amp;rdquo;, etc., because they aren&amp;rsquo;t easy to standardize and tend to pile up over time. Which came first, &lt;em&gt;workEthicNew&lt;/em&gt; or &lt;em&gt;workEthicAlternative&lt;/em&gt;? Did &lt;em&gt;workEthicOriginal&lt;/em&gt; come as is from the raw data or was it or first attempt at forming the measure? Etc.&lt;/p&gt;
+
+&lt;p&gt;You will often get data in which these norms have not been followed. Actually, I&amp;rsquo;ve never gotten raw data in which they have all been followed. It&amp;rsquo;s not worth renaming all of the original variables, especially if a lot of them won&amp;rsquo;t be used. My preference would be to add lines to the variable manipulation version of the do file if and when it becomes obvious that we&amp;rsquo;ll use a variable. So, if we&amp;rsquo;re going to use &lt;em&gt;var1&lt;/em&gt; a lot, it&amp;rsquo;s worth doing &lt;code&gt;clonevar var1 yearPartentsEntered&lt;/code&gt; and subsequently using &lt;em&gt;yearPartentsEntered&lt;/em&gt;. If you group those together in the code, it&amp;rsquo;s pretty easy to track down the original origin of any variable.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, if you are going to average ten measures called &lt;em&gt;Var1&lt;/em&gt; through &lt;em&gt;Var10&lt;/em&gt; to generate the &lt;em&gt;workEthic&lt;/em&gt; variable and then just use that, I probably wouldn&amp;rsquo;t bother renaming the original variables either to the camelCased &lt;em&gt;var1&lt;/em&gt; or to the more informative &lt;em&gt;finishJobImportant&lt;/em&gt;, &lt;em&gt;lazyPeopleBad&lt;/em&gt;, etc. Just not worth it when we can just do &lt;code&gt;egen workEthic=rmean(Var1-Var10)&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Reconceptualizing Plural Sourcing</title>
       <link>https://ghoetker.github.io/my-website/publication/reconceptualizing-plural-sourcing-2013/</link>
       <pubDate>Tue, 01 Jan 2013 15:03:08 -0700</pubDate>
@@ -226,60 +388,6 @@ XXX this posting for the finished product).&lt;/p&gt;
       <pubDate>Tue, 01 Jan 2013 14:13:41 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/publication/leveraging-open-innovation-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leveraging Japan&#39;s ``old economy&#39;&#39;</title>
-      <link>https://ghoetker.github.io/my-website/publication/leveraging-japan-old-economy-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 14:05:54 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/publication/leveraging-japan-old-economy-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Configuration of value chain activities: The effect of pre-entry capabilities, transactions hazard and industry evolution on the decision to internalize</title>
-      <link>https://ghoetker.github.io/my-website/publication/configuration-of-value-chain-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 15:12:37 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/publication/configuration-of-value-chain-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Choice and performance of governance mechanisms: Matching alliance governance to asset type</title>
-      <link>https://ghoetker.github.io/my-website/publication/choice-and-performance-of-governance-mechanisms/</link>
-      <pubDate>Fri, 02 Jan 2009 17:38:33 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/publication/choice-and-performance-of-governance-mechanisms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NK modeling methodology in the strategy literature: Bounded search on a rugged landscape</title>
-      <link>https://ghoetker.github.io/my-website/publication/nk-modeling/</link>
-      <pubDate>Thu, 01 Jan 2009 15:33:59 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/publication/nk-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liberalization and litigation: Evidence from Japan</title>
-      <link>https://ghoetker.github.io/my-website/publication/liberalization-and-litigation/</link>
-      <pubDate>Thu, 01 Jan 2009 15:29:36 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/publication/liberalization-and-litigation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modularity and the impact of buyer-supplier relationships on the survival of suppliers</title>
-      <link>https://ghoetker.github.io/my-website/publication/modularity-and-impact/</link>
-      <pubDate>Tue, 02 Jan 2007 17:42:37 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/publication/modularity-and-impact/</guid>
       <description></description>
     </item>
     

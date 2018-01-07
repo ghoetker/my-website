@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://ghoetker.github.io/my-website/post/writing-the-dissertation/</loc>
+      <lastmod>2018-01-06T18:23:10-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</loc>
       <lastmod>2017-01-18T15:00:15-07:00</lastmod>
     </url>
@@ -104,6 +113,51 @@
     
     <url>
     
+      <loc>https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac/</loc>
+      <lastmod>2014-02-06T16:06:49-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/useful-stata-utility-programs/</loc>
+      <lastmod>2013-12-06T16:25:56-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/stata-project-feature/</loc>
+      <lastmod>2013-11-06T17:58:54-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/excellent-resources-on-presenting/</loc>
+      <lastmod>2013-11-06T17:47:20-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/naming-variables/</loc>
+      <lastmod>2013-11-06T17:38:34-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ghoetker.github.io/my-website/publication/reconceptualizing-plural-sourcing-2013/</loc>
       <lastmod>2013-01-01T15:03:08-07:00</lastmod>
     </url>
@@ -133,6 +187,51 @@
     
       <loc>https://ghoetker.github.io/my-website/publication/configuration-of-value-chain-2012/</loc>
       <lastmod>2012-01-01T15:12:37-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</loc>
+      <lastmod>2011-09-06T18:07:47-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/template-for-stata-do-files/</loc>
+      <lastmod>2010-09-07T14:11:04-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/excel-is-evil/</loc>
+      <lastmod>2010-09-07T13:57:08-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/what-statistical-package/</loc>
+      <lastmod>2010-09-06T18:12:23-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/post/maximizing-benefits-from-phd-program/</loc>
+      <lastmod>2010-08-07T14:20:34-07:00</lastmod>
     </url>
     
   
@@ -339,6 +438,26 @@
     
       <loc>https://ghoetker.github.io/my-website/tags/dispute-resolution/</loc>
       <lastmod>2006-01-02T17:38:33-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/tags/doctoral-program/</loc>
+      <lastmod>2010-08-07T14:20:34-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/tags/excel/</loc>
+      <lastmod>2010-09-07T13:57:08-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -567,6 +686,16 @@
     
     <url>
     
+      <loc>https://ghoetker.github.io/my-website/tags/presenting/</loc>
+      <lastmod>2013-11-06T17:47:20-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ghoetker.github.io/my-website/tags/probit/</loc>
       <lastmod>2007-01-02T17:38:33-07:00</lastmod>
       <priority>0</priority>
@@ -577,8 +706,28 @@
     
     <url>
     
+      <loc>https://ghoetker.github.io/my-website/tags/process-management/</loc>
+      <lastmod>2010-08-07T14:20:34-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ghoetker.github.io/my-website/publication_types/</loc>
       <lastmod>2013-01-01T14:05:54-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/tags/r/</loc>
+      <lastmod>2011-09-06T18:07:47-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -617,6 +766,26 @@
     
     <url>
     
+      <loc>https://ghoetker.github.io/my-website/tags/sas/</loc>
+      <lastmod>2010-09-06T18:12:23-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/tags/spss/</loc>
+      <lastmod>2010-09-06T18:12:23-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://ghoetker.github.io/my-website/tags/similarity/</loc>
       <lastmod>2013-01-01T15:03:08-07:00</lastmod>
       <priority>0</priority>
@@ -629,6 +798,26 @@
     
       <loc>https://ghoetker.github.io/my-website/tags/software/</loc>
       <lastmod>2017-01-18T15:00:15-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/tags/stata/</loc>
+      <lastmod>2013-12-06T16:25:56-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://ghoetker.github.io/my-website/tags/statistical-packages/</loc>
+      <lastmod>2013-12-06T16:25:56-07:00</lastmod>
       <priority>0</priority>
     </url>
     

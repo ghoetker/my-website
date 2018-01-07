@@ -36,6 +36,9 @@ defaultContentLanguageInSubdir = false
 [outputs]
   home = [ "HTML", "CSS", "RSS" ]
   section = [ "HTML", "RSS" ]
+  taxonomy = [ "HTML", "RSS" ] ## Added 180107
+  taxonomyTerm = [ "HTML", "RSS" ] ## Added 180107
+
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/
