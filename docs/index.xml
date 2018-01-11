@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Curbing opportunism in buyer-supplier relationship: A QCA study on effective governance mechanisms</title>
+      <link>https://ghoetker.github.io/my-website/publication/curbing-opportunism/</link>
+      <pubDate>Tue, 09 Jan 2018 23:53:19 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/curbing-opportunism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>(Re)writing and defending the dissertation</title>
       <link>https://ghoetker.github.io/my-website/post/writing-the-dissertation/</link>
       <pubDate>Sat, 06 Jan 2018 18:23:10 -0700</pubDate>
@@ -342,27 +351,6 @@ end
 &lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Equally useful if you have multiple projects going is the fact that opening a project by double clicking it opens up Stata and changes its working directory to whichever directory the project file sits in. So, on my Mac, I have a smart folder set up with &amp;ldquo;Kind is Stata Project File&amp;rdquo;. This folder is dynamically filled with aliases to all the Stata project files on my computer. I&amp;rsquo;ve dragged that smart folder to my dock and now have, effectively, a pop up menu that can take me to any of my ongoing projects, ready to go. I suspect Windows has some way to do something similar.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Some excellent resources on presenting</title>
-      <link>https://ghoetker.github.io/my-website/post/excellent-resources-on-presenting/</link>
-      <pubDate>Wed, 06 Nov 2013 17:47:20 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/post/excellent-resources-on-presenting/</guid>
-      <description>&lt;p&gt;Presenting is key to success as a management scholar. Presenting your research helps sharpen your thinking (increasing the probability of publication), gains new collaborators, increases others&amp;rsquo; awareness of your contributions, and ultimately helps build your scholarly reputation. Effective presentation is also a major component of teaching success. So, there are a number of blogs and other resources I follow to give me new ideas on presenting. Not everything in them is immediately applicable to our setting (or even about presenting), but they almost always at least spark thoughts.&lt;/p&gt;
-
-&lt;p&gt;Here are some of my favorites.&lt;/p&gt;
-
-&lt;p&gt;Andreas Zeller’s Blog: &lt;a href=&#34;http://andreas-zeller.blogspot.com/search?q=presentation&#34; target=&#34;_blank&#34;&gt;http://andreas-zeller.blogspot.com/search?q=presentation&lt;/a&gt;&lt;br /&gt;
-Sample post: &lt;a href=&#34;http://andreas-zeller.blogspot.com/2013/10/summarizing-your-presentation-with.html&#34; target=&#34;_blank&#34;&gt;Summarizing your presentation with miniature slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Faculty Focus: &lt;a href=&#34;http://www.facultyfocus.com&#34; target=&#34;_blank&#34;&gt;http://www.facultyfocus.com&lt;/a&gt;&lt;br /&gt;
-Sample post: Improve Your PowerPoint Design with One Simple Rule&lt;/p&gt;
-
-&lt;p&gt;Thesis whisperer: &lt;a href=&#34;http://thesiswhisperer.com&#34; target=&#34;_blank&#34;&gt;http://thesiswhisperer.com&lt;/a&gt;&lt;br /&gt;
-Sample post: &lt;a href=&#34;https://thesiswhisperer.com/2013/07/10/four-ways-to-rock-your-next-talk/&#34; target=&#34;_blank&#34;&gt;Four Ways to Rock Your Next Talk&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

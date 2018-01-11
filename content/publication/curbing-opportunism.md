@@ -1,7 +1,7 @@
 +++
 title = "Curbing opportunism in buyer-supplier relationship: A QCA study on effective governance mechanisms"
 date = 2018-01-09T23:53:19-07:00
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Mellewigt T.", "Hoetker, G.","Lütkewitte, M."]
