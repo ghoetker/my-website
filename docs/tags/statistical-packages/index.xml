@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistical packages on Glenn Hoetker</title>
-    <link>https://ghoetker.github.io/my-website/tags/statistical-packages/</link>
+    <link>http://hoetker.faculty.asu.edu/tags/statistical-packages/</link>
     <description>Recent content in Statistical packages on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Some useful utility programs for Stata</title>
-      <link>https://ghoetker.github.io/my-website/post/useful-stata-utility-programs/</link>
+      <link>http://hoetker.faculty.asu.edu/post/useful-stata-utility-programs/</link>
       <pubDate>Fri, 06 Dec 2013 16:25:56 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/useful-stata-utility-programs/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/useful-stata-utility-programs/</guid>
       <description>&lt;p&gt;You’ll probably spend a lot of your time doing data management and statistical analysis (which you &lt;em&gt;are&lt;/em&gt; doing in Stata, right?). So, small efficiencies in data related tasks can really pay-off in the long run. One way to get those efficiencies is through creating small utility programs that automate tasks that you perform many, many times. It&amp;rsquo;s very easy to write short programs for Stata. Below, I offer a few program, each only several lines in length, that I find really useful.&lt;/p&gt;
 
 &lt;p&gt;Consider the dta command, which is saved as dta.ado in my &amp;ldquo;PERSONAL&amp;rdquo; directory (which you can find by typing &lt;code&gt;sysdir&lt;/code&gt; at the Stata prompt. On the Mac, it is at &lt;em&gt;~/Library/Application Support/Stata/ado/personal/&lt;/em&gt;.)&lt;/p&gt;
@@ -45,17 +45,17 @@ end
     
     <item>
       <title>Stata Project Feature</title>
-      <link>https://ghoetker.github.io/my-website/post/stata-project-feature/</link>
+      <link>http://hoetker.faculty.asu.edu/post/stata-project-feature/</link>
       <pubDate>Wed, 06 Nov 2013 17:58:54 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/stata-project-feature/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/stata-project-feature/</guid>
       <description>&lt;p&gt;One of the features of Stata 13 and later is “Projects”, which are meant to provide easier access to multiple files related to a, well, project you are working on. The files can be do files, data, logs, graphs, etc. In fact, they don’t even need to be Stata files. One advantage I have found is that they make it possible to maintain a strict organization of certain types of files going in certain directories, while still having access to all of those files from one pane within Stata.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/stataProject1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So, this project gives easy to access to data, do files, a text file mapping variables to hypotheses and, eventually, results. Setting up and managing a project isn&amp;rsquo;t quite as automatic as I wish it was. For example, I haven&amp;rsquo;t found a way to have a &amp;ldquo;template&amp;rdquo; to set up a new project just as I want. But, it&amp;rsquo;s still pretty useful.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/stataProject2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Equally useful if you have multiple projects going is the fact that opening a project by double clicking it opens up Stata and changes its working directory to whichever directory the project file sits in. So, on my Mac, I have a smart folder set up with &amp;ldquo;Kind is Stata Project File&amp;rdquo;. This folder is dynamically filled with aliases to all the Stata project files on my computer. I&amp;rsquo;ve dragged that smart folder to my dock and now have, effectively, a pop up menu that can take me to any of my ongoing projects, ready to go. I suspect Windows has some way to do something similar.&lt;/p&gt;
 </description>
@@ -63,24 +63,24 @@ end
     
     <item>
       <title>UPDATE OF &#39;&#39;What statistical package should I use?&#39;&#39;</title>
-      <link>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</link>
+      <link>http://hoetker.faculty.asu.edu/post/what-statistical-package-update-1/</link>
       <pubDate>Tue, 06 Sep 2011 18:07:47 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</guid>
-      <description>&lt;p&gt;Technological progress continues. In an older &lt;a href=&#34;https://ghoetker.github.io/my-website/post/what-statistical-package&#34;&gt;posting&lt;/a&gt;, I mentioned the role of specialized packages that addressed models not available in the general purpose software, such as LISREL for structural equation modeling (SEM). That example is now somewhat moot, as Stata 12 has an extensive SEM capability and new add-ons for R allow modeling of SEMs. I suspect that if I were a power user, I would find limitations in Stata/R relative to the dedicated packages, but at my level, I haven’t found them.&lt;/p&gt;
+      <guid>http://hoetker.faculty.asu.edu/post/what-statistical-package-update-1/</guid>
+      <description>&lt;p&gt;Technological progress continues. In an older &lt;a href=&#34;http://hoetker.faculty.asu.edu/post/what-statistical-package&#34;&gt;posting&lt;/a&gt;, I mentioned the role of specialized packages that addressed models not available in the general purpose software, such as LISREL for structural equation modeling (SEM). That example is now somewhat moot, as Stata 12 has an extensive SEM capability and new add-ons for R allow modeling of SEMs. I suspect that if I were a power user, I would find limitations in Stata/R relative to the dedicated packages, but at my level, I haven’t found them.&lt;/p&gt;
 
 &lt;p&gt;Of course, there are still uses for dedicated packages. From the viewpoint of a Stata user, TDA still offers a few unique features for survival time modeling and HLM &amp;amp; mlwin offer some multilevel functionality not available in Stata.&lt;/p&gt;
 
-&lt;p&gt;I consider it an open question whether the broader availability of these models is a universally good thing. As I noted in my 2007 SMJ &lt;a href=&#34;https://ghoetker.github.io/my-website/publication/use-of-logit&#34;&gt;paper&lt;/a&gt;, one reason for some of the shortcomings in the field’s use of logit models is that they “look” just like OLS regression in Stata. I didn’t enjoy learning the funny Greek notation for laying out a matrix in LISREL, but it mean I had to have a deeper understanding of what was gone on in the model than is required to set up and run an SEM model in Stata.&lt;/p&gt;
+&lt;p&gt;I consider it an open question whether the broader availability of these models is a universally good thing. As I noted in my 2007 SMJ &lt;a href=&#34;http://hoetker.faculty.asu.edu/publication/use-of-logit&#34;&gt;paper&lt;/a&gt;, one reason for some of the shortcomings in the field’s use of logit models is that they “look” just like OLS regression in Stata. I didn’t enjoy learning the funny Greek notation for laying out a matrix in LISREL, but it mean I had to have a deeper understanding of what was gone on in the model than is required to set up and run an SEM model in Stata.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A template for Stata .do files</title>
-      <link>https://ghoetker.github.io/my-website/post/template-for-stata-do-files/</link>
+      <link>http://hoetker.faculty.asu.edu/post/template-for-stata-do-files/</link>
       <pubDate>Tue, 07 Sep 2010 14:11:04 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/template-for-stata-do-files/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/template-for-stata-do-files/</guid>
       <description>
 
 &lt;p&gt;There are many different approaches to writing and documenting the many steps that go into an empirical project. J. Scott Long has a great book, &lt;em&gt;The Workflow of Data Analysis Using Stata&lt;/em&gt;, which I strongly recommend. He recommends developing a series of small, highly focused do files, which are run in sequence as needed. I take a different approach, which is keep all of a project&amp;rsquo;s code in one honking large do file, which is divided into sections. This posting provides more details about my approach. I&amp;rsquo;ve pasted a skeleton version of this below. To explain what I&amp;rsquo;m trying to do in several places, since this is pretty idiosyncratic.&lt;/p&gt;
@@ -186,10 +186,10 @@ use working_data
     
     <item>
       <title>Excel Is evil</title>
-      <link>https://ghoetker.github.io/my-website/post/excel-is-evil/</link>
+      <link>http://hoetker.faculty.asu.edu/post/excel-is-evil/</link>
       <pubDate>Tue, 07 Sep 2010 13:57:08 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/excel-is-evil/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/excel-is-evil/</guid>
       <description>
 
 &lt;p&gt;Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).&lt;/p&gt;
@@ -236,10 +236,10 @@ use working_data
     
     <item>
       <title>What statistical package should I use?</title>
-      <link>https://ghoetker.github.io/my-website/post/what-statistical-package/</link>
+      <link>http://hoetker.faculty.asu.edu/post/what-statistical-package/</link>
       <pubDate>Mon, 06 Sep 2010 18:12:23 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/what-statistical-package/</guid>
       <description>&lt;p&gt;This is an amazingly contentious question. My first answer is &amp;ldquo;If you are comfortable with a package and it is serving your needs, keep using it.&amp;rdquo; That can be complicated, of course, if you have a co-author dedicated to a given statistics package. If your only need to is pass data back and forth with that co-author, I strongly recommend Stat Transfer, which can convert from pretty much any statistical format to any other. Another consideration is the package most frequently used in your field.&lt;/p&gt;
 
 &lt;p&gt;If you are not already using a specific package, here are some (very idiosyncratic) observations on some of the more popular packages.&lt;/p&gt;

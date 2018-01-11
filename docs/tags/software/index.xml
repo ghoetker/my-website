@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Glenn Hoetker</title>
-    <link>https://ghoetker.github.io/my-website/tags/software/</link>
+    <link>http://hoetker.faculty.asu.edu/tags/software/</link>
     <description>Recent content in Software on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Update to Tools of the trade 1 -- Spelling and grammar checkers</title>
-      <link>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</link>
+      <link>http://hoetker.faculty.asu.edu/post/update-to-tools-of-the-trade-1/</link>
       <pubDate>Wed, 18 Jan 2017 15:00:15 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/update-to-tools-of-the-trade-1/</guid>
       <description>&lt;p&gt;Shortly after I posted Tools of the trade 1—Spelling and grammar checkers, version 3.0 of the Hemingway Editor became available.  The changes are evolutionary, rather than revolutionary, but provide some useful new features. The update is free to owners of version 2, which is generous for an update of this magnitude. &lt;/p&gt;
 
 &lt;p&gt;For scholarly writing, the most important changes are the ability to have multiple documents open at once and to import text directly from Markdown-formatted plain text documents, in addition to Word, which it could already do. I found a few issues when round-tripping a draft article from Word to Hemingway and back to Word. Tables were completely mangled and some formatting was lost.  The former is not surprising given Hemingway&amp;rsquo;s more general target audience and would be easy to work around.  Formatting issues seemed, based on quick perusal, to be more common in sections with lots of manual formatting (centering and underlining seemed to vanish, while italics remained).  Styles were retained, although the exported document didn&amp;rsquo;t seem to retain the same definition of those styles. It&amp;rsquo;s not hard to move style definitions between documents, but having to do so does introduce an additional step. Oddly, although it can only import .docx files (not the older .doc format), it exports .doc files.&lt;/p&gt;
@@ -29,11 +29,11 @@
     
     <item>
       <title>Tools of the Trade 1</title>
-      <link>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</link>
+      <link>http://hoetker.faculty.asu.edu/post/tools-of-the-trade-1/</link>
       <pubDate>Wed, 11 Jan 2017 15:08:10 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</guid>
-      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer &lt;a href=&#34;https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://hoetker.faculty.asu.edu/post/tools-of-the-trade-1/</guid>
+      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer &lt;a href=&#34;http://hoetker.faculty.asu.edu/post/reasons-to-prefer-a-mac&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Many, perhaps most, of us choose our tools fairly casually. Inertia may be the primary determinant of what we use. However, scholarship places different demands on our tools, so a more deliberate consideration of options can be worthwhile. The word processor or presentation software you&amp;rsquo;ve used for years may or may not be the best choice for your scholarly work. Also, some useful tools like bibliographic information managers (Zotero, EndNote, etc.) are probably outside of your prior experience.&lt;/p&gt;
 
@@ -50,7 +50,7 @@
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Grammarly.png&#34; /&gt;
+        &lt;img src=&#34;http://hoetker.faculty.asu.edu/img/Grammarly.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -63,7 +63,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/HemingwayEditor.png&#34; /&gt;
+        &lt;img src=&#34;http://hoetker.faculty.asu.edu/img/HemingwayEditor.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -91,19 +91,19 @@
     
     <item>
       <title>Using Mindmapping software for class preparation</title>
-      <link>https://ghoetker.github.io/my-website/post/mindmap-for-class-prep/</link>
+      <link>http://hoetker.faculty.asu.edu/post/mindmap-for-class-prep/</link>
       <pubDate>Wed, 21 Dec 2016 15:55:54 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/mindmap-for-class-prep/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/mindmap-for-class-prep/</guid>
       <description>&lt;p&gt;Mindmapping has been around for a long time in various forms and there are many software packages available. In this post, I discuss how I use iThoughtsX to plan my classes. Nothing I&amp;rsquo;ll discuss is specific to iThoughts since many other packages offer similar features. Having tried most of them, I&amp;rsquo;ve found that iThoughts best meets my working style. I especially appreciate its amazing export options and the fact that files move seamlessly from its Mac to iPad versions.&lt;/p&gt;
 
 &lt;p&gt;As shown below, I&amp;rsquo;ve made a map for my class. Each of the branches shown has many sub-branches.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtPreview1.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/iThoughtPreview1.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 ￼&lt;br /&gt;
 This makes it a great tool for the doodling around stage of planning, especially since moving an item from one branch to another is so quick.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtsmovingItems.gif&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/iThoughtsmovingItems.gif&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 ￼&lt;br /&gt;
 It also gives me a place to store items I come across between times I teach, so there are all in one place when I come back to prepare for the next edition of the class. I can tag new items with the pencil icon to give me a visual clue that these are new since last time I taught (there are a slew of additional icons available and you can search or filter using them).&lt;/p&gt;
 
@@ -122,23 +122,23 @@ It also gives me a place to store items I come across between times I teach, so 
 
 &lt;p&gt;The last two items on that list depends on other geeky technology, but even iThoughts itself it can do amazing things. The material that will become the syllabus all resides in the &amp;ldquo;Class Sessions&amp;rdquo; node. First I created a node for each subject module and each class session therein. Because of how easy it is the create/delete branches and move items between branches, I started with a very rough outline and refined it as I went. In the same way, it was trivial to reorganize the subject modules between annual editions of the class.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme8_540.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/iThoughtspreviewme8_540.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Within each class, I created nodes for Readings and Assignments. Having created it once, I copy-pasted it to the other sessions. If appropriate, I added subdivisions for the readings in each class. Then, I created nodes for each reading. For most of them, I copied information over from EndNote, which is how I organize my reference library. I&amp;rsquo;ve set iThought to automatically alphabetize items for me.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme4_860.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/iThoughtspreviewme4_860.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The arrow on the node indicates that there is a link associated with it. That can be a link to a website or to a file (created by dragging the file onto a node). Clicking on the arrow will open the associated file, which makes it easy to re-examine items (&amp;ldquo;How long was the Carlson paper?&amp;rdquo;). I can also add notes for each node, either for myself or, as in this case, to become part of the syllabus.&lt;/p&gt;
 
-&lt;p&gt;￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme5.png&#34; alt=&#34;&#34; /&gt;￼&lt;/p&gt;
+&lt;p&gt;￼&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/iThoughtspreviewme5.png&#34; alt=&#34;&#34; /&gt;￼&lt;/p&gt;
 
 &lt;p&gt;Each node can also be associated with task management information, which I&amp;rsquo;ve repurposed. Here, I&amp;rsquo;ve tagged a class session with the date it occurs, how many days it will take and marked its progress as &amp;ldquo;Rollup&amp;rdquo;, that is, what proportion of the nodes below it have been completed.&lt;/p&gt;
 
-&lt;p&gt;￼￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtsPreviewme7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;￼￼&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/iThoughtsPreviewme7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This allows me to see that I&amp;rsquo;ve completed the &amp;ldquo;Setting the stage&amp;rdquo; module (the checkmark) and that I&amp;rsquo;ve dedicated 3 class sessions to it. Because this all updates dynamically, I can trivially track that I&amp;rsquo;ve not dedicated too much time to any one subject and have stayed within the 16 class session I have.&lt;/p&gt;
 
-&lt;p&gt;￼￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme3.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;￼￼&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/iThoughtspreviewme3.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
 ￼&lt;br /&gt;
 Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts export capabilities, which include exporting to a PDF, a website, images, Word/Excel/Powerpoint (with lots of flexibility), other mindmapping formats, and Markdown. Simply exporting to Word would give one a great start on the Syllabus, needing minimal additional formatting. To leverage the other systems I have in place, I go another route, which I&amp;rsquo;ll &lt;em&gt;briefly&lt;/em&gt; describe just to give a flavor of what is possible.&lt;/p&gt;
 
@@ -156,10 +156,10 @@ Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts expo
     
     <item>
       <title>Reasons to Prefer a Mac</title>
-      <link>https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac/</link>
+      <link>http://hoetker.faculty.asu.edu/post/reasons-to-prefer-a-mac/</link>
       <pubDate>Thu, 06 Feb 2014 16:06:49 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/reasons-to-prefer-a-mac/</guid>
       <description>
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -194,17 +194,17 @@ Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts expo
     
     <item>
       <title>Stata Project Feature</title>
-      <link>https://ghoetker.github.io/my-website/post/stata-project-feature/</link>
+      <link>http://hoetker.faculty.asu.edu/post/stata-project-feature/</link>
       <pubDate>Wed, 06 Nov 2013 17:58:54 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/stata-project-feature/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/stata-project-feature/</guid>
       <description>&lt;p&gt;One of the features of Stata 13 and later is “Projects”, which are meant to provide easier access to multiple files related to a, well, project you are working on. The files can be do files, data, logs, graphs, etc. In fact, they don’t even need to be Stata files. One advantage I have found is that they make it possible to maintain a strict organization of certain types of files going in certain directories, while still having access to all of those files from one pane within Stata.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/stataProject1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So, this project gives easy to access to data, do files, a text file mapping variables to hypotheses and, eventually, results. Setting up and managing a project isn&amp;rsquo;t quite as automatic as I wish it was. For example, I haven&amp;rsquo;t found a way to have a &amp;ldquo;template&amp;rdquo; to set up a new project just as I want. But, it&amp;rsquo;s still pretty useful.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://hoetker.faculty.asu.edu/img/stataProject2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Equally useful if you have multiple projects going is the fact that opening a project by double clicking it opens up Stata and changes its working directory to whichever directory the project file sits in. So, on my Mac, I have a smart folder set up with &amp;ldquo;Kind is Stata Project File&amp;rdquo;. This folder is dynamically filled with aliases to all the Stata project files on my computer. I&amp;rsquo;ve dragged that smart folder to my dock and now have, effectively, a pop up menu that can take me to any of my ongoing projects, ready to go. I suspect Windows has some way to do something similar.&lt;/p&gt;
 </description>
@@ -212,24 +212,24 @@ Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts expo
     
     <item>
       <title>UPDATE OF &#39;&#39;What statistical package should I use?&#39;&#39;</title>
-      <link>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</link>
+      <link>http://hoetker.faculty.asu.edu/post/what-statistical-package-update-1/</link>
       <pubDate>Tue, 06 Sep 2011 18:07:47 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</guid>
-      <description>&lt;p&gt;Technological progress continues. In an older &lt;a href=&#34;https://ghoetker.github.io/my-website/post/what-statistical-package&#34;&gt;posting&lt;/a&gt;, I mentioned the role of specialized packages that addressed models not available in the general purpose software, such as LISREL for structural equation modeling (SEM). That example is now somewhat moot, as Stata 12 has an extensive SEM capability and new add-ons for R allow modeling of SEMs. I suspect that if I were a power user, I would find limitations in Stata/R relative to the dedicated packages, but at my level, I haven’t found them.&lt;/p&gt;
+      <guid>http://hoetker.faculty.asu.edu/post/what-statistical-package-update-1/</guid>
+      <description>&lt;p&gt;Technological progress continues. In an older &lt;a href=&#34;http://hoetker.faculty.asu.edu/post/what-statistical-package&#34;&gt;posting&lt;/a&gt;, I mentioned the role of specialized packages that addressed models not available in the general purpose software, such as LISREL for structural equation modeling (SEM). That example is now somewhat moot, as Stata 12 has an extensive SEM capability and new add-ons for R allow modeling of SEMs. I suspect that if I were a power user, I would find limitations in Stata/R relative to the dedicated packages, but at my level, I haven’t found them.&lt;/p&gt;
 
 &lt;p&gt;Of course, there are still uses for dedicated packages. From the viewpoint of a Stata user, TDA still offers a few unique features for survival time modeling and HLM &amp;amp; mlwin offer some multilevel functionality not available in Stata.&lt;/p&gt;
 
-&lt;p&gt;I consider it an open question whether the broader availability of these models is a universally good thing. As I noted in my 2007 SMJ &lt;a href=&#34;https://ghoetker.github.io/my-website/publication/use-of-logit&#34;&gt;paper&lt;/a&gt;, one reason for some of the shortcomings in the field’s use of logit models is that they “look” just like OLS regression in Stata. I didn’t enjoy learning the funny Greek notation for laying out a matrix in LISREL, but it mean I had to have a deeper understanding of what was gone on in the model than is required to set up and run an SEM model in Stata.&lt;/p&gt;
+&lt;p&gt;I consider it an open question whether the broader availability of these models is a universally good thing. As I noted in my 2007 SMJ &lt;a href=&#34;http://hoetker.faculty.asu.edu/publication/use-of-logit&#34;&gt;paper&lt;/a&gt;, one reason for some of the shortcomings in the field’s use of logit models is that they “look” just like OLS regression in Stata. I didn’t enjoy learning the funny Greek notation for laying out a matrix in LISREL, but it mean I had to have a deeper understanding of what was gone on in the model than is required to set up and run an SEM model in Stata.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A template for Stata .do files</title>
-      <link>https://ghoetker.github.io/my-website/post/template-for-stata-do-files/</link>
+      <link>http://hoetker.faculty.asu.edu/post/template-for-stata-do-files/</link>
       <pubDate>Tue, 07 Sep 2010 14:11:04 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/template-for-stata-do-files/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/template-for-stata-do-files/</guid>
       <description>
 
 &lt;p&gt;There are many different approaches to writing and documenting the many steps that go into an empirical project. J. Scott Long has a great book, &lt;em&gt;The Workflow of Data Analysis Using Stata&lt;/em&gt;, which I strongly recommend. He recommends developing a series of small, highly focused do files, which are run in sequence as needed. I take a different approach, which is keep all of a project&amp;rsquo;s code in one honking large do file, which is divided into sections. This posting provides more details about my approach. I&amp;rsquo;ve pasted a skeleton version of this below. To explain what I&amp;rsquo;m trying to do in several places, since this is pretty idiosyncratic.&lt;/p&gt;
@@ -335,10 +335,10 @@ use working_data
     
     <item>
       <title>Excel Is evil</title>
-      <link>https://ghoetker.github.io/my-website/post/excel-is-evil/</link>
+      <link>http://hoetker.faculty.asu.edu/post/excel-is-evil/</link>
       <pubDate>Tue, 07 Sep 2010 13:57:08 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/excel-is-evil/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/excel-is-evil/</guid>
       <description>
 
 &lt;p&gt;Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).&lt;/p&gt;
@@ -385,10 +385,10 @@ use working_data
     
     <item>
       <title>What statistical package should I use?</title>
-      <link>https://ghoetker.github.io/my-website/post/what-statistical-package/</link>
+      <link>http://hoetker.faculty.asu.edu/post/what-statistical-package/</link>
       <pubDate>Mon, 06 Sep 2010 18:12:23 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package/</guid>
+      <guid>http://hoetker.faculty.asu.edu/post/what-statistical-package/</guid>
       <description>&lt;p&gt;This is an amazingly contentious question. My first answer is &amp;ldquo;If you are comfortable with a package and it is serving your needs, keep using it.&amp;rdquo; That can be complicated, of course, if you have a co-author dedicated to a given statistics package. If your only need to is pass data back and forth with that co-author, I strongly recommend Stat Transfer, which can convert from pretty much any statistical format to any other. Another consideration is the package most frequently used in your field.&lt;/p&gt;
 
 &lt;p&gt;If you are not already using a specific package, here are some (very idiosyncratic) observations on some of the more popular packages.&lt;/p&gt;
