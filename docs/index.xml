@@ -30,6 +30,33 @@
     </item>
     
     <item>
+      <title>Ties that bind? The differential ability of de alio and de novo firms to leverage external relationships when confronted with a disruptive technology</title>
+      <link>https://ghoetker.github.io/my-website/publication/ties-that-bind/</link>
+      <pubDate>Fri, 05 Jan 2018 21:17:32 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/ties-that-bind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are &#39;&#39;U&#39;&#39; sure? Improving the theoretical and empirical investigation of curvilinear relationships in strategy research</title>
+      <link>https://ghoetker.github.io/my-website/publication/potentially-diminishing-returns/</link>
+      <pubDate>Fri, 05 Jan 2018 21:08:56 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/potentially-diminishing-returns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doing well by ‘doing good’ and ‘saying good’: The effects and mechanisms of environmental actions and language on employees’ taking charge</title>
+      <link>https://ghoetker.github.io/my-website/publication/doing-well/</link>
+      <pubDate>Mon, 01 Jan 2018 21:26:36 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/doing-well/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Update to Tools of the trade 1 -- Spelling and grammar checkers</title>
       <link>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</link>
       <pubDate>Wed, 18 Jan 2017 15:00:15 -0700</pubDate>
@@ -52,7 +79,7 @@
       <pubDate>Wed, 11 Jan 2017 15:08:10 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</guid>
-      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer here XXX. &lt;/p&gt;
+      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer &lt;a href=&#34;https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Many, perhaps most, of us choose our tools fairly casually. Inertia may be the primary determinant of what we use. However, scholarship places different demands on our tools, so a more deliberate consideration of options can be worthwhile. The word processor or presentation software you&amp;rsquo;ve used for years may or may not be the best choice for your scholarly work. Also, some useful tools like bibliographic information managers (Zotero, EndNote, etc.) are probably outside of your prior experience.&lt;/p&gt;
 
@@ -161,8 +188,7 @@ It also gives me a place to store items I come across between times I teach, so 
 ￼&lt;br /&gt;
 Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts export capabilities, which include exporting to a PDF, a website, images, Word/Excel/Powerpoint (with lots of flexibility), other mindmapping formats, and Markdown. Simply exporting to Word would give one a great start on the Syllabus, needing minimal additional formatting. To leverage the other systems I have in place, I go another route, which I&amp;rsquo;ll &lt;em&gt;briefly&lt;/em&gt; describe just to give a flavor of what is possible.&lt;/p&gt;
 
-&lt;p&gt;First, I export everything in the &amp;ldquo;Class sessions&amp;rdquo; node as a comma-delimited .csv file. I use a short Python script to extract information on each reading, which is used to copy the PDFs for each session into an appropriately named folder. Compiling all the PDFs in this way takes under 10 seconds and guarantees I don&amp;rsquo;t omit a reading. Second, I export as a Markdown file. Markdown, if you&amp;rsquo;ve not encountered it, is a plain text format meant to create a document that is easy for humans to read, not locked into any proprietary format (Word, Pages, etc.), yet able to be translated into PDFs, websites, Word documents, etc. For my purposes here, the key thing is that Markdown is plain text, which means I can take advantage of basic Unix (Python, etc.) tools to tweak it to exactly how I want it&amp;ndash;removing some exported information I don&amp;rsquo;t care about, etc. Then I use the amazing (and free) pandoc software to turn the Markdown into a LaTex file, which I compile into a beautiful PDF. Because I&amp;rsquo;ve written a shell script to do the tweaking and have a LaTeX template set up, I can go from export to completed PDF in about 20 seconds (see&lt;br /&gt;
-XXX this posting for the finished product).&lt;/p&gt;
+&lt;p&gt;First, I export everything in the &amp;ldquo;Class sessions&amp;rdquo; node as a comma-delimited .csv file. I use a short Python script to extract information on each reading, which is used to copy the PDFs for each session into an appropriately named folder. Compiling all the PDFs in this way takes under 10 seconds and guarantees I don&amp;rsquo;t omit a reading. Second, I export as a Markdown file. Markdown, if you&amp;rsquo;ve not encountered it, is a plain text format meant to create a document that is easy for humans to read, not locked into any proprietary format (Word, Pages, etc.), yet able to be translated into PDFs, websites, Word documents, etc. For my purposes here, the key thing is that Markdown is plain text, which means I can take advantage of basic Unix (Python, etc.) tools to tweak it to exactly how I want it&amp;ndash;removing some exported information I don&amp;rsquo;t care about, etc. Then I use the amazing (and free) pandoc software to turn the Markdown into a LaTex file, which I compile into a beautiful PDF. Because I&amp;rsquo;ve written a shell script to do the tweaking and have a LaTeX template set up, I can go from export to completed PDF in about 20 seconds.&lt;/p&gt;
 
 &lt;p&gt;Obviously, this is a time-saver (once I used it enough to make up for the development time involved). More importantly, it frees me to refine my class plan without friction. If I want to add a reading, move a reading between sessions, combine two sessions, etc., I simply do so in the mindmap document. In well under a minute, I will have an up-to-date syllabus and folder of organized readings, with no chance for error. It is easy to keep my class up to date and I&amp;rsquo;ve been more willing/able to experiment with alternative organizations.&lt;/p&gt;
 
@@ -338,57 +364,6 @@ Sample post: Improve Your PowerPoint Design with One Simple Rule&lt;/p&gt;
 &lt;p&gt;Thesis whisperer: &lt;a href=&#34;http://thesiswhisperer.com&#34; target=&#34;_blank&#34;&gt;http://thesiswhisperer.com&lt;/a&gt;&lt;br /&gt;
 Sample post: &lt;a href=&#34;https://thesiswhisperer.com/2013/07/10/four-ways-to-rock-your-next-talk/&#34; target=&#34;_blank&#34;&gt;Four Ways to Rock Your Next Talk&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Naming variables, especially in Stata</title>
-      <link>https://ghoetker.github.io/my-website/post/naming-variables/</link>
-      <pubDate>Wed, 06 Nov 2013 17:38:34 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/post/naming-variables/</guid>
-      <description>&lt;p&gt;A consistent scheme for naming your variables is very helpful. It makes coming back to a project after it’s been under review for 3 months much easier and is especially valuable when collaborating with someone else. This is one of those points where there are bad practices and good practices, but no &amp;ldquo;right&amp;rdquo; practice. More important is consistent project within (ideally across) projects. So, as a starting point for your consideration, here is what I have developed over time, through lots of trial and error. I think this approach make it easy to find variables and understand their provenance.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re aiming for a balance of quick and easy to type, while being easy to understand. Remember that Stata allows us to use descriptive labels for output, meaning the reader won&amp;rsquo;t ever see our variables name, so don&amp;rsquo;t call a variable, &lt;em&gt;theYearThatYourParentsEnteredTheCountry&lt;/em&gt;. Something like &lt;em&gt;yearParentsEntered&lt;/em&gt; is sufficiently descriptive. On the other hand, &lt;em&gt;ype&lt;/em&gt; is probably going too far in abbreviation.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Capitalization&lt;/em&gt;. My strongest feeling here is to avoid ALLCAPS names. They are hard to read, hard to type, and scream 1990s software. Favor, instead, lower case. Well, actually, what&amp;rsquo;s called &amp;ldquo;Camel case&amp;rdquo; by some, since it has &amp;ldquo;humps&amp;rdquo; in the middle. For example, &lt;em&gt;workEthic&lt;/em&gt;. I find that relatively easy to read and type.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Modified variables&lt;/em&gt;. Indications of modifications of variables go at the end. This has several advantages. If we want to describe all versions of the workEthic variable, we can use the command &lt;code&gt;describe workEthic*&lt;/code&gt;. We can also take advantage of auto-complete more easily. Examples to follow include:&lt;/p&gt;
-
-&lt;p&gt;•   &lt;em&gt;workEthicSq&lt;/em&gt;. The square of &lt;em&gt;workEthic&lt;/em&gt;.&lt;br /&gt;
-•   &lt;em&gt;workEthicCu&lt;/em&gt;. The cube of &lt;em&gt;workEthic&lt;/em&gt;.&lt;br /&gt;
-•   &lt;em&gt;workEthicC&lt;/em&gt;. The centered version of &lt;em&gt;workEthic&lt;/em&gt;.&lt;br /&gt;
-•   &lt;em&gt;workEthicSt&lt;/em&gt; The standardized (mean 0, sd 1) version of &lt;em&gt;workEthic&lt;/em&gt;.&lt;br /&gt;
-•   &lt;em&gt;workEthic&lt;/em&gt; and &lt;em&gt;workEthic2&lt;/em&gt;. Suppose we have two ways we&amp;rsquo;ve measured work ethic. Perhaps the first is based on the average of three variables and the second is based on the average of just two of those variables. Name one of those &lt;em&gt;workEthic&lt;/em&gt; and the other &lt;em&gt;workEthic2&lt;/em&gt;. A third version would be, of course, &lt;em&gt;worthEthic3&lt;/em&gt;. We want to avoid the confusion that results from having multiple versions of a variable with the same name. We don&amp;rsquo;t want to wonder which &lt;em&gt;workEthic&lt;/em&gt; was used in a given regression.&lt;/p&gt;
-
-&lt;p&gt;Add indicators of modification in the order in which the modifications were made, from left to right. So, &lt;em&gt;workEthic2CSq&lt;/em&gt; means we took the second version of &lt;em&gt;workEthic&lt;/em&gt;, centered it, and then squared that. &lt;em&gt;workEthic2SqC&lt;/em&gt; means we took the second version of workEthic, squared that, and then centered the result (which is a really weird thing to do). &lt;em&gt;workEthic1C&lt;/em&gt; and &lt;em&gt;workEthic2C&lt;/em&gt; are the results of centering the first and second versions of &lt;em&gt;workEthic&lt;/em&gt;, respectively.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;yr2000&lt;/em&gt;. Stata doesn&amp;rsquo;t allow variables to start with a number. This is most often a problem when raw data has observations labeled by year, e.g, &amp;ldquo;2000&amp;rdquo;. Renaming by prepending &amp;ldquo;yr&amp;rdquo; is helpful when it comes time to reshape the data, as it allows us to refer to the stub &amp;ldquo;yr&amp;rdquo;. If we just preceded the variable with &amp;ldquo;y&amp;rdquo; (as I used to, sigh), then if you have a variable named &lt;em&gt;youngKids&lt;/em&gt;, you have to take extra steps to work around it. Very few other variable names start with &amp;ldquo;yr&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;There are some characters allowed in variable names in programs that don&amp;rsquo;t work well or at all in Stata. These include ampersands, dashes, hashmarks(#), periods, commas, parentheses, question marks, exclamation marks, asterisks, and probably about any other punctuation.&lt;/p&gt;
-
-&lt;p&gt;Just FYI, here&amp;rsquo;s why I now avoid several things I used to do. I no longer use underscores, e.g., _work&lt;em&gt;ethic&lt;/em&gt;, because they add lots of typing and add length to variable names without adding information or much readability over camelCase. I don&amp;rsquo;t use the number &amp;ldquo;2&amp;rdquo; to indicated squared variables, e.g., _workEthic&lt;em&gt;2&lt;/em&gt;, because it can be confused with the version of the variable. Lastly, I try to avoid descriptors such as &amp;ldquo;original&amp;rdquo;, &amp;ldquo;new&amp;rdquo;, &amp;ldquo;old&amp;rdquo;, &amp;ldquo;main&amp;rdquo;, &amp;ldquo;regular&amp;rdquo;, &amp;ldquo;alternative&amp;rdquo;, etc., because they aren&amp;rsquo;t easy to standardize and tend to pile up over time. Which came first, &lt;em&gt;workEthicNew&lt;/em&gt; or &lt;em&gt;workEthicAlternative&lt;/em&gt;? Did &lt;em&gt;workEthicOriginal&lt;/em&gt; come as is from the raw data or was it or first attempt at forming the measure? Etc.&lt;/p&gt;
-
-&lt;p&gt;You will often get data in which these norms have not been followed. Actually, I&amp;rsquo;ve never gotten raw data in which they have all been followed. It&amp;rsquo;s not worth renaming all of the original variables, especially if a lot of them won&amp;rsquo;t be used. My preference would be to add lines to the variable manipulation version of the do file if and when it becomes obvious that we&amp;rsquo;ll use a variable. So, if we&amp;rsquo;re going to use &lt;em&gt;var1&lt;/em&gt; a lot, it&amp;rsquo;s worth doing &lt;code&gt;clonevar var1 yearPartentsEntered&lt;/code&gt; and subsequently using &lt;em&gt;yearPartentsEntered&lt;/em&gt;. If you group those together in the code, it&amp;rsquo;s pretty easy to track down the original origin of any variable.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, if you are going to average ten measures called &lt;em&gt;Var1&lt;/em&gt; through &lt;em&gt;Var10&lt;/em&gt; to generate the &lt;em&gt;workEthic&lt;/em&gt; variable and then just use that, I probably wouldn&amp;rsquo;t bother renaming the original variables either to the camelCased &lt;em&gt;var1&lt;/em&gt; or to the more informative &lt;em&gt;finishJobImportant&lt;/em&gt;, &lt;em&gt;lazyPeopleBad&lt;/em&gt;, etc. Just not worth it when we can just do &lt;code&gt;egen workEthic=rmean(Var1-Var10)&lt;/code&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Reconceptualizing Plural Sourcing</title>
-      <link>https://ghoetker.github.io/my-website/publication/reconceptualizing-plural-sourcing-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 15:03:08 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/publication/reconceptualizing-plural-sourcing-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using open innovation to leverage Japan’s strengths (オープン・イノペーションで日本の強みを活かす)</title>
-      <link>https://ghoetker.github.io/my-website/publication/leveraging-open-innovation-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 14:13:41 -0700</pubDate>
-      
-      <guid>https://ghoetker.github.io/my-website/publication/leveraging-open-innovation-2013/</guid>
-      <description></description>
     </item>
     
   </channel>

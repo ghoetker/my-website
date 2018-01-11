@@ -19,7 +19,7 @@ caption = ""
 preview = true
 
 +++
-This is the first of a series of posts on "Tools of the trade." It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer here XXX. <!--more-->
+This is the first of a series of posts on "Tools of the trade." It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer [here](/post/reasons-to-prefer-a-mac).<!--more-->
 
 Many, perhaps most, of us choose our tools fairly casually. Inertia may be the primary determinant of what we use. However, scholarship places different demands on our tools, so a more deliberate consideration of options can be worthwhile. The word processor or presentation software you've used for years may or may not be the best choice for your scholarly work. Also, some useful tools like bibliographic information managers (Zotero, EndNote, etc.) are probably outside of your prior experience.
 
