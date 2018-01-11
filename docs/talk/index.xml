@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Glenn Hoetker</title>
-    <link>http://hoetker.faculty.asu.edu/talk/</link>
+    <link>https://ghoetker.github.io/my-website/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

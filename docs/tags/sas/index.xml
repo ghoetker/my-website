@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SAS on Glenn Hoetker</title>
-    <link>http://hoetker.faculty.asu.edu/tags/sas/</link>
+    <link>https://ghoetker.github.io/my-website/tags/sas/</link>
     <description>Recent content in SAS on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>What statistical package should I use?</title>
-      <link>http://hoetker.faculty.asu.edu/post/what-statistical-package/</link>
+      <link>https://ghoetker.github.io/my-website/post/what-statistical-package/</link>
       <pubDate>Mon, 06 Sep 2010 18:12:23 -0700</pubDate>
       
-      <guid>http://hoetker.faculty.asu.edu/post/what-statistical-package/</guid>
+      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package/</guid>
       <description>&lt;p&gt;This is an amazingly contentious question. My first answer is &amp;ldquo;If you are comfortable with a package and it is serving your needs, keep using it.&amp;rdquo; That can be complicated, of course, if you have a co-author dedicated to a given statistics package. If your only need to is pass data back and forth with that co-author, I strongly recommend Stat Transfer, which can convert from pretty much any statistical format to any other. Another consideration is the package most frequently used in your field.&lt;/p&gt;
 
 &lt;p&gt;If you are not already using a specific package, here are some (very idiosyncratic) observations on some of the more popular packages.&lt;/p&gt;

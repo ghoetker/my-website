@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentations on Glenn Hoetker</title>
-    <link>http://hoetker.faculty.asu.edu/categories/presentations/</link>
+    <link>https://ghoetker.github.io/my-website/categories/presentations/</link>
     <description>Recent content in Presentations on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>Creating your research identity</title>
-      <link>http://hoetker.faculty.asu.edu/post/creating-your-research-identity/</link>
+      <link>https://ghoetker.github.io/my-website/post/creating-your-research-identity/</link>
       <pubDate>Sun, 11 Dec 2016 15:08:10 -0700</pubDate>
       
-      <guid>http://hoetker.faculty.asu.edu/post/creating-your-research-identity/</guid>
+      <guid>https://ghoetker.github.io/my-website/post/creating-your-research-identity/</guid>
       <description>
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://hoetker.faculty.asu.edu/img/research_identity.png&#34; width=&#34;50%&#34; /&gt;
+        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/research_identity.png&#34; width=&#34;50%&#34; /&gt;
     
     
 &lt;/figure&gt;
 
 
-&lt;p&gt;A &lt;a href=&#34;http://hoetker.faculty.asu.edu/pdf/Maintain_research_stream.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;  from the doctoral workshop at the 2016 West Coast Research Symposium on Innovation and Entrepreneurship.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/Maintain_research_stream.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;  from the doctoral workshop at the 2016 West Coast Research Symposium on Innovation and Entrepreneurship.&lt;/p&gt;
 </description>
     </item>
     

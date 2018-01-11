@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 on Glenn Hoetker</title>
-    <link>http://hoetker.faculty.asu.edu/publication_types/6/</link>
+    <link>https://ghoetker.github.io/my-website/publication_types/6/</link>
     <description>Recent content in 6 on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>NK modeling methodology in the strategy literature: Bounded search on a rugged landscape</title>
-      <link>http://hoetker.faculty.asu.edu/publication/nk-modeling/</link>
+      <link>https://ghoetker.github.io/my-website/publication/nk-modeling/</link>
       <pubDate>Thu, 01 Jan 2009 15:33:59 -0700</pubDate>
       
-      <guid>http://hoetker.faculty.asu.edu/publication/nk-modeling/</guid>
+      <guid>https://ghoetker.github.io/my-website/publication/nk-modeling/</guid>
       <description></description>
     </item>
     

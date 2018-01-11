@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Excel on Glenn Hoetker</title>
-    <link>http://hoetker.faculty.asu.edu/tags/excel/</link>
+    <link>https://ghoetker.github.io/my-website/tags/excel/</link>
     <description>Recent content in Excel on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Excel Is evil</title>
-      <link>http://hoetker.faculty.asu.edu/post/excel-is-evil/</link>
+      <link>https://ghoetker.github.io/my-website/post/excel-is-evil/</link>
       <pubDate>Tue, 07 Sep 2010 13:57:08 -0700</pubDate>
       
-      <guid>http://hoetker.faculty.asu.edu/post/excel-is-evil/</guid>
+      <guid>https://ghoetker.github.io/my-website/post/excel-is-evil/</guid>
       <description>
 
 &lt;p&gt;Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).&lt;/p&gt;

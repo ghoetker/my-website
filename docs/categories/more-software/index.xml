@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>More software on Glenn Hoetker</title>
-    <link>http://hoetker.faculty.asu.edu/categories/more-software/</link>
+    <link>https://ghoetker.github.io/my-website/categories/more-software/</link>
     <description>Recent content in More software on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,11 +12,11 @@
     
     <item>
       <title>Tools of the Trade 1</title>
-      <link>http://hoetker.faculty.asu.edu/post/tools-of-the-trade-1/</link>
+      <link>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</link>
       <pubDate>Wed, 11 Jan 2017 15:08:10 -0700</pubDate>
       
-      <guid>http://hoetker.faculty.asu.edu/post/tools-of-the-trade-1/</guid>
-      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer &lt;a href=&#34;http://hoetker.faculty.asu.edu/post/reasons-to-prefer-a-mac&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <guid>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</guid>
+      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer &lt;a href=&#34;https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Many, perhaps most, of us choose our tools fairly casually. Inertia may be the primary determinant of what we use. However, scholarship places different demands on our tools, so a more deliberate consideration of options can be worthwhile. The word processor or presentation software you&amp;rsquo;ve used for years may or may not be the best choice for your scholarly work. Also, some useful tools like bibliographic information managers (Zotero, EndNote, etc.) are probably outside of your prior experience.&lt;/p&gt;
 
@@ -33,7 +33,7 @@
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://hoetker.faculty.asu.edu/img/Grammarly.png&#34; /&gt;
+        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Grammarly.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -46,7 +46,7 @@
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://hoetker.faculty.asu.edu/img/HemingwayEditor.png&#34; /&gt;
+        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/HemingwayEditor.png&#34; /&gt;
     
     
     &lt;figcaption&gt;
