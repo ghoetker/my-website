@@ -15,7 +15,8 @@ copyright = "&copy; 2018"
 
 # set the Publish directory to /docs
 # this is flagged in Github "Settings > Github Pages > Publish master/docs"
-publishDir = 'docs'
+# publishDir = 'docs'  #For Github pages
+publishDir = 'forASU'
 
 theme = "academic"
 enableEmoji = true
@@ -278,10 +279,10 @@ defaultContentLanguageInSubdir = false
 #   url = "#projects"
 #   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "#teaching"
+#   weight = 5
 
 [[menu.main]]
   name = "Contact"
