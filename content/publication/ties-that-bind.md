@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Strategic renewal", "Technology adoption", "Buyer-supplier relationship", "De alio vs. de novo"]
+tags = ["Strategic renewal", "Technology adoption",  "Buyer-supplier relationships", "De alio vs. de novo"]
 
 # Links (optional).
 url_pdf = ""

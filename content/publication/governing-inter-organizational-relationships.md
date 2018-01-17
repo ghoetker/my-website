@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Governance choice", "Alliances", "Buyer-supplier relationship"]
+tags = ["Governance choice", "Alliances",  "Buyer-supplier relationships"]
 
 # Links (optional).
 url_pdf ="pdf/Mellewigt-2006-Governing-00"

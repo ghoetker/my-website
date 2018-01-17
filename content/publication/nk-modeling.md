@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Methodology", "NK modeling"]
+tags = ["Research methods", "NK modeling"]
 
 # Links (optional).
 url_pdf = "pdf/Ganco-2009-NK modeling-00.pdf"

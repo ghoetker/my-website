@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Methodology","Logit", "Probit"]
+tags = ["Research methods","Logit", "Probit"]
 
 # Links (optional).
 url_pdf = "pdf/Hoetker-2007-The use of logit-00.pdf"

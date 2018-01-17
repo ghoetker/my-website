@@ -8,7 +8,7 @@ highlight = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Stata", "Statistical packages", "Software", "R", "SPSS", "SAS"]
+tags = ["Stata", "Statistical packages", "Software"]
 categories = []
 
 # Featured image

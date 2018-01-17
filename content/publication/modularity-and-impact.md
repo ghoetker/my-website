@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Modularity", "Buyer-supplier relationship", "Automotive industry"]
+tags = ["Modularity",  "Buyer-supplier relationships", "Automotive industry"]
 
 # Links (optional).
 url_pdf = "pdf/Hoetker-2007-Modularity-00.pdf"

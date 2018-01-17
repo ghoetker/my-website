@@ -39,7 +39,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Pre-entry experience", "Buyer-supplier relationship", "Industry evolution", "Governance", "Value chain activity"]
+tags = ["Pre-entry experience",  "Buyer-supplier relationships", "Industry evolution", "Governance choice", "Value chain activity"]
 
 # Links (optional).
 url_pdf = "pdf/Qian-2012-Configuration-00.pdf"
