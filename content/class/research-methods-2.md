@@ -1,5 +1,5 @@
 +++
-title = "Research Methods 2"
+title = "Research Methods 2 (Doctoral)"
 date = 2018-01-01T15:08:10-07:00
 draft = false
 

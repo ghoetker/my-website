@@ -1,12 +1,14 @@
 +++
-title = "Innovation Strategy (Doctoral)"
-date = 2013-09-01T19:08:36-07:00
+title = "Research Presentation Seminar (Doctoral)"
+date = 2015-01-18T19:37:08-07:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = ["Doctoral"]
+
+# TODO Make the categories actually do something.
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -19,10 +21,11 @@ caption = ""
 preview = true
 
 +++
-This was a 5 week special topics module for both our macro and micro students.
+
+This class gives doctoral students a safe, structured environment in which to develop and present their research, as well as practice the craft of scholarly critique.
 
 ## Syllabus
 
-Click {{% staticref "pdf/classes/syllabus_innovation_mgt791.pdf" "newtab"%}}here{{% /staticref %}} to download.
+Click {{% staticref "pdf/classes/Research Presentation Seminar.pdf" "newtab"%}}here{{% /staticref %}} to download.
 
-<embed src="/pdf/classes/syllabus_innovation_mgt791.pdf" type="application/pdf" width="100%" height="1200px">
+<embed src="/pdf/classes/Research Presentation Seminar.pdf" type="application/pdf" width="100%" height="1200px">

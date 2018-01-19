@@ -24,3 +24,7 @@ weight = 60
 ## Past classes
 
 * [Innovation Strategy (Doctoral)]({{< ref "class/innovation-strategy.md" >}})
+* [Research Presentation Seminar (Doctoral)]({{< ref "class/research-presentation.md" >}})
+* [Foundations of Strategy (Doctoral)]({{< ref "class/foundations-of-strategy.md" >}})
+* [Strategy capstone (Executive MBA)]({{< ref "class/strategy-capstone.md" >}})
+* [Global Strategy (Wrigley Global Innovation Center)]({{< ref "class/global-strategy-wrigley.md" >}})
