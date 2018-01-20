@@ -3,8 +3,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://ghoetker.github.io/my-website/"
-#baseurl = "http://hoetker.faculty.asu.edu/"
+#baseurl = "https://ghoetker.github.io/my-website/"
+baseurl = "http://hoetker.faculty.asu.edu/"
 
 # Title of your site
 title = "Glenn Hoetker"
@@ -15,8 +15,8 @@ copyright = "&copy; 2018"
 
 # set the Publish directory to /docs
 # this is flagged in Github "Settings > Github Pages > Publish master/docs"
-publishDir = 'docs'  #For Github pages
-#publishDir = 'forASU'
+#publishDir = 'docs'  #For Github pages
+publishDir = 'forASU'
 
 theme = "academic"
 enableEmoji = true
