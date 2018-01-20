@@ -1,12 +1,12 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
+title = "Management of Technology"
+date = 2007-01-20T13:04:03-07:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
-categories = ["MBA"]
+categories = ["MBA/Law"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -22,6 +22,6 @@ preview = true
 
 ## Syllabus
 
-Click {{% staticref "pdf/classes/XXX" "newtab"%}}here{{% /staticref %}} to download.
+Click {{% staticref "pdf/classes/syllabus_mba_law_techmgt.pdf" "newtab"%}}here{{% /staticref %}} to download.
 
-<embed src="/pdf/classes/XXXXXXXXX" type="application/pdf" width="100%" height="1200px">
+<embed src="/pdf/classes/syllabus_mba_law_techmgt.pdf" type="application/pdf" width="100%" height="1200px">

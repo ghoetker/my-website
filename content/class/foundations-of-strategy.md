@@ -8,7 +8,7 @@ draft = false
 tags = ["Test"]
 categories = ["Doctoral"]
 
-# TODO Make the categories actually do something.
+
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
