@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical packages on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/tags/statistical-packages/</link>
+    <description>Recent content in Statistical packages on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 06 Dec 2013 16:25:56 -0700</lastBuildDate>
+    <atom:link href="/tags/statistical-packages/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Some useful utility programs for Stata</title>
+      <link>https://ghoetker.github.io/my-website/post/useful-stata-utility-programs/</link>
+      <pubDate>Fri, 06 Dec 2013 16:25:56 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/useful-stata-utility-programs/</guid>
+      <description>&lt;p&gt;You’ll probably spend a lot of your time doing data management and statistical analysis (which you &lt;em&gt;are&lt;/em&gt; doing in Stata, right?). So, small efficiencies in data related tasks can really pay-off in the long run. One way to get those efficiencies is through creating small utility programs that automate tasks that you perform many, many times. It&amp;rsquo;s very easy to write short programs for Stata. Below, I offer a few program, each only several lines in length, that I find really useful.&lt;/p&gt;
+
+&lt;p&gt;Consider the dta command, which is saved as dta.ado in my &amp;ldquo;PERSONAL&amp;rdquo; directory (which you can find by typing &lt;code&gt;sysdir&lt;/code&gt; at the Stata prompt. On the Mac, it is at &lt;em&gt;~/Library/Application Support/Stata/ado/personal/&lt;/em&gt;.)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;program define dta
+    ls *.dta
+    regress auto dog cat
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now, I can just type &lt;code&gt;dta&lt;/code&gt; at the Stata prompt and get a list of all the data files in the current working directory. Here are some other examples. Each should be saved as &lt;em&gt;name-of-program.ado&lt;/em&gt;, e.g., the next one should be saved as &lt;em&gt;ddo.ado&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Same idea, lists all do files in the directory:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;program define ddo
+   ls *.do
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Quick way to open the current working directory in the Finder. Makes it easy to get to related non-Stata files quickly. (May need to be different for non-Mac systems):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;program define oo
+    !open
+end
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stata Project Feature</title>
+      <link>https://ghoetker.github.io/my-website/post/stata-project-feature/</link>
+      <pubDate>Wed, 06 Nov 2013 17:58:54 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/stata-project-feature/</guid>
+      <description>&lt;p&gt;One of the features of Stata 13 and later is “Projects”, which are meant to provide easier access to multiple files related to a, well, project you are working on. The files can be do files, data, logs, graphs, etc. In fact, they don’t even need to be Stata files. One advantage I have found is that they make it possible to maintain a strict organization of certain types of files going in certain directories, while still having access to all of those files from one pane within Stata.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, this project gives easy to access to data, do files, a text file mapping variables to hypotheses and, eventually, results. Setting up and managing a project isn&amp;rsquo;t quite as automatic as I wish it was. For example, I haven&amp;rsquo;t found a way to have a &amp;ldquo;template&amp;rdquo; to set up a new project just as I want. But, it&amp;rsquo;s still pretty useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Equally useful if you have multiple projects going is the fact that opening a project by double clicking it opens up Stata and changes its working directory to whichever directory the project file sits in. So, on my Mac, I have a smart folder set up with &amp;ldquo;Kind is Stata Project File&amp;rdquo;. This folder is dynamically filled with aliases to all the Stata project files on my computer. I&amp;rsquo;ve dragged that smart folder to my dock and now have, effectively, a pop up menu that can take me to any of my ongoing projects, ready to go. I suspect Windows has some way to do something similar.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UPDATE OF &#39;&#39;What statistical package should I use?&#39;&#39;</title>
+      <link>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</link>
+      <pubDate>Tue, 06 Sep 2011 18:07:47 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</guid>
+      <description>&lt;p&gt;Technological progress continues. In an older &lt;a href=&#34;https://ghoetker.github.io/my-website/post/what-statistical-package&#34;&gt;posting&lt;/a&gt;, I mentioned the role of specialized packages that addressed models not available in the general purpose software, such as LISREL for structural equation modeling (SEM). That example is now somewhat moot, as Stata 12 has an extensive SEM capability and new add-ons for R allow modeling of SEMs. I suspect that if I were a power user, I would find limitations in Stata/R relative to the dedicated packages, but at my level, I haven’t found them.&lt;/p&gt;
+
+&lt;p&gt;Of course, there are still uses for dedicated packages. From the viewpoint of a Stata user, TDA still offers a few unique features for survival time modeling and HLM &amp;amp; mlwin offer some multilevel functionality not available in Stata.&lt;/p&gt;
+
+&lt;p&gt;I consider it an open question whether the broader availability of these models is a universally good thing. As I noted in my 2007 SMJ &lt;a href=&#34;https://ghoetker.github.io/my-website/publication/use-of-logit&#34;&gt;paper&lt;/a&gt;, one reason for some of the shortcomings in the field’s use of logit models is that they “look” just like OLS regression in Stata. I didn’t enjoy learning the funny Greek notation for laying out a matrix in LISREL, but it mean I had to have a deeper understanding of what was gone on in the model than is required to set up and run an SEM model in Stata.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A template for Stata .do files</title>
+      <link>https://ghoetker.github.io/my-website/post/template-for-stata-do-files/</link>
+      <pubDate>Tue, 07 Sep 2010 14:11:04 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/template-for-stata-do-files/</guid>
+      <description>
+
+&lt;p&gt;There are many different approaches to writing and documenting the many steps that go into an empirical project. J. Scott Long has a great book, &lt;em&gt;The Workflow of Data Analysis Using Stata&lt;/em&gt;, which I strongly recommend. He recommends developing a series of small, highly focused do files, which are run in sequence as needed. I take a different approach, which is keep all of a project&amp;rsquo;s code in one honking large do file, which is divided into sections. This posting provides more details about my approach. I&amp;rsquo;ve pasted a skeleton version of this below. To explain what I&amp;rsquo;m trying to do in several places, since this is pretty idiosyncratic.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-header-section&#34;&gt;The HEADER section&lt;/h2&gt;
+
+&lt;p&gt;a) gives information on the file (in case I ever find a print-out of it somewhere and need to find it on the computer)&lt;/p&gt;
+
+&lt;p&gt;b) lists what files are used and produced by each section. Great when I can&amp;rsquo;t figure out where &amp;ldquo;important_data_file_1&amp;rdquo; comes into play. I could probably do the same just be searching, but I like this way.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-macros-section&#34;&gt;The MACROS section&lt;/h2&gt;
+
+&lt;p&gt;a) I use the local macro &amp;ldquo;do_me&amp;rdquo; to control which sections get run for a given run of the do file. The sections are labels a-z and I just insert the letters of the section I want to run into the do_me macro (here, I&amp;rsquo;ll run parts a and b). More below.&lt;/p&gt;
+
+&lt;p&gt;b) defines some temp variables, files, etc., just for future reference.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-main-code-block&#34;&gt;The MAIN CODE block&lt;/h2&gt;
+
+&lt;p&gt;a) Since I like to run my code and then examine the aftermath, I turn more off&lt;/p&gt;
+
+&lt;p&gt;b) The line&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;if strpos(&amp;quot;`do_me&#39;&amp;quot;,&amp;quot;a&amp;quot;)&amp;gt;0 {
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;evaluates to some number greater than 0 if I included &amp;ldquo;a&amp;rdquo; in my definition of _do&lt;em&gt;me&lt;/em&gt;. In that case, everything with the brackets defining section &amp;ldquo;a&amp;rdquo; will be run. If &amp;ldquo;a&amp;rdquo; isn&amp;rsquo;t in _do&lt;em&gt;me&lt;/em&gt;, this evaluates to 0 and nothing between the brackets is run. And so on and so forth. This way I can go to one point of the do file (the Macros section), see what each section does and flip them on or off for a given run.&lt;/p&gt;
+
+&lt;p&gt;Typically, section A is all about taking raw data and manipulating it into the data I&amp;rsquo;ll use and then saving that for use by subsequent sessions. With any luck, I only have to run this section once. Section B is probably descriptive statistics, C-?? will be different modeling strategies. Then there will be a section for producing publication-ready output.&lt;/p&gt;
+
+&lt;p&gt;The pluses I&amp;rsquo;ve found to this system are that everything is captured in one place, easy to reference, edit and run. I don&amp;rsquo;t have to comment sections in and out to control what runs. There are minuses. Because the file is so long, typically, one has to watch it all scroll by on the screen. When editing, getting from one section to another can be a pain. I&amp;rsquo;ve solved this by always using text editors that allow for tags or bookmarks. I assign the tag &amp;ldquo;0&amp;rdquo; to the line &amp;ldquo;_local do&lt;em&gt;me&amp;hellip;&lt;/em&gt;&amp;rdquo;; the tag &amp;ldquo;A&amp;rdquo; to the starting line of section a, etc. Puts any part of the code within a few keystrokes.&lt;/p&gt;
+
+&lt;p&gt;As I’ve re-read Long’s book several times, I’m seeing benefits to his approach. I’m not sure if I’ll actually switch, but I’m tempted to experiment.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;As of January, 2018, I&amp;rsquo;ve slightly modified my approach from what is described here. One of these days, I&amp;rsquo;ll make an updated post. I think the logic of this approach, however, is still valid.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;an-example-file&#34;&gt;An example file&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;/*
+
+FILE NAME:
+
+DESC:
+
+A:
+
+Input files
+
+Output files
+
+B:
+
+Input files
+
+Output files
+
+*/
+
+/*MACROS*/
+
+local do_me &amp;quot;ab&amp;quot; /*Which sections to do */
+// a. Description of what part &amp;quot;a&amp;quot; does
+// b. Description of what part &amp;quot;b&amp;quot; does
+// c.
+// d.
+
+local base
+local base
+tempvar tv1
+tempvar tv2
+tempfile tf1
+
+
+/*BEGIN MAIN CODE BLOCK*/
+
+set more off
+
+/* A. Description */
+if strpos(&amp;quot;`do_me&#39;&amp;quot;,&amp;quot;a&amp;quot;)&amp;gt;0 {
+set memory 250m
+clear
+cd `base&#39;
+
+[Insert code here...]
+save working_data, replace
+}
+
+/* B. Description */
+if strpos(&amp;quot;`do_me&#39;&amp;quot;,&amp;quot;b&amp;quot;)&amp;gt;0 {
+set memory 250m
+clear
+cd `base&#39;
+
+use working_data
+[code here]
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Excel Is evil</title>
+      <link>https://ghoetker.github.io/my-website/post/excel-is-evil/</link>
+      <pubDate>Tue, 07 Sep 2010 13:57:08 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/excel-is-evil/</guid>
+      <description>
+
+&lt;p&gt;Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Using it to clean, combine and otherwise manage data&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Cutting and pasting results into Excel (or worse yet, Word) and then formatting them for presentation&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both of these a very inefficient uses of time. The first is a disaster for data integrity, because it is hard to document, almost impossible to revise, and very easy to mess up (sort only have the variables, be one row off when pasting, etc.).&lt;/p&gt;
+
+&lt;p&gt;The second use of Excel is also prone to mistakes, although they are probably more easily corrected than butchering your data in Excel. Fortunately, there are many better approaches.&lt;/p&gt;
+
+&lt;h2 id=&#34;descriptive-statistics&#34;&gt;Descriptive statistics&lt;/h2&gt;
+
+&lt;p&gt;There are several packages available to produce correlation matrices and descriptive statistics for publication. I wrote &lt;em&gt;mkcorr&lt;/em&gt; several years ago (like most user-written additions to Stata, it can be installed with the command &lt;code&gt;ssc install mkcorr, replace&lt;/code&gt;). &lt;em&gt;mkcorr&lt;/em&gt; produces a correlation table in a format that is easy to import into a spreadsheet or word processing document. So, there is still formatting to do, perhaps even in, shudder, Excel. But, by writing the output directly to a logfile, it avoids two problems with cutting and pasting correlation tables from the results window. First, it allows an effectively unlimited number of variables without wrapping around. Second, it requires less post-processing in a spreadsheet or word-processor, particularly for more involved tables. It also offers a number of small advantages such as allowing the use of labels, controlling the number of decimal places used, and other formatting options. &lt;em&gt;corrtex&lt;/em&gt; extends this and allows creation of tables directly in LaTeX.&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;As of January, 2018, this part is somewhat out of date, as Stata 15 offers multiple ways to output directly to Word and Excel. However, &lt;em&gt;mkcorr&lt;/em&gt; may still fit some workflows better.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;A brief aside&amp;ndash;LaTeX is a document layout language. It allows for very sophisticated and elegant tables and excels in formatting mathematical formulae. It is also a bit of a throwback to pre-GUI days. If you don’t already use LaTeX, I wouldn’t learn it just as a complement to Stata, particularly in you have co-authors who don’t use it. Worse yet, several journals will only accept submissions in Word. There is a midway point: using LaTex to produce tables, rendering them as PDFs and inserting those into a Word document.&lt;/p&gt;
+
+&lt;h2 id=&#34;producing-tables-of-results&#34;&gt;Producing tables of results&lt;/h2&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Despite Stata 15&amp;rsquo;s ability to output directly to Word and Excel, there is definitely still a place for &lt;em&gt;estout&lt;/em&gt; (and perhaps &lt;em&gt;outreg&lt;/em&gt;, although I&amp;rsquo;ve not used it for several years) because of the fine-grained control they give over the content and appearance of the output.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Here is where the different between Excel and the right tools is largest. There are several approaches available within Stata.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;outreg&lt;/em&gt; was the original add-on for producing tables more easily. It produces a tab delimited file with lots of formatting options. This can then be imported easily into a word processing or spreadsheet program, where additional formatting (cell-borders, bolding or italicizing) may be performed if desired. Because of the control it offers and the fact that it is programmable, it beats cutting and pasting.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;estout&lt;/em&gt; is part of the “second generation” of table producing add-ons for Stata and gives the user tremendous control. I’ve yet to meet a table of results that it can’t produce. It can be used to produce a correlation table, too, but I find the more specialized &lt;em&gt;mkcorr&lt;/em&gt; better for this purpose (of course, I wrote &lt;em&gt;mkcorr&lt;/em&gt;, so I may not be totally unbaised). One of the great things about estout is that it produce its tables in comma delimited text, fixed format text, rich text format (rtf), html, or LaTeX. Just a little bit of code makes it easy (at least on a Mac) to have a beautiful table open automatically as either a PDF (from LaTex) or Word (from an rtf file). estout’s syntax can be a bit overwhelming, given all its options, so there is also esttab, which is just a “wrapper” for estout, providing a simpler syntax. It’s worth the effort to learn estout/esttab, because once you’ve mastered it’s basics, you’ll use the repeatedly.&lt;/p&gt;
+
+&lt;p&gt;Roger Newson has provided a suite of commands that offers a slightly different approach. One saves summary statistics, the results of regressions, etc. in “resultsets” (which are just Stata datafiles) and then uses one or more commands to produce tables from those. My personal preference is for estout, but Newson’s approach has a large and enthusiastic following.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What statistical package should I use?</title>
+      <link>https://ghoetker.github.io/my-website/post/what-statistical-package/</link>
+      <pubDate>Mon, 06 Sep 2010 18:12:23 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/what-statistical-package/</guid>
+      <description>&lt;p&gt;This is an amazingly contentious question. My first answer is &amp;ldquo;If you are comfortable with a package and it is serving your needs, keep using it.&amp;rdquo; That can be complicated, of course, if you have a co-author dedicated to a given statistics package. If your only need to is pass data back and forth with that co-author, I strongly recommend Stat Transfer, which can convert from pretty much any statistical format to any other. Another consideration is the package most frequently used in your field.&lt;/p&gt;
+
+&lt;p&gt;If you are not already using a specific package, here are some (very idiosyncratic) observations on some of the more popular packages.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stata.com&#34; target=&#34;_blank&#34;&gt;Stata&lt;/a&gt; is an increasingly popular and powerful package. It is my runaway favorite. Strengths include the ease of using a command line interface, a menu-based interface, or saved “do” files of commands. The menu-based interface produces the appropriate command line commands, so it is a great way to improve your understanding of Stata’s command language. The Stata documentation is first rate both in its examples and its presentation of underlying econometric theory. There is also a large Stata user community which (1) powers the Statalist mailing list, where members are very generous at helping answer questions both simple and complex and (2) contributes a huge number of user-written commands which one can easily add to one’s Stata toolkit. Several of these commands make it very simple to produce ready to publish tables of results, summary data, correlation tables, etc. That saves one from having to do post-formating in Excel or Word. With Stata’s Mata language, aimed mostly at matrix manipulation, one can craft powerful and fast programs. Stata’s main command language is quite powerful in itself, but Mata can be pre-compiled and is good at especially complex calculations. Stata’s can produce attractive graphs of many types. Because there are so many options, it can be a little overwhelming at first (good chance to use the menus to learn) and Stata doesn’t do 3-D graphics (several user written modules to do so are quite basic). Additionally, it isn’t primarily focused on data manipulation. I’ve never found anything I can’t do, but sorting and merging huge datasets can take a VERY long time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/about.html&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; is the free version of the S+ statistics package. S+ offers a more sophisticated GUI, but most people I know use R instead. With its own commands and a huge number of very specialized user-written additions, R can do pretty much anything under the sun. It also has very good graphics capabilities. Its great strength and weakness is that it makes you get deep into the guts of problem. Performing a regression can involve&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#c30&#34;&gt;`gfit &amp;lt;- lm(Species ˜ Area + Elevation + Nearest + Scruz + Adjacent, data=gala);`&lt;/span&gt;
+&lt;span style=&#34;color:#c30&#34;&gt;`summary(gfit)`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;That can present a significant learning curve, but it is also helpful in learning what’s really going on in the model one is running.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.sas.com/en_us/software/stat.html&#34; target=&#34;_blank&#34;&gt;SAS&lt;/a&gt; is one of the oldest of the packages. To me, it seems unnecessarily complex and somewhat stuck in the past (come on, “Cards” as a way of identifying that what follows is data). However, it has a huge user community, many very specialized packages, and is superb at data manipulation when using large data sets. I suspect that if I still used SAS (I abandoned it about 7 years ago), I would sing its praises, but I’m not sure why one, starting from zero, would choose it over Stata.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.ibm.com/products/spss-statistics&#34; target=&#34;_blank&#34;&gt;SPSS&lt;/a&gt; is another very popular package. For a long time, it offered one of the best menu-based interfaces and thus had a very low learning curve. With Stata (and even SAS) now offering good menu interfaces, SPSS no longer has that advantage. It also doesn’t offer the range of sophisticated models the other packages I’ve mentioned do.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Specialized packages There are a plethora of specialized packages out there. Some can perform a broad swath of models, but are really specialized in one type of model. Examples include LIMDEP (limited dependent variables) and TDA (survival analysis). At one point, these offered significantly better handling of their speciality than any general package. In many regards, the general packages have caught up to maybe 90% of the specialized packages capabilities. So, unless you really need to capabilities available in a specialized package, you are probably better off to stay with the general package, rather than learning a whole new set of commands and syntax. Having once been a very capable user of both TDA and LIMDEP, it pains me to write that last sentence, but I haven’t used either in four years and don’t foresee doing so in the near future.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Another set of specialized packages offer capabilities that are either absent or relatively underdeveloped in the general purpose packages. These include LISREL and AMOS for structural equation modeling and HLM for hierarchical linear modeling. At least for now, it is worth giving these a close look if they address your needs for a specialized modeling technique.&lt;/p&gt;
+
+&lt;p&gt;In closing, it used to be worth mastering multiple packages to have a big toolkit to use. As packages have grown and now largely overlap in their capabilities, becoming highly capable in one (or perhaps two ) packages is much more useful.&lt;br /&gt;
+Tags: Stata, Statistical packages, Software&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

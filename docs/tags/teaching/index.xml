@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/tags/teaching/</link>
+    <description>Recent content in Teaching on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 21 Dec 2016 15:55:54 -0700</lastBuildDate>
+    <atom:link href="/tags/teaching/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Using Mindmapping software for class preparation</title>
+      <link>https://ghoetker.github.io/my-website/post/mindmap-for-class-prep/</link>
+      <pubDate>Wed, 21 Dec 2016 15:55:54 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/mindmap-for-class-prep/</guid>
+      <description>&lt;p&gt;Mindmapping has been around for a long time in various forms and there are many software packages available. In this post, I discuss how I use iThoughtsX to plan my classes. Nothing I&amp;rsquo;ll discuss is specific to iThoughts since many other packages offer similar features. Having tried most of them, I&amp;rsquo;ve found that iThoughts best meets my working style. I especially appreciate its amazing export options and the fact that files move seamlessly from its Mac to iPad versions.&lt;/p&gt;
+
+&lt;p&gt;As shown below, I&amp;rsquo;ve made a map for my class. Each of the branches shown has many sub-branches.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtPreview1.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+￼&lt;br /&gt;
+This makes it a great tool for the doodling around stage of planning, especially since moving an item from one branch to another is so quick.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtsmovingItems.gif&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+￼&lt;br /&gt;
+It also gives me a place to store items I come across between times I teach, so there are all in one place when I come back to prepare for the next edition of the class. I can tag new items with the pencil icon to give me a visual clue that these are new since last time I taught (there are a slew of additional icons available and you can search or filter using them).&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s all pretty standard application for mind mapping. My real breakthrough came when I realized I could use a mindmap for the more nitty gritty part of planning and organizing the class. My mindmap allows me to&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;At the macro level, layout each class session and how they will fall into larger subject modules.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Schedule the readings for each class.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Add additional text that will become part of the reading list.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Track which classes/modules have been fully prepared and which still need work.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Export an image that I&amp;rsquo;ll use in our first class to illustrate the overall structure of the class&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Export information that allows me to automatically compile all of the relevant PDFs and links, organized into folders by class session.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Export information that allows me to automatically generate the syllabus I&amp;rsquo;ll distribute to the students.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The last two items on that list depends on other geeky technology, but even iThoughts itself it can do amazing things. The material that will become the syllabus all resides in the &amp;ldquo;Class Sessions&amp;rdquo; node. First I created a node for each subject module and each class session therein. Because of how easy it is the create/delete branches and move items between branches, I started with a very rough outline and refined it as I went. In the same way, it was trivial to reorganize the subject modules between annual editions of the class.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme8_540.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Within each class, I created nodes for Readings and Assignments. Having created it once, I copy-pasted it to the other sessions. If appropriate, I added subdivisions for the readings in each class. Then, I created nodes for each reading. For most of them, I copied information over from EndNote, which is how I organize my reference library. I&amp;rsquo;ve set iThought to automatically alphabetize items for me.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme4_860.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The arrow on the node indicates that there is a link associated with it. That can be a link to a website or to a file (created by dragging the file onto a node). Clicking on the arrow will open the associated file, which makes it easy to re-examine items (&amp;ldquo;How long was the Carlson paper?&amp;rdquo;). I can also add notes for each node, either for myself or, as in this case, to become part of the syllabus.&lt;/p&gt;
+
+&lt;p&gt;￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme5.png&#34; alt=&#34;&#34; /&gt;￼&lt;/p&gt;
+
+&lt;p&gt;Each node can also be associated with task management information, which I&amp;rsquo;ve repurposed. Here, I&amp;rsquo;ve tagged a class session with the date it occurs, how many days it will take and marked its progress as &amp;ldquo;Rollup&amp;rdquo;, that is, what proportion of the nodes below it have been completed.&lt;/p&gt;
+
+&lt;p&gt;￼￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtsPreviewme7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This allows me to see that I&amp;rsquo;ve completed the &amp;ldquo;Setting the stage&amp;rdquo; module (the checkmark) and that I&amp;rsquo;ve dedicated 3 class sessions to it. Because this all updates dynamically, I can trivially track that I&amp;rsquo;ve not dedicated too much time to any one subject and have stayed within the 16 class session I have.&lt;/p&gt;
+
+&lt;p&gt;￼￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme3.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+￼&lt;br /&gt;
+Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts export capabilities, which include exporting to a PDF, a website, images, Word/Excel/Powerpoint (with lots of flexibility), other mindmapping formats, and Markdown. Simply exporting to Word would give one a great start on the Syllabus, needing minimal additional formatting. To leverage the other systems I have in place, I go another route, which I&amp;rsquo;ll &lt;em&gt;briefly&lt;/em&gt; describe just to give a flavor of what is possible.&lt;/p&gt;
+
+&lt;p&gt;First, I export everything in the &amp;ldquo;Class sessions&amp;rdquo; node as a comma-delimited .csv file. I use a short Python script to extract information on each reading, which is used to copy the PDFs for each session into an appropriately named folder. Compiling all the PDFs in this way takes under 10 seconds and guarantees I don&amp;rsquo;t omit a reading. Second, I export as a Markdown file. Markdown, if you&amp;rsquo;ve not encountered it, is a plain text format meant to create a document that is easy for humans to read, not locked into any proprietary format (Word, Pages, etc.), yet able to be translated into PDFs, websites, Word documents, etc. For my purposes here, the key thing is that Markdown is plain text, which means I can take advantage of basic Unix (Python, etc.) tools to tweak it to exactly how I want it&amp;ndash;removing some exported information I don&amp;rsquo;t care about, etc. Then I use the amazing (and free) pandoc software to turn the Markdown into a LaTex file, which I compile into a beautiful PDF. Because I&amp;rsquo;ve written a shell script to do the tweaking and have a LaTeX template set up, I can go from export to completed PDF in about 20 seconds.&lt;/p&gt;
+
+&lt;p&gt;Obviously, this is a time-saver (once I used it enough to make up for the development time involved). More importantly, it frees me to refine my class plan without friction. If I want to add a reading, move a reading between sessions, combine two sessions, etc., I simply do so in the mindmap document. In well under a minute, I will have an up-to-date syllabus and folder of organized readings, with no chance for error. It is easy to keep my class up to date and I&amp;rsquo;ve been more willing/able to experiment with alternative organizations.&lt;/p&gt;
+
+&lt;p&gt;Having set up this system, I use it for all of my classes with minimal change. It&amp;rsquo;s great from the &amp;ldquo;blank-slate&amp;rdquo; stage of planning through producing the final syllabus.&lt;/p&gt;
+
+&lt;p&gt;Although I didn&amp;rsquo;t show it here, I use the same mindmap to make detailed plans for each class session. It&amp;rsquo;s especially helpful for my 4 hour evening MBA class, where I have lots of different activities each session and need to be very aware of time management.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve also used iThought to deliver material in class. For example, I use it to present a timeline of sustainability-related events over the last 140 years. It works great because the map conveys the overall structure, while I can link individual nodes to videos, images, sound clips, websites, etc.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

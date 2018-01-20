@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transaction hazards on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/tags/transaction-hazards/</link>
+    <description>Recent content in Transaction hazards on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 09 Jan 2018 23:53:19 -0700</lastBuildDate>
+    <atom:link href="/tags/transaction-hazards/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Curbing opportunism in buyer-supplier relationship: A QCA study on effective governance mechanisms</title>
+      <link>https://ghoetker.github.io/my-website/publication/curbing-opportunism/</link>
+      <pubDate>Tue, 09 Jan 2018 23:53:19 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/curbing-opportunism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

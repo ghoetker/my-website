@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MBA/Law on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/categories/mba/law/</link>
+    <description>Recent content in MBA/Law on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 20 Jan 2007 13:04:03 -0700</lastBuildDate>
+    <atom:link href="/categories/mba/law/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Management of Technology</title>
+      <link>https://ghoetker.github.io/my-website/class/tech-mgt/</link>
+      <pubDate>Sat, 20 Jan 2007 13:04:03 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/class/tech-mgt/</guid>
+      <description>
+
+&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+
+&lt;p&gt;Click &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/classes/syllabus_mba_law_techmgt.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
+
+&lt;p&gt;&lt;embed src=&#34;https://ghoetker.github.io/my-website/pdf/classes/syllabus_mba_law_techmgt.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1200px&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
