@@ -1,5 +1,5 @@
 +++
-title = "Research Presentation Seminar (Doctoral)"
+title = "Research Presentation Seminar"
 date = 2015-01-18T19:37:08-07:00
 draft = false
 

@@ -6,7 +6,7 @@ draft = false
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
-categories = ["MBA"]
+categories = ["Online MBA"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -20,7 +20,7 @@ preview = true
 
 +++
 
-The capstone class in the Online MBA program.  
+The capstone class in the Online MBA program.
 
 ## Syllabus
 

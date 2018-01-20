@@ -208,6 +208,13 @@ defaultContentLanguageInSubdir = false
     #   3 = MLA
     publication_format = 1
 
+    # Configuration of class pages (Added by GH 180120)
+    [params.classes]
+      # Date format (refer to Go's date format: http://fuckinggodateformat.com )
+      #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+      date_format = "2006"
+
+
   # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:
@@ -251,6 +258,8 @@ defaultContentLanguageInSubdir = false
       icon_pack = "fa"
       link = "//www.linkedin.com/in/glenn-hoetker-3b2079b/"
 
+
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -281,7 +290,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "#classes"
   weight = 5
 
 [[menu.main]]

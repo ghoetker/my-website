@@ -1,5 +1,5 @@
 +++
-title = "Innovation Strategy (Doctoral)"
+title = "Innovation Strategy"
 date = 2013-09-01T19:08:36-07:00
 draft = false
 

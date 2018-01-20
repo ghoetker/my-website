@@ -1,6 +1,6 @@
 +++
-title = "Strategy Process (Doctoral)"
-date = 2018-01-20T10:58:01-07:00
+title = "Strategy Process"
+date = 2009-01-20T10:58:01-07:00
 draft = false
 
 # Tags and categories

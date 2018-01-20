@@ -1,5 +1,5 @@
 +++
-title = "Strategy Capstone (Executive MBA)"
+title = "Strategy Capstone"
 date = 2013-01-18T19:55:26-07:00
 draft = false
 
