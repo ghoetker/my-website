@@ -1,11 +1,11 @@
 +++
-title = "Foundations of Strategy (Doctoral)"
+title = "Foundations of Strategy"
 date = 2013-01-18T19:51:47-07:00
 draft = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Test"]
 categories = ["Doctoral"]
 
 # TODO Make the categories actually do something.

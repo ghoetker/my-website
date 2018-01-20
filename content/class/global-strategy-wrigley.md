@@ -1,6 +1,6 @@
 +++
-title = "Global Strategy (Wrigley Global Innovation Center)"
-date = 2018-01-18T19:57:35-07:00
+title = "Global Strategy"
+date = 2009-01-18T19:57:35-07:00
 draft = false
 
 # Tags and categories
