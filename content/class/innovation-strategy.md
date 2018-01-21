@@ -2,6 +2,7 @@
 title = "Innovation Strategy"
 date = 2013-09-01T19:08:36-07:00
 draft = false
+disable_comments = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
