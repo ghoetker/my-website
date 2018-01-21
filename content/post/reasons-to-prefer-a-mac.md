@@ -19,12 +19,11 @@ caption = ""
 preview = true
 
 +++
+I’ve been a Mac fan since 1984 because, well, I think the Mac OS is more intuitive, stable and enjoyable to use. But, totally aside from that, I think there are three reasons that a Mac may be a better choice for many PhD students.<!--more-->
 
 {{% alert note %}}
-Obviously, a bit out of date. However, I think my observations still stand. The one caveat is that I've moved to BibDesk rather than EndNote, so can no longer speak to the quality of its AppleScript support.
+Obviously, a bit out of date. However, I think my observations still stand. The one caveat is that I've moved to BibDesk rather than EndNote, so can no longer speak to the quality of its AppleScript support. BibDesk's AppleScript support is quite good.
 {{% /alert %}}
-
-I’ve been a Mac fan since 1984 because, well, I think the Mac OS is more intuitive, stable and enjoyable to use. But, totally aside from that, I think there are three reasons that a Mac may be a better choice for many PhD students.
 
 ## Applescript
 
