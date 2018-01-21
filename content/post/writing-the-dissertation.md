@@ -19,7 +19,7 @@ categories = []
 [header]
 image = ""
 caption = ""
-preview = true
+preview = false
 
 +++
 

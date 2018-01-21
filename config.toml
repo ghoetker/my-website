@@ -53,7 +53,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "1950s"
+  color_theme = "dark"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -165,7 +165,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["myStyle.css"]
   custom_js  = []
 
   # Publication types.
@@ -277,6 +277,11 @@ defaultContentLanguageInSubdir = false
   name = "Publications"
   url = "#publications"
   weight = 2
+
+[[menu.main]]
+  name = "Work in progress"
+  url = "#publications_selected"
+  weight = 2.5
 
 [[menu.main]]
   name = "Advice for PhD students"
