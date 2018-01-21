@@ -19,6 +19,7 @@
 
   {{ $paginator := .Paginate .Data.Pages }}
   {{ range $paginator.Pages }}
+
   <div>
     <h2><a href="{{ .Permalink }}">{{ .Title }} ({{ delimit .Params.categories ", " }}, {{ .Date.Format $.Site.Params.classes.date_format }})</a></h2>
     <div class="article-style">
