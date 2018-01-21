@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "This paper has its origin in a campus‐wide program on science and technology in Asia that I organized. The organizing committee with which I was working developed a list of potential topics. Geographically, the topics covered China, India, Korea, Singapore, Taiwan...but not a single project on Japan.  As a Japanologist, I was understandably upset.  As a scholar of innovation, I was actually quite worried because I believe that Japan continues to have an important and distinct role to play in the innovation ecosystem of Asia and, by extension, the world. It is a different role than we used to understand Japan to play and our research, management, and policy making will be better if we appreciate both the changes and the enduring importance of Japan.  Originally presented at the 2009 Academy of International Business conference."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -69,4 +69,3 @@ image = ""
 caption = ""
 
 +++
-This paper has its origin in a campus‐wide program on science and technology in Asia that I organized. The organizing committee with which I was working developed a list of potential topics. Geographically, the topics covered China, India, Korea, Singapore, Taiwan...but not a single project on Japan.  As a Japanologist, I was understandably upset.  As a scholar of innovation, I was actually quite worried because I believe that Japan continues to have an important and distinct role to play in the innovation ecosystem of Asia and, by extension, the world. It is a different role than we used to understand Japan to play and our research, management, and policy making will be better if we appreciate both the changes and the enduring importance of Japan.  Originally presented at the 2009 Academy of International Business conference.

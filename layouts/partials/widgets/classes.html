@@ -14,7 +14,7 @@
     </p>
   </div>
   <div class="col-xs-12 col-md-8">
-      {{ range (where $.Site.RegularPages "Section" "class") }}
+      {{ range first 5 (where $.Site.RegularPages "Section" "class") }}
       <ul>
         <li><a href="{{ .Permalink }}">{{ .Title }} ({{ delimit .Params.categories ", " }}, {{ .Date.Format $.Site.Params.classes.date_format }})    </a></li>
       </ul>
