@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 31 Dec 2015 20:25:17 -0700</lastBuildDate>
-    <atom:link href="/tags/alliances/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/alliances/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Alliance experience and governance flexibility</title>

@@ -1,6 +1,6 @@
 +++
 title = "Curbing opportunism in buyer-supplier relationship: A QCA study on effective governance mechanisms"
-date = 2018-01-09T23:53:19-07:00
+date = 2018-11-09T23:53:19-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,21 +15,21 @@ authors = ["Mellewigt T.", "Hoetker, G.","Lütkewitte, M."]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Organization Science (Conditional acceptance)"
+publication = "Organization Science (Forthcoming)"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Past research on how opportunism in buyer-supplier relationships can be mitigated remains in-complete and often contradictory. Applying recent advances in Qualitative Comparative Analysis (QCA) to a sample of 137 buyer-supplier relationships in the German automotive industry, we show that there are multiple equifinal pathways to high and low opportunism. In general, our study demonstrates that it is easier to avoid high opportunism than to consistently achieve low opportunism. On this basis, we offer new insights into countering opportunism for researchers and managers: Achieving low opportunism requires a combination of governance mechanisms, which are generally not interchangeable. In particular, relational governance mechanisms in isolation seem to be more restricted than prior research has suggested, but form a powerful synergistic combination with complex contracts. Performance ambiguity is especially difficult to manage. Overall, our paper demonstrates the power of configurational approaches and encourages the development of new theory that adopts a situational contingency perspective."
+abstract = "Past research on how opportunism in buyer-supplier relationships can be mitigated remains incomplete and often contradictory. Applying recent advances in qualitative comparative analysis to a sample of 137 buyer-supplier relationships in the German automotive industry, we show that there are multiple equifinal pathways to high and low opportunism. In general, our study shows that it is easier to avoid high opportunism than to consistently achieve low opportunism. On this basis, we offer new insights into countering opportunism for researchers and managers. Achieving low opportunism requires a combination of governance mechanisms, which are generally not interchangeable. In particular, relational governance mechanisms in isolation seem to be more restricted than prior research has suggested but form a powerful synergistic combination with complex contracts. Although formal governance mechanisms lack enforceability, the coordination and monitoring that they provide are critical in both avoiding high opportunism and achieving low opportunism. Performance ambiguity is especially difficult to manage. Overall, our paper shows the power of configurational approaches and encourages the development of new theory that adopts a situational contingency perspective."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ projects = []
 tags = ["Opportunism", "Transaction hazards", "Governance mechanisms", "Fuzzy set QCA"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/Mellewigt-2018-Avoiding-00.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

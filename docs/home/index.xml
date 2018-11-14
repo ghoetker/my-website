@@ -8,7 +8,90 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://ghoetker.github.io/my-website/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/about/</guid>
+      <description>Biography I joined the Department of Management of Arizona State University&amp;rsquo;s in 2011, where I also hold a courtesy appointment in the Department of Supply Chain Management. I am also an affiliate professor at the Sandra Day O’Connor College of Law; Faculty Fellow of the Center for Law, Science and Innovation; and a Senior Sustainability Scholar at the Julie Ann Wrigley Global Institute of Sustainability. Prior to joining ASU, I spent 10 years at the University of Illinois, where I was a member of both the strategy and international business groups in the College of Business, with additional appointments in the College of Law and the Institute for Genomic Biology, where I was part of the BioBEL (Business, Economic and Legal Aspects of Biotechnology) research group.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://ghoetker.github.io/my-website/home/publications/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +1000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced work in progress</title>
+      <link>https://ghoetker.github.io/my-website/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +1000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ghoetker.github.io/my-website/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice for PhD students</title>
+      <link>https://ghoetker.github.io/my-website/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ghoetker.github.io/my-website/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent classes</title>
+      <link>https://ghoetker.github.io/my-website/home/classes/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/classes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://ghoetker.github.io/my-website/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +1000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ghoetker.github.io/my-website/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

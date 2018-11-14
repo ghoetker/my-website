@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 06 Nov 2014 15:55:22 -0700</lastBuildDate>
-    <atom:link href="/tags/research/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>How to Keep Your Research Stream Going</title>
@@ -16,17 +18,7 @@
       <pubDate>Thu, 06 Nov 2014 15:55:22 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/how-to-keep-your-research-stream-going/</guid>
-      <description>
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Maintain_research_stream.png&#34; width=&#34;50%&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;A &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/Maintain_research_stream.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt; from the doctoral workshop at the 2014 West Coast Research Symposium on Innovation and Entrepreneurship. Along with Kyle Mayer and Anthea Zhang, I addressed the question of “How to keep your research stream going.” My focus was very high-level, really more “How to think about this challenge” than specific recommendations.&lt;/p&gt;
-</description>
+      <description>A presentation from the doctoral workshop at the 2014 West Coast Research Symposium on Innovation and Entrepreneurship. Along with Kyle Mayer and Anthea Zhang, I addressed the question of “How to keep your research stream going.” My focus was very high-level, really more “How to think about this challenge” than specific recommendations.</description>
     </item>
     
   </channel>

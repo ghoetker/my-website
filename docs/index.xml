@@ -13,7 +13,7 @@
     <item>
       <title>Curbing opportunism in buyer-supplier relationship: A QCA study on effective governance mechanisms</title>
       <link>https://ghoetker.github.io/my-website/publication/curbing-opportunism/</link>
-      <pubDate>Tue, 09 Jan 2018 23:53:19 -0700</pubDate>
+      <pubDate>Fri, 09 Nov 2018 23:53:19 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/publication/curbing-opportunism/</guid>
       <description></description>
@@ -25,12 +25,8 @@
       <pubDate>Sat, 06 Jan 2018 18:23:10 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/writing-the-dissertation/</guid>
-      <description>
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Writing-the-dissertation.png&#34; width=&#34;50%&#34; /&gt;
-    
-    
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Writing-the-dissertation.png&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
 
@@ -131,7 +127,7 @@
       <pubDate>Wed, 18 Jan 2017 15:00:15 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</guid>
-      <description>&lt;p&gt;Shortly after I posted Tools of the trade 1—Spelling and grammar checkers, version 3.0 of the Hemingway Editor became available.  The changes are evolutionary, rather than revolutionary, but provide some useful new features. The update is free to owners of version 2, which is generous for an update of this magnitude. &lt;/p&gt;
+      <description>&lt;p&gt;Shortly after I posted Tools of the trade 1—Spelling and grammar checkers, version 3.0 of the Hemingway Editor became available.  The changes are evolutionary, rather than revolutionary, but provide some useful new features. The update is free to owners of version 2, which is generous for an update of this magnitude.&lt;/p&gt;
 
 &lt;p&gt;For scholarly writing, the most important changes are the ability to have multiple documents open at once and to import text directly from Markdown-formatted plain text documents, in addition to Word, which it could already do. I found a few issues when round-tripping a draft article from Word to Hemingway and back to Word. Tables were completely mangled and some formatting was lost.  The former is not surprising given Hemingway&amp;rsquo;s more general target audience and would be easy to work around.  Formatting issues seemed, based on quick perusal, to be more common in sections with lots of manual formatting (centering and underlining seemed to vanish, while italics remained).  Styles were retained, although the exported document didn&amp;rsquo;t seem to retain the same definition of those styles. It&amp;rsquo;s not hard to move style definitions between documents, but having to do so does introduce an additional step. Oddly, although it can only import .docx files (not the older .doc format), it exports .doc files.&lt;/p&gt;
 
@@ -162,36 +158,22 @@
 
 &lt;p&gt;As a demonstration of both products, here are screenshots of an early draft of this post in both (I omitted some text in which Grammarly didn&amp;rsquo;t mark anything).&lt;/p&gt;
 
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Grammarly.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Grammarly&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Grammarly.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Grammarly&lt;/h4&gt;
+        &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;br /&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/HemingwayEditor.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Henningway&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
+&lt;figure&gt;
+    &lt;img src=&#34;https://ghoetker.github.io/my-website/img/HemingwayEditor.png&#34;/&gt; &lt;figcaption&gt;
+            &lt;h4&gt;Henningway&lt;/h4&gt;
+        &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
 
 &lt;p&gt;I was impressed that Grammarly caught the error in &amp;ldquo;It will focus mostly of software.&amp;rdquo; I didn&amp;rsquo;t understand why it suggested omitting the comma in the final sentence until I drilled down to the most extensive explanation. So, I learned something in addition to improving this document. Hemingway didn&amp;rsquo;t catch as many errors but was much more rigorous in pointing out hard to read sentences and words that could be replaced with simpler ones. I found the color coding very helpful, particularly regarding adverbs, which aren&amp;rsquo;t inherently bad, but weaken writing when used excessively. Being able to scan the whole document for blue highlighting is a quick way to sense if there might be a problem.&lt;/p&gt;
 
-&lt;p&gt;These different results reflect the different aims of the products, rather than one being better than the other, begging the question of which to use. Even though I am an experienced writer and native speaker of English, I found Grammarly an easy to use way to improve my writing. It has saved me from embarrassing typos and lapses in emails and web-postings. It handles drafts of articles equally well. I don&amp;rsquo;t see any reason not to use at least the free version and think the Premium version is a good investment if you can afford it. &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:If-you-register&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:If-you-register&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;These different results reflect the different aims of the products, rather than one being better than the other, begging the question of which to use. Even though I am an experienced writer and native speaker of English, I found Grammarly an easy to use way to improve my writing. It has saved me from embarrassing typos and lapses in emails and web-postings. It handles drafts of articles equally well. I don&amp;rsquo;t see any reason not to use at least the free version and think the Premium version is a good investment if you can afford it. &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:If-you-register&#34;&gt;&lt;a href=&#34;#fn:If-you-register&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Hemingway is also great, but somewhat more limited for scholarly application. It has been very helpful for tightening up the writing in my syllabi, longer emails and similar documents. Unfortunately, even my best efforts at concise, robust scholarly writing turn into massive yellow or red blocks of &amp;ldquo;This sentence is (very) hard to read.&amp;rdquo; An ad hoc sample of articles in my &amp;ldquo;To read&amp;rdquo; folder gave similar results, so I think reflects the peculiarities of scholarly writing. Even so, it consistently revealed multiple opportunities to streamline draft articles. Again, I don&amp;rsquo;t see any reason not to use the free web-based version. I think the real value of the paid application, besides supporting the developer, is the ability to import and export Word documents without losing formatting. Since it is only $20, I think it&amp;rsquo;s a reasonable purchase if you consistently find the web-based version helpful.&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34;&gt;
@@ -275,12 +257,8 @@ Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts expo
       <pubDate>Sun, 11 Dec 2016 15:08:10 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/creating-your-research-identity/</guid>
-      <description>
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/research_identity.png&#34; width=&#34;50%&#34; /&gt;
-    
-    
+      <description>&lt;figure&gt;
+    &lt;img src=&#34;https://ghoetker.github.io/my-website/img/research_identity.png&#34; width=&#34;50%&#34;/&gt; 
 &lt;/figure&gt;
 
 

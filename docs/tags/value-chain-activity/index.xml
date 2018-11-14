@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2012 15:12:37 -0700</lastBuildDate>
-    <atom:link href="/tags/value-chain-activity/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/value-chain-activity/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Configuration of value chain activities: The effect of pre-entry capabilities, transactions hazard and industry evolution on the decision to internalize</title>

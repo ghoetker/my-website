@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 07 Aug 2010 14:20:34 -0700</lastBuildDate>
-    <atom:link href="/tags/doctoral-program/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/doctoral-program/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Maximizing benefits from the PhD Program</title>
@@ -16,19 +18,8 @@
       <pubDate>Sat, 07 Aug 2010 14:20:34 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/maximizing-benefits-from-phd-program/</guid>
-      <description>
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Maximize-benefit-phd-program.png&#34; width=&#34;50%&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;A &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/Maximize-benefit-phd-program.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;  from the doctoral workshop at the 2016 West Coast Research Symposium on Innovation and Entrepreneurship.&lt;/p&gt;
-
-&lt;p&gt;A presentation from the orientation session for incoming PhD students at the University of Illinois. My central point was that students should think of the entire PhD experience holistically, rather than as a series of discrete phases, e.g., classes, dissertating, being on the market.&lt;/p&gt;
-</description>
+      <description>A presentation from the doctoral workshop at the 2016 West Coast Research Symposium on Innovation and Entrepreneurship.
+A presentation from the orientation session for incoming PhD students at the University of Illinois. My central point was that students should think of the entire PhD experience holistically, rather than as a series of discrete phases, e.g., classes, dissertating, being on the market.</description>
     </item>
     
   </channel>

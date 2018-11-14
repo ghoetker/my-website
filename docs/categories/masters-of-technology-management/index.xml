@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 20 Jan 2007 12:55:49 -0700</lastBuildDate>
-    <atom:link href="/categories/masters-of-technology-management/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/categories/masters-of-technology-management/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Strategy</title>
@@ -16,16 +18,8 @@
       <pubDate>Sat, 20 Jan 2007 12:55:49 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/class/strategy-tech-mgt/</guid>
-      <description>
-
-&lt;p&gt;The Masters in Technology Management program at Illinois served both managers who found themselves managing technologists and scientists/engineers who are moving towards management.  This class customized the standard strategy class to the MSTech context.&lt;/p&gt;
-
-&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
-
-&lt;p&gt;Click &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/classes/syllabus_techStrat_MSTech.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
-
-&lt;p&gt;&lt;embed src=&#34;https://ghoetker.github.io/my-website/pdf/classes/syllabus_techStrat_MSTech.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1200px&#34;&gt;&lt;/p&gt;
-</description>
+      <description>The Masters in Technology Management program at Illinois served both managers who found themselves managing technologists and scientists/engineers who are moving towards management. This class customized the standard strategy class to the MSTech context.
+Syllabus Click here to download.</description>
     </item>
     
   </channel>

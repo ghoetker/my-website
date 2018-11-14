@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="theme" content="hugo-academic">
-  <meta name="generator" content="Hugo 0.32.2" />
+  <meta name="generator" content="Hugo 0.51" />
   <meta name="author" content="Glenn Hoetker">
 
   
@@ -356,8 +356,11 @@
 
 <li><p><a href="https://www.r-project.org/about.html" target="_blank">R</a> is the free version of the S+ statistics package. S+ offers a more sophisticated GUI, but most people I know use R instead. With its own commands and a huge number of very specialized user-written additions, R can do pretty much anything under the sun. It also has very good graphics capabilities. Its great strength and weakness is that it makes you get deep into the guts of problem. Performing a regression can involve</p></li>
 </ul>
-<div class="highlight"><pre style="background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R"><span style="color:#c30">`gfit &lt;- lm(Species ˜ Area + Elevation + Nearest + Scruz + Adjacent, data=gala);`</span>
-<span style="color:#c30">`summary(gfit)`</span></code></pre></div>
+
+<pre><code class="language-R">`gfit &lt;- lm(Species ˜ Area + Elevation + Nearest + Scruz + Adjacent, data=gala);`
+`summary(gfit)`
+</code></pre>
+
 <p>That can present a significant learning curve, but it is also helpful in learning what’s really going on in the model one is running.</p>
 
 <ul>
@@ -404,7 +407,7 @@ Tags: Stata, Statistical packages, Software</p>
   
 <section id="comments">
   <div id="disqus_thread"></div>
-<script>
+<script type="application/javascript">
     var disqus_config = function () {
     
     

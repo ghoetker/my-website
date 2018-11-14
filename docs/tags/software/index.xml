@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 18 Jan 2017 15:00:15 -0700</lastBuildDate>
-    <atom:link href="/tags/software/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Update to Tools of the trade 1 -- Spelling and grammar checkers</title>
@@ -16,15 +18,7 @@
       <pubDate>Wed, 18 Jan 2017 15:00:15 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</guid>
-      <description>&lt;p&gt;Shortly after I posted Tools of the trade 1—Spelling and grammar checkers, version 3.0 of the Hemingway Editor became available.  The changes are evolutionary, rather than revolutionary, but provide some useful new features. The update is free to owners of version 2, which is generous for an update of this magnitude. &lt;/p&gt;
-
-&lt;p&gt;For scholarly writing, the most important changes are the ability to have multiple documents open at once and to import text directly from Markdown-formatted plain text documents, in addition to Word, which it could already do. I found a few issues when round-tripping a draft article from Word to Hemingway and back to Word. Tables were completely mangled and some formatting was lost.  The former is not surprising given Hemingway&amp;rsquo;s more general target audience and would be easy to work around.  Formatting issues seemed, based on quick perusal, to be more common in sections with lots of manual formatting (centering and underlining seemed to vanish, while italics remained).  Styles were retained, although the exported document didn&amp;rsquo;t seem to retain the same definition of those styles. It&amp;rsquo;s not hard to move style definitions between documents, but having to do so does introduce an additional step. Oddly, although it can only import .docx files (not the older .doc format), it exports .doc files.&lt;/p&gt;
-
-&lt;p&gt;Another new feature offers an alternative to round-tripping Word documents.  Hemingway can now export a PDF of your document that includes its informative highlighting.  One could import a Word document, export the highlighted PDF and edit the problems Hemingway found directly in Word.&lt;/p&gt;
-
-&lt;p&gt;Other new features, probably less relevant for scholarly writing, include pubishing to Wordpress and Medium directly from the app and a distraction-free mode that hides unnecessary UI elements.&lt;/p&gt;
-
-&lt;p&gt;If you thought Hemingway sounded useful on the basis of my earlier post, you&amp;rsquo;ll find it equally or slightly more so after the update.  It&amp;rsquo;s exciting to see the product continue to evolve.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Shortly after I posted Tools of the trade 1—Spelling and grammar checkers, version 3.0 of the Hemingway Editor became available.  The changes are evolutionary, rather than revolutionary, but provide some useful new features. The update is free to owners of version 2, which is generous for an update of this magnitude.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,60 +27,7 @@
       <pubDate>Wed, 11 Jan 2017 15:08:10 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</guid>
-      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer &lt;a href=&#34;https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Many, perhaps most, of us choose our tools fairly casually. Inertia may be the primary determinant of what we use. However, scholarship places different demands on our tools, so a more deliberate consideration of options can be worthwhile. The word processor or presentation software you&amp;rsquo;ve used for years may or may not be the best choice for your scholarly work. Also, some useful tools like bibliographic information managers (Zotero, EndNote, etc.) are probably outside of your prior experience.&lt;/p&gt;
-
-&lt;p&gt;This first post in the series is about grammar &amp;amp; spelling checkers. Most word processors include at least a spell checker and some, e.g. Microsoft Word, also include a grammar checker. Still, I see two reasons to consider a separate grammar &amp;amp; spelling tool. First, we do much of our writing outside of word processors, including emails and web-based forms. Second, while all the spelling checkers I&amp;rsquo;ve encountered are competent, the grammar checkers are more limited. I&amp;rsquo;ve experimented with two grammar checkers, Hemingway and Grammarly. Both are useful but fulfill different roles.&lt;/p&gt;
-
-&lt;p&gt;Hemingway&amp;rsquo;s purpose is to &amp;ldquo;Make your writing bold and clear.&amp;rdquo; It highlights long or convoluted sentences, words and phrases that can be simplified, adverbs and uses of the passive voice. It is up to the author to devise a fix to the problem, although it will suggest simpler alternatives for words and phases, for example, suggesting &amp;ldquo;But&amp;rdquo; or &amp;ldquo;Yet&amp;rdquo; as replacements for &amp;ldquo;However.&amp;rdquo; Because you can edit with Hemingway, feedback on your changes is immediate, and Hemingway&amp;rsquo;s use of colorful highlighting makes it easy to identify areas of concern. Hemingway is available as a free &lt;a href=&#34;http://www.hemingwayapp.com/&#34; target=&#34;_blank&#34;&gt;web-based service&lt;/a&gt; or as a &lt;a href=&#34;http://www.hemingwayapp.com/desktop.html&#34; target=&#34;_blank&#34;&gt;desktop app&lt;/a&gt; for either Mac or Windows ($20 at the time of this posting). Either allow you to edit text directly, including basic formatting, although I expect that most people will cut and paste text from other applications. The desktop app works without internet access and allows you to import Word documents and export formatted text as either a Word document, HTML (great for posting to a blog) or Markdown (a plain-text format I&amp;rsquo;ll write about soon).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://grammarly.go2cloud.org/SHqp&#34; target=&#34;_blank&#34;&gt;Grammarly&lt;/a&gt; is a more traditional style checker, looking for errors in spelling, sentence structure, grammar and punctuation. It seems to have a deep style guide, which it applies intelligently. Feedback consists of colored underlining in the text and an explanation of the issue in the sidebar. The sidebar feedback come in three levels. Initially, you see a one-line description of the problem, perhaps with a proposed fix that can be implemented by clicking on it. The one-line description can be expanded for a slightly more extensive description, e.g., &amp;ldquo;Unclear antecedent It may be unclear who or what This refers to. Consider rewriting the sentence to remove this unclear reference.&amp;rdquo; An additional click brings up an extensive explanation, often with multiple examples. Like Hemingway, Grammarly is available as both a &lt;a href=&#34;https://grammarly.go2cloud.org/SHqp&#34; target=&#34;_blank&#34;&gt;web-based service&lt;/a&gt; or a &lt;a href=&#34;https://grammarly.go2cloud.org/SHqp&#34; target=&#34;_blank&#34;&gt;desktop app&lt;/a&gt; for Mac or Windows. Unlike Hemingway, either can import/export Word documents in addition to allowing you to edit text directly. Grammarly also has extensions for Chrome, Safari and Firefox, which unobtrusively check grammar whenever you are inputting text on the web. I&amp;rsquo;ve found this helpful when I&amp;rsquo;m composing announcements on Blackboard, for example. There is also a plugin for MS Word on Windows, which I&amp;rsquo;ve not tested.&lt;/p&gt;
-
-&lt;p&gt;Grammarly offers a free tier of services via either the web or the desktop application, both of which need internet access. The free tier includes &amp;ldquo;150 critical grammar and spelling checks.&amp;rdquo; Grammarly Premium offers another 100 checks, suggests alternative wording to diversify your writing, allows you to specify the genre of your writing and checks for plagiarism across &amp;ldquo;8 billion web pages.&amp;rdquo; Grammarly Premium costs about $12 a month via an annual subscription. I&amp;rsquo;ve found it powerful and easy to use. It does have some quirks which I hope later versions will address. For example, it always encourages the use of the Oxford comma (i.e., the second comma in &amp;ldquo;I like apples, pears, and oranges.&amp;rdquo;) Many writers, including me, prefer to omit the second comma unless it&amp;rsquo;s necessary for clarity. While you can turn off broad categories like punctuation checks, I&amp;rsquo;ve not found a way to turn off specific checks like the Oxford comma. I paid for the premium version almost immediately after I started using Grammarly, so I unfortunately can&amp;rsquo;t compare the thoroughness of its checks to the free version, but both share the same easy-to-use interface.&lt;/p&gt;
-
-&lt;p&gt;As a demonstration of both products, here are screenshots of an early draft of this post in both (I omitted some text in which Grammarly didn&amp;rsquo;t mark anything).&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/Grammarly.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Grammarly&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;br /&gt;
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/HemingwayEditor.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Henningway&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;p&gt;I was impressed that Grammarly caught the error in &amp;ldquo;It will focus mostly of software.&amp;rdquo; I didn&amp;rsquo;t understand why it suggested omitting the comma in the final sentence until I drilled down to the most extensive explanation. So, I learned something in addition to improving this document. Hemingway didn&amp;rsquo;t catch as many errors but was much more rigorous in pointing out hard to read sentences and words that could be replaced with simpler ones. I found the color coding very helpful, particularly regarding adverbs, which aren&amp;rsquo;t inherently bad, but weaken writing when used excessively. Being able to scan the whole document for blue highlighting is a quick way to sense if there might be a problem.&lt;/p&gt;
-
-&lt;p&gt;These different results reflect the different aims of the products, rather than one being better than the other, begging the question of which to use. Even though I am an experienced writer and native speaker of English, I found Grammarly an easy to use way to improve my writing. It has saved me from embarrassing typos and lapses in emails and web-postings. It handles drafts of articles equally well. I don&amp;rsquo;t see any reason not to use at least the free version and think the Premium version is a good investment if you can afford it. &lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:If-you-register&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:If-you-register&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Hemingway is also great, but somewhat more limited for scholarly application. It has been very helpful for tightening up the writing in my syllabi, longer emails and similar documents. Unfortunately, even my best efforts at concise, robust scholarly writing turn into massive yellow or red blocks of &amp;ldquo;This sentence is (very) hard to read.&amp;rdquo; An ad hoc sample of articles in my &amp;ldquo;To read&amp;rdquo; folder gave similar results, so I think reflects the peculiarities of scholarly writing. Even so, it consistently revealed multiple opportunities to streamline draft articles. Again, I don&amp;rsquo;t see any reason not to use the free web-based version. I think the real value of the paid application, besides supporting the developer, is the ability to import and export Word documents without losing formatting. Since it is only $20, I think it&amp;rsquo;s a reasonable purchase if you consistently find the web-based version helpful.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:If-you-register&#34;&gt;If you register for Grammarly via the links in this article, I get a small referral fee. The direct link, should you prefer it, is &lt;a href=&#34;http://www.grammarly.com&#34; target=&#34;_blank&#34;&gt;http://www.grammarly.com&lt;/a&gt;. &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:If-you-register&#34;&gt;&lt;sup&gt;^&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
+      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer &lt;a href=&#34;https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -95,63 +36,7 @@
       <pubDate>Wed, 21 Dec 2016 15:55:54 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/mindmap-for-class-prep/</guid>
-      <description>&lt;p&gt;Mindmapping has been around for a long time in various forms and there are many software packages available. In this post, I discuss how I use iThoughtsX to plan my classes. Nothing I&amp;rsquo;ll discuss is specific to iThoughts since many other packages offer similar features. Having tried most of them, I&amp;rsquo;ve found that iThoughts best meets my working style. I especially appreciate its amazing export options and the fact that files move seamlessly from its Mac to iPad versions.&lt;/p&gt;
-
-&lt;p&gt;As shown below, I&amp;rsquo;ve made a map for my class. Each of the branches shown has many sub-branches.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtPreview1.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-￼&lt;br /&gt;
-This makes it a great tool for the doodling around stage of planning, especially since moving an item from one branch to another is so quick.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtsmovingItems.gif&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-￼&lt;br /&gt;
-It also gives me a place to store items I come across between times I teach, so there are all in one place when I come back to prepare for the next edition of the class. I can tag new items with the pencil icon to give me a visual clue that these are new since last time I taught (there are a slew of additional icons available and you can search or filter using them).&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s all pretty standard application for mind mapping. My real breakthrough came when I realized I could use a mindmap for the more nitty gritty part of planning and organizing the class. My mindmap allows me to&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;At the macro level, layout each class session and how they will fall into larger subject modules.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Schedule the readings for each class.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Add additional text that will become part of the reading list.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Track which classes/modules have been fully prepared and which still need work.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Export an image that I&amp;rsquo;ll use in our first class to illustrate the overall structure of the class&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Export information that allows me to automatically compile all of the relevant PDFs and links, organized into folders by class session.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Export information that allows me to automatically generate the syllabus I&amp;rsquo;ll distribute to the students.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The last two items on that list depends on other geeky technology, but even iThoughts itself it can do amazing things. The material that will become the syllabus all resides in the &amp;ldquo;Class Sessions&amp;rdquo; node. First I created a node for each subject module and each class session therein. Because of how easy it is the create/delete branches and move items between branches, I started with a very rough outline and refined it as I went. In the same way, it was trivial to reorganize the subject modules between annual editions of the class.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme8_540.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Within each class, I created nodes for Readings and Assignments. Having created it once, I copy-pasted it to the other sessions. If appropriate, I added subdivisions for the readings in each class. Then, I created nodes for each reading. For most of them, I copied information over from EndNote, which is how I organize my reference library. I&amp;rsquo;ve set iThought to automatically alphabetize items for me.&lt;/p&gt;
-
-&lt;p&gt;￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme4_860.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The arrow on the node indicates that there is a link associated with it. That can be a link to a website or to a file (created by dragging the file onto a node). Clicking on the arrow will open the associated file, which makes it easy to re-examine items (&amp;ldquo;How long was the Carlson paper?&amp;rdquo;). I can also add notes for each node, either for myself or, as in this case, to become part of the syllabus.&lt;/p&gt;
-
-&lt;p&gt;￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme5.png&#34; alt=&#34;&#34; /&gt;￼&lt;/p&gt;
-
-&lt;p&gt;Each node can also be associated with task management information, which I&amp;rsquo;ve repurposed. Here, I&amp;rsquo;ve tagged a class session with the date it occurs, how many days it will take and marked its progress as &amp;ldquo;Rollup&amp;rdquo;, that is, what proportion of the nodes below it have been completed.&lt;/p&gt;
-
-&lt;p&gt;￼￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtsPreviewme7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This allows me to see that I&amp;rsquo;ve completed the &amp;ldquo;Setting the stage&amp;rdquo; module (the checkmark) and that I&amp;rsquo;ve dedicated 3 class sessions to it. Because this all updates dynamically, I can trivially track that I&amp;rsquo;ve not dedicated too much time to any one subject and have stayed within the 16 class session I have.&lt;/p&gt;
-
-&lt;p&gt;￼￼&lt;img src=&#34;https://ghoetker.github.io/my-website/img/iThoughtspreviewme3.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
-￼&lt;br /&gt;
-Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts export capabilities, which include exporting to a PDF, a website, images, Word/Excel/Powerpoint (with lots of flexibility), other mindmapping formats, and Markdown. Simply exporting to Word would give one a great start on the Syllabus, needing minimal additional formatting. To leverage the other systems I have in place, I go another route, which I&amp;rsquo;ll &lt;em&gt;briefly&lt;/em&gt; describe just to give a flavor of what is possible.&lt;/p&gt;
-
-&lt;p&gt;First, I export everything in the &amp;ldquo;Class sessions&amp;rdquo; node as a comma-delimited .csv file. I use a short Python script to extract information on each reading, which is used to copy the PDFs for each session into an appropriately named folder. Compiling all the PDFs in this way takes under 10 seconds and guarantees I don&amp;rsquo;t omit a reading. Second, I export as a Markdown file. Markdown, if you&amp;rsquo;ve not encountered it, is a plain text format meant to create a document that is easy for humans to read, not locked into any proprietary format (Word, Pages, etc.), yet able to be translated into PDFs, websites, Word documents, etc. For my purposes here, the key thing is that Markdown is plain text, which means I can take advantage of basic Unix (Python, etc.) tools to tweak it to exactly how I want it&amp;ndash;removing some exported information I don&amp;rsquo;t care about, etc. Then I use the amazing (and free) pandoc software to turn the Markdown into a LaTex file, which I compile into a beautiful PDF. Because I&amp;rsquo;ve written a shell script to do the tweaking and have a LaTeX template set up, I can go from export to completed PDF in about 20 seconds.&lt;/p&gt;
-
-&lt;p&gt;Obviously, this is a time-saver (once I used it enough to make up for the development time involved). More importantly, it frees me to refine my class plan without friction. If I want to add a reading, move a reading between sessions, combine two sessions, etc., I simply do so in the mindmap document. In well under a minute, I will have an up-to-date syllabus and folder of organized readings, with no chance for error. It is easy to keep my class up to date and I&amp;rsquo;ve been more willing/able to experiment with alternative organizations.&lt;/p&gt;
-
-&lt;p&gt;Having set up this system, I use it for all of my classes with minimal change. It&amp;rsquo;s great from the &amp;ldquo;blank-slate&amp;rdquo; stage of planning through producing the final syllabus.&lt;/p&gt;
-
-&lt;p&gt;Although I didn&amp;rsquo;t show it here, I use the same mindmap to make detailed plans for each class session. It&amp;rsquo;s especially helpful for my 4 hour evening MBA class, where I have lots of different activities each session and need to be very aware of time management.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve also used iThought to deliver material in class. For example, I use it to present a timeline of sustainability-related events over the last 140 years. It works great because the map conveys the overall structure, while I can link individual nodes to videos, images, sound clips, websites, etc.&lt;/p&gt;
-</description>
+      <description>Mindmapping has been around for a long time in various forms and there are many software packages available. In this post, I discuss how I use iThoughtsX to plan my classes. Nothing I&amp;rsquo;ll discuss is specific to iThoughts since many other packages offer similar features. Having tried most of them, I&amp;rsquo;ve found that iThoughts best meets my working style. I especially appreciate its amazing export options and the fact that files move seamlessly from its Mac to iPad versions.</description>
     </item>
     
     <item>
@@ -160,33 +45,7 @@ Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts expo
       <pubDate>Thu, 06 Feb 2014 16:06:49 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac/</guid>
-      <description>&lt;p&gt;I’ve been a Mac fan since 1984 because, well, I think the Mac OS is more intuitive, stable and enjoyable to use. But, totally aside from that, I think there are three reasons that a Mac may be a better choice for many PhD students.&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Obviously, a bit out of date. However, I think my observations still stand. The one caveat is that I&amp;rsquo;ve moved to BibDesk rather than EndNote, so can no longer speak to the quality of its AppleScript support. BibDesk&amp;rsquo;s AppleScript support is quite good.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;applescript&#34;&gt;Applescript&lt;/h2&gt;
-
-&lt;p&gt;Applescript is Apple&amp;rsquo;s rather, well, funky, scripting language that allows one to automate programs. Several ways this can be useful. Within a single program, you may find yourself performing the same action very frequently. Especially if it requires several steps, automating it could be helpful. For example, I take notes on PDFs in the free PDF reader, Skim. I want to export those as individual text files, each named according to elements of the notation. Applescript lets me do that with a single click of a menu.&lt;/p&gt;
-
-&lt;p&gt;Even more useful is using Applescript as the &amp;ldquo;glue&amp;rdquo; between programs. For example, I don&amp;rsquo;t like how Endnote automatically stores and names imported PDFs. I have an Applescript that goes into Endnote to figure out the files current name and location, as well as what the file should be named according to my preferred scheme (firstAuthor-year-recordNumber.pdf). It then goes out to the Finder, moves the file to the right folder and renames it appropriately. Lastly, it goes back into EndNote and points the &amp;ldquo;File attachment&amp;rdquo; record to the now properly named and located PDF. As another example, the Skim export I mentioned above actually follows up the export by tagging each text file with tags generated from the annotation I made.&lt;/p&gt;
-
-&lt;p&gt;Not every program is Applescript friendly, but for the ones that are, Applescript can really help create an efficient, integrated ecosystem.&lt;/p&gt;
-
-&lt;h2 id=&#34;unix&#34;&gt;Unix&lt;/h2&gt;
-
-&lt;p&gt;The current Mac operating system is actually a pretty user interface on top of the Unix operating system. This has two advantages.&lt;/p&gt;
-
-&lt;p&gt;First, you have access to all the power of Unix. In particular, &lt;em&gt;awk&lt;/em&gt; and &lt;em&gt;sed&lt;/em&gt; are occasional lifesavers when it comes to munging very funky data. For example, I recently dealt with a 1.5 gig text file of patent data. I didn&amp;rsquo;t actually need many of the columns and had to deal with some very, um, &amp;ldquo;Interesting&amp;rdquo; decisions that had been made regarding the coding of the data. I certainly could have pulled it into Stata and managed it there, but it was easier and faster to throw a couple lines of &lt;em&gt;awk&lt;/em&gt; and &lt;em&gt;sed&lt;/em&gt; at it to keep just the columns I wanted and regularize the funky coding. Other little commands like &lt;em&gt;head&lt;/em&gt; make it easy to peek at the top of a big file, &lt;em&gt;curl&lt;/em&gt; and &lt;em&gt;wget&lt;/em&gt; make it easy to download information from websites, etc.&lt;/p&gt;
-
-&lt;p&gt;Second, there are a ton of programs, some very, very specific, others more general, available for Unix. For example, there are some sophisticated web-scrappers. These are generally easy to install and run on the Mac (see &lt;a href=&#34;http://www.macports.org&#34; target=&#34;_blank&#34;&gt;http://www.macports.org&lt;/a&gt;, &lt;a href=&#34;http://www.finkproject.org&#34; target=&#34;_blank&#34;&gt;http://www.finkproject.org&lt;/a&gt; and &lt;a href=&#34;http://brew.sh&#34; target=&#34;_blank&#34;&gt;http://brew.sh&lt;/a&gt; to get a sense of the packages available in an easy to install way).&lt;/p&gt;
-
-&lt;h2 id=&#34;tagging&#34;&gt;Tagging&lt;/h2&gt;
-
-&lt;p&gt;Mavericks, the newest version of the Mac operating system, introduces the ability to tag files. For example, I tag PDFs with the name of projects for which I think they are relevant. In that way, I can do a quick search and pull together all the relevant files for a project. I also tag according to the subject of a file (PDF, Powerpoint, text file, whatever). Especially combined with programs like Ammonite or Leap, this makes it really easy to see what you&amp;rsquo;ve gathered about a subject. So, I can start a search in Leap with &amp;ldquo;teaching&amp;rdquo; and see all of the files related to teaching, as well as the tags they have been given. Further limit to &amp;ldquo;strategy&amp;rdquo; and I can see that I&amp;rsquo;ve tagged 12 files related to Five Forces, of which 2 are videos, 1 a cartoon, and the rest PDFs.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I’ve been a Mac fan since 1984 because, well, I think the Mac OS is more intuitive, stable and enjoyable to use. But, totally aside from that, I think there are three reasons that a Mac may be a better choice for many PhD students.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -195,16 +54,7 @@ Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts expo
       <pubDate>Wed, 06 Nov 2013 17:58:54 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/stata-project-feature/</guid>
-      <description>&lt;p&gt;One of the features of Stata 13 and later is “Projects”, which are meant to provide easier access to multiple files related to a, well, project you are working on. The files can be do files, data, logs, graphs, etc. In fact, they don’t even need to be Stata files. One advantage I have found is that they make it possible to maintain a strict organization of certain types of files going in certain directories, while still having access to all of those files from one pane within Stata.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, this project gives easy to access to data, do files, a text file mapping variables to hypotheses and, eventually, results. Setting up and managing a project isn&amp;rsquo;t quite as automatic as I wish it was. For example, I haven&amp;rsquo;t found a way to have a &amp;ldquo;template&amp;rdquo; to set up a new project just as I want. But, it&amp;rsquo;s still pretty useful.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://ghoetker.github.io/my-website/img/stataProject2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Equally useful if you have multiple projects going is the fact that opening a project by double clicking it opens up Stata and changes its working directory to whichever directory the project file sits in. So, on my Mac, I have a smart folder set up with &amp;ldquo;Kind is Stata Project File&amp;rdquo;. This folder is dynamically filled with aliases to all the Stata project files on my computer. I&amp;rsquo;ve dragged that smart folder to my dock and now have, effectively, a pop up menu that can take me to any of my ongoing projects, ready to go. I suspect Windows has some way to do something similar.&lt;/p&gt;
-</description>
+      <description>One of the features of Stata 13 and later is “Projects”, which are meant to provide easier access to multiple files related to a, well, project you are working on. The files can be do files, data, logs, graphs, etc. In fact, they don’t even need to be Stata files. One advantage I have found is that they make it possible to maintain a strict organization of certain types of files going in certain directories, while still having access to all of those files from one pane within Stata.</description>
     </item>
     
     <item>
@@ -213,12 +63,7 @@ Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts expo
       <pubDate>Tue, 06 Sep 2011 18:07:47 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/what-statistical-package-update-1/</guid>
-      <description>&lt;p&gt;Technological progress continues. In an older &lt;a href=&#34;https://ghoetker.github.io/my-website/post/what-statistical-package&#34;&gt;posting&lt;/a&gt;, I mentioned the role of specialized packages that addressed models not available in the general purpose software, such as LISREL for structural equation modeling (SEM). That example is now somewhat moot, as Stata 12 has an extensive SEM capability and new add-ons for R allow modeling of SEMs. I suspect that if I were a power user, I would find limitations in Stata/R relative to the dedicated packages, but at my level, I haven’t found them.&lt;/p&gt;
-
-&lt;p&gt;Of course, there are still uses for dedicated packages. From the viewpoint of a Stata user, TDA still offers a few unique features for survival time modeling and HLM &amp;amp; mlwin offer some multilevel functionality not available in Stata.&lt;/p&gt;
-
-&lt;p&gt;I consider it an open question whether the broader availability of these models is a universally good thing. As I noted in my 2007 SMJ &lt;a href=&#34;https://ghoetker.github.io/my-website/publication/use-of-logit&#34;&gt;paper&lt;/a&gt;, one reason for some of the shortcomings in the field’s use of logit models is that they “look” just like OLS regression in Stata. I didn’t enjoy learning the funny Greek notation for laying out a matrix in LISREL, but it mean I had to have a deeper understanding of what was gone on in the model than is required to set up and run an SEM model in Stata.&lt;/p&gt;
-</description>
+      <description>Technological progress continues. In an older posting, I mentioned the role of specialized packages that addressed models not available in the general purpose software, such as LISREL for structural equation modeling (SEM). That example is now somewhat moot, as Stata 12 has an extensive SEM capability and new add-ons for R allow modeling of SEMs. I suspect that if I were a power user, I would find limitations in Stata/R relative to the dedicated packages, but at my level, I haven’t found them.</description>
     </item>
     
     <item>
@@ -227,107 +72,7 @@ Once I&amp;rsquo;ve finalized everything, I can take advantage of iThoughts expo
       <pubDate>Tue, 07 Sep 2010 14:11:04 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/template-for-stata-do-files/</guid>
-      <description>
-
-&lt;p&gt;There are many different approaches to writing and documenting the many steps that go into an empirical project. J. Scott Long has a great book, &lt;em&gt;The Workflow of Data Analysis Using Stata&lt;/em&gt;, which I strongly recommend. He recommends developing a series of small, highly focused do files, which are run in sequence as needed. I take a different approach, which is keep all of a project&amp;rsquo;s code in one honking large do file, which is divided into sections. This posting provides more details about my approach. I&amp;rsquo;ve pasted a skeleton version of this below. To explain what I&amp;rsquo;m trying to do in several places, since this is pretty idiosyncratic.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-header-section&#34;&gt;The HEADER section&lt;/h2&gt;
-
-&lt;p&gt;a) gives information on the file (in case I ever find a print-out of it somewhere and need to find it on the computer)&lt;/p&gt;
-
-&lt;p&gt;b) lists what files are used and produced by each section. Great when I can&amp;rsquo;t figure out where &amp;ldquo;important_data_file_1&amp;rdquo; comes into play. I could probably do the same just be searching, but I like this way.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-macros-section&#34;&gt;The MACROS section&lt;/h2&gt;
-
-&lt;p&gt;a) I use the local macro &amp;ldquo;do_me&amp;rdquo; to control which sections get run for a given run of the do file. The sections are labels a-z and I just insert the letters of the section I want to run into the do_me macro (here, I&amp;rsquo;ll run parts a and b). More below.&lt;/p&gt;
-
-&lt;p&gt;b) defines some temp variables, files, etc., just for future reference.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-main-code-block&#34;&gt;The MAIN CODE block&lt;/h2&gt;
-
-&lt;p&gt;a) Since I like to run my code and then examine the aftermath, I turn more off&lt;/p&gt;
-
-&lt;p&gt;b) The line&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;if strpos(&amp;quot;`do_me&#39;&amp;quot;,&amp;quot;a&amp;quot;)&amp;gt;0 {
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;evaluates to some number greater than 0 if I included &amp;ldquo;a&amp;rdquo; in my definition of _do&lt;em&gt;me&lt;/em&gt;. In that case, everything with the brackets defining section &amp;ldquo;a&amp;rdquo; will be run. If &amp;ldquo;a&amp;rdquo; isn&amp;rsquo;t in _do&lt;em&gt;me&lt;/em&gt;, this evaluates to 0 and nothing between the brackets is run. And so on and so forth. This way I can go to one point of the do file (the Macros section), see what each section does and flip them on or off for a given run.&lt;/p&gt;
-
-&lt;p&gt;Typically, section A is all about taking raw data and manipulating it into the data I&amp;rsquo;ll use and then saving that for use by subsequent sessions. With any luck, I only have to run this section once. Section B is probably descriptive statistics, C-?? will be different modeling strategies. Then there will be a section for producing publication-ready output.&lt;/p&gt;
-
-&lt;p&gt;The pluses I&amp;rsquo;ve found to this system are that everything is captured in one place, easy to reference, edit and run. I don&amp;rsquo;t have to comment sections in and out to control what runs. There are minuses. Because the file is so long, typically, one has to watch it all scroll by on the screen. When editing, getting from one section to another can be a pain. I&amp;rsquo;ve solved this by always using text editors that allow for tags or bookmarks. I assign the tag &amp;ldquo;0&amp;rdquo; to the line &amp;ldquo;_local do&lt;em&gt;me&amp;hellip;&lt;/em&gt;&amp;rdquo;; the tag &amp;ldquo;A&amp;rdquo; to the starting line of section a, etc. Puts any part of the code within a few keystrokes.&lt;/p&gt;
-
-&lt;p&gt;As I’ve re-read Long’s book several times, I’m seeing benefits to his approach. I’m not sure if I’ll actually switch, but I’m tempted to experiment.&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;As of January, 2018, I&amp;rsquo;ve slightly modified my approach from what is described here. One of these days, I&amp;rsquo;ll make an updated post. I think the logic of this approach, however, is still valid.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;h2 id=&#34;an-example-file&#34;&gt;An example file&lt;/h2&gt;
-
-&lt;pre&gt;&lt;code&gt;/*
-
-FILE NAME:
-
-DESC:
-
-A:
-
-Input files
-
-Output files
-
-B:
-
-Input files
-
-Output files
-
-*/
-
-/*MACROS*/
-
-local do_me &amp;quot;ab&amp;quot; /*Which sections to do */
-// a. Description of what part &amp;quot;a&amp;quot; does
-// b. Description of what part &amp;quot;b&amp;quot; does
-// c.
-// d.
-
-local base
-local base
-tempvar tv1
-tempvar tv2
-tempfile tf1
-
-
-/*BEGIN MAIN CODE BLOCK*/
-
-set more off
-
-/* A. Description */
-if strpos(&amp;quot;`do_me&#39;&amp;quot;,&amp;quot;a&amp;quot;)&amp;gt;0 {
-set memory 250m
-clear
-cd `base&#39;
-
-[Insert code here...]
-save working_data, replace
-}
-
-/* B. Description */
-if strpos(&amp;quot;`do_me&#39;&amp;quot;,&amp;quot;b&amp;quot;)&amp;gt;0 {
-set memory 250m
-clear
-cd `base&#39;
-
-use working_data
-[code here]
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>There are many different approaches to writing and documenting the many steps that go into an empirical project. J. Scott Long has a great book, The Workflow of Data Analysis Using Stata, which I strongly recommend. He recommends developing a series of small, highly focused do files, which are run in sequence as needed. I take a different approach, which is keep all of a project&amp;rsquo;s code in one honking large do file, which is divided into sections.</description>
     </item>
     
     <item>
@@ -336,48 +81,10 @@ use working_data
       <pubDate>Tue, 07 Sep 2010 13:57:08 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/excel-is-evil/</guid>
-      <description>
-
-&lt;p&gt;Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Using it to clean, combine and otherwise manage data&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;Cutting and pasting results into Excel (or worse yet, Word) and then formatting them for presentation&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Both of these a very inefficient uses of time. The first is a disaster for data integrity, because it is hard to document, almost impossible to revise, and very easy to mess up (sort only have the variables, be one row off when pasting, etc.).&lt;/p&gt;
-
-&lt;p&gt;The second use of Excel is also prone to mistakes, although they are probably more easily corrected than butchering your data in Excel. Fortunately, there are many better approaches.&lt;/p&gt;
-
-&lt;h2 id=&#34;descriptive-statistics&#34;&gt;Descriptive statistics&lt;/h2&gt;
-
-&lt;p&gt;There are several packages available to produce correlation matrices and descriptive statistics for publication. I wrote &lt;em&gt;mkcorr&lt;/em&gt; several years ago (like most user-written additions to Stata, it can be installed with the command &lt;code&gt;ssc install mkcorr, replace&lt;/code&gt;). &lt;em&gt;mkcorr&lt;/em&gt; produces a correlation table in a format that is easy to import into a spreadsheet or word processing document. So, there is still formatting to do, perhaps even in, shudder, Excel. But, by writing the output directly to a logfile, it avoids two problems with cutting and pasting correlation tables from the results window. First, it allows an effectively unlimited number of variables without wrapping around. Second, it requires less post-processing in a spreadsheet or word-processor, particularly for more involved tables. It also offers a number of small advantages such as allowing the use of labels, controlling the number of decimal places used, and other formatting options. &lt;em&gt;corrtex&lt;/em&gt; extends this and allows creation of tables directly in LaTeX.&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;As of January, 2018, this part is somewhat out of date, as Stata 15 offers multiple ways to output directly to Word and Excel. However, &lt;em&gt;mkcorr&lt;/em&gt; may still fit some workflows better.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;A brief aside&amp;ndash;LaTeX is a document layout language. It allows for very sophisticated and elegant tables and excels in formatting mathematical formulae. It is also a bit of a throwback to pre-GUI days. If you don’t already use LaTeX, I wouldn’t learn it just as a complement to Stata, particularly in you have co-authors who don’t use it. Worse yet, several journals will only accept submissions in Word. There is a midway point: using LaTex to produce tables, rendering them as PDFs and inserting those into a Word document.&lt;/p&gt;
-
-&lt;h2 id=&#34;producing-tables-of-results&#34;&gt;Producing tables of results&lt;/h2&gt;
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Despite Stata 15&amp;rsquo;s ability to output directly to Word and Excel, there is definitely still a place for &lt;em&gt;estout&lt;/em&gt; (and perhaps &lt;em&gt;outreg&lt;/em&gt;, although I&amp;rsquo;ve not used it for several years) because of the fine-grained control they give over the content and appearance of the output.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Here is where the different between Excel and the right tools is largest. There are several approaches available within Stata.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;outreg&lt;/em&gt; was the original add-on for producing tables more easily. It produces a tab delimited file with lots of formatting options. This can then be imported easily into a word processing or spreadsheet program, where additional formatting (cell-borders, bolding or italicizing) may be performed if desired. Because of the control it offers and the fact that it is programmable, it beats cutting and pasting.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;estout&lt;/em&gt; is part of the “second generation” of table producing add-ons for Stata and gives the user tremendous control. I’ve yet to meet a table of results that it can’t produce. It can be used to produce a correlation table, too, but I find the more specialized &lt;em&gt;mkcorr&lt;/em&gt; better for this purpose (of course, I wrote &lt;em&gt;mkcorr&lt;/em&gt;, so I may not be totally unbaised). One of the great things about estout is that it produce its tables in comma delimited text, fixed format text, rich text format (rtf), html, or LaTeX. Just a little bit of code makes it easy (at least on a Mac) to have a beautiful table open automatically as either a PDF (from LaTex) or Word (from an rtf file). estout’s syntax can be a bit overwhelming, given all its options, so there is also esttab, which is just a “wrapper” for estout, providing a simpler syntax. It’s worth the effort to learn estout/esttab, because once you’ve mastered it’s basics, you’ll use the repeatedly.&lt;/p&gt;
-
-&lt;p&gt;Roger Newson has provided a suite of commands that offers a slightly different approach. One saves summary statistics, the results of regressions, etc. in “resultsets” (which are just Stata datafiles) and then uses one or more commands to produce tables from those. My personal preference is for estout, but Newson’s approach has a large and enthusiastic following.&lt;/p&gt;
-</description>
+      <description>Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).
+ Using it to clean, combine and otherwise manage data
+ Cutting and pasting results into Excel (or worse yet, Word) and then formatting them for presentation
+  Both of these a very inefficient uses of time. The first is a disaster for data integrity, because it is hard to document, almost impossible to revise, and very easy to mess up (sort only have the variables, be one row off when pasting, etc.</description>
     </item>
     
     <item>
@@ -386,32 +93,7 @@ use working_data
       <pubDate>Mon, 06 Sep 2010 18:12:23 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/what-statistical-package/</guid>
-      <description>&lt;p&gt;This is an amazingly contentious question. My first answer is &amp;ldquo;If you are comfortable with a package and it is serving your needs, keep using it.&amp;rdquo; That can be complicated, of course, if you have a co-author dedicated to a given statistics package. If your only need to is pass data back and forth with that co-author, I strongly recommend Stat Transfer, which can convert from pretty much any statistical format to any other. Another consideration is the package most frequently used in your field.&lt;/p&gt;
-
-&lt;p&gt;If you are not already using a specific package, here are some (very idiosyncratic) observations on some of the more popular packages.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://stata.com&#34; target=&#34;_blank&#34;&gt;Stata&lt;/a&gt; is an increasingly popular and powerful package. It is my runaway favorite. Strengths include the ease of using a command line interface, a menu-based interface, or saved “do” files of commands. The menu-based interface produces the appropriate command line commands, so it is a great way to improve your understanding of Stata’s command language. The Stata documentation is first rate both in its examples and its presentation of underlying econometric theory. There is also a large Stata user community which (1) powers the Statalist mailing list, where members are very generous at helping answer questions both simple and complex and (2) contributes a huge number of user-written commands which one can easily add to one’s Stata toolkit. Several of these commands make it very simple to produce ready to publish tables of results, summary data, correlation tables, etc. That saves one from having to do post-formating in Excel or Word. With Stata’s Mata language, aimed mostly at matrix manipulation, one can craft powerful and fast programs. Stata’s main command language is quite powerful in itself, but Mata can be pre-compiled and is good at especially complex calculations. Stata’s can produce attractive graphs of many types. Because there are so many options, it can be a little overwhelming at first (good chance to use the menus to learn) and Stata doesn’t do 3-D graphics (several user written modules to do so are quite basic). Additionally, it isn’t primarily focused on data manipulation. I’ve never found anything I can’t do, but sorting and merging huge datasets can take a VERY long time.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/about.html&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; is the free version of the S+ statistics package. S+ offers a more sophisticated GUI, but most people I know use R instead. With its own commands and a huge number of very specialized user-written additions, R can do pretty much anything under the sun. It also has very good graphics capabilities. Its great strength and weakness is that it makes you get deep into the guts of problem. Performing a regression can involve&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#f0f3f3;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#c30&#34;&gt;`gfit &amp;lt;- lm(Species ˜ Area + Elevation + Nearest + Scruz + Adjacent, data=gala);`&lt;/span&gt;
-&lt;span style=&#34;color:#c30&#34;&gt;`summary(gfit)`&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;That can present a significant learning curve, but it is also helpful in learning what’s really going on in the model one is running.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.sas.com/en_us/software/stat.html&#34; target=&#34;_blank&#34;&gt;SAS&lt;/a&gt; is one of the oldest of the packages. To me, it seems unnecessarily complex and somewhat stuck in the past (come on, “Cards” as a way of identifying that what follows is data). However, it has a huge user community, many very specialized packages, and is superb at data manipulation when using large data sets. I suspect that if I still used SAS (I abandoned it about 7 years ago), I would sing its praises, but I’m not sure why one, starting from zero, would choose it over Stata.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.ibm.com/products/spss-statistics&#34; target=&#34;_blank&#34;&gt;SPSS&lt;/a&gt; is another very popular package. For a long time, it offered one of the best menu-based interfaces and thus had a very low learning curve. With Stata (and even SAS) now offering good menu interfaces, SPSS no longer has that advantage. It also doesn’t offer the range of sophisticated models the other packages I’ve mentioned do.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Specialized packages There are a plethora of specialized packages out there. Some can perform a broad swath of models, but are really specialized in one type of model. Examples include LIMDEP (limited dependent variables) and TDA (survival analysis). At one point, these offered significantly better handling of their speciality than any general package. In many regards, the general packages have caught up to maybe 90% of the specialized packages capabilities. So, unless you really need to capabilities available in a specialized package, you are probably better off to stay with the general package, rather than learning a whole new set of commands and syntax. Having once been a very capable user of both TDA and LIMDEP, it pains me to write that last sentence, but I haven’t used either in four years and don’t foresee doing so in the near future.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Another set of specialized packages offer capabilities that are either absent or relatively underdeveloped in the general purpose packages. These include LISREL and AMOS for structural equation modeling and HLM for hierarchical linear modeling. At least for now, it is worth giving these a close look if they address your needs for a specialized modeling technique.&lt;/p&gt;
-
-&lt;p&gt;In closing, it used to be worth mastering multiple packages to have a big toolkit to use. As packages have grown and now largely overlap in their capabilities, becoming highly capable in one (or perhaps two ) packages is much more useful.&lt;br /&gt;
-Tags: Stata, Statistical packages, Software&lt;/p&gt;
-</description>
+      <description>This is an amazingly contentious question. My first answer is &amp;ldquo;If you are comfortable with a package and it is serving your needs, keep using it.&amp;rdquo; That can be complicated, of course, if you have a co-author dedicated to a given statistics package. If your only need to is pass data back and forth with that co-author, I strongly recommend Stat Transfer, which can convert from pretty much any statistical format to any other.</description>
     </item>
     
   </channel>

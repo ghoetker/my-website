@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 18 Jan 2013 19:55:26 -0700</lastBuildDate>
-    <atom:link href="/categories/executive-mba/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/categories/executive-mba/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Strategy Capstone</title>
@@ -16,16 +18,8 @@
       <pubDate>Fri, 18 Jan 2013 19:55:26 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/class/strategy-capstone/</guid>
-      <description>
-
-&lt;p&gt;The capstone class for ASU’s W. P. Carey School of Business Executive MBA. In addition to the regular classroom activities, the class includes the LiveCase project, in which student teams act as consultants to a local business.&lt;/p&gt;
-
-&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
-
-&lt;p&gt;Click &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/classes/syllabus_exMBA589.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
-
-&lt;p&gt;&lt;embed src=&#34;https://ghoetker.github.io/my-website/pdf/classes/syllabus_exMBA589.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1200px&#34;&gt;&lt;/p&gt;
-</description>
+      <description>The capstone class for ASU’s W. P. Carey School of Business Executive MBA. In addition to the regular classroom activities, the class includes the LiveCase project, in which student teams act as consultants to a local business.
+Syllabus Click here to download.</description>
     </item>
     
     <item>
@@ -34,14 +28,7 @@
       <pubDate>Fri, 20 Jan 2006 13:07:58 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/class/global-strategy/</guid>
-      <description>
-
-&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
-
-&lt;p&gt;Click &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/classes/global-strategy.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; to download.&lt;/p&gt;
-
-&lt;p&gt;&lt;embed src=&#34;https://ghoetker.github.io/my-website/pdf/classes/global-strategy.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1200px&#34;&gt;&lt;/p&gt;
-</description>
+      <description>Syllabus Click here to download.</description>
     </item>
     
   </channel>

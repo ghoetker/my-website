@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 11 Dec 2016 15:08:10 -0700</lastBuildDate>
-    <atom:link href="/tags/research-identity/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/research-identity/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Creating your research identity</title>
@@ -16,17 +18,7 @@
       <pubDate>Sun, 11 Dec 2016 15:08:10 -0700</pubDate>
       
       <guid>https://ghoetker.github.io/my-website/post/creating-your-research-identity/</guid>
-      <description>
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://ghoetker.github.io/my-website/img/research_identity.png&#34; width=&#34;50%&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;A &lt;a href=&#34;https://ghoetker.github.io/my-website/pdf/Maintain_research_stream.pdf&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt;  from the doctoral workshop at the 2016 West Coast Research Symposium on Innovation and Entrepreneurship.&lt;/p&gt;
-</description>
+      <description>A presentation from the doctoral workshop at the 2016 West Coast Research Symposium on Innovation and Entrepreneurship.</description>
     </item>
     
   </channel>
