@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sustainability on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/tags/sustainability/</link>
+    <description>Recent content in Sustainability on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 21:26:36 -0700</lastBuildDate>
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Doing well by ‘doing good’ and ‘saying good’: The effects and mechanisms of environmental actions and language on employees’ taking charge</title>
+      <link>https://ghoetker.github.io/my-website/publication/doing-well/</link>
+      <pubDate>Mon, 01 Jan 2018 21:26:36 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/doing-well/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing sustainability for competitive advantage</title>
+      <link>https://ghoetker.github.io/my-website/class/managing-sustainability-competitive-advantage/</link>
+      <pubDate>Mon, 01 Jan 2018 15:08:10 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/class/managing-sustainability-competitive-advantage/</guid>
+      <description>A required class in the Evening MBA program, providing students with the &amp;ldquo;sustainability literacy&amp;rdquo; that every manager needs. We work very much from the viewpoint of strategy, exploring the competitive implications of society&amp;rsquo;s increasing focus on sustainability.
+Syllabus Click here to download.</description>
+    </item>
+    
+  </channel>
+</rss>

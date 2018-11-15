@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research methods on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/tags/research-methods/</link>
+    <description>Recent content in Research methods on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 05 Jan 2018 21:08:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/research-methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Are &#39;&#39;U&#39;&#39; sure? Improving the theoretical and empirical investigation of curvilinear relationships in strategy research</title>
+      <link>https://ghoetker.github.io/my-website/publication/potentially-diminishing-returns/</link>
+      <pubDate>Fri, 05 Jan 2018 21:08:56 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/potentially-diminishing-returns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NK modeling methodology in the strategy literature: Bounded search on a rugged landscape</title>
+      <link>https://ghoetker.github.io/my-website/publication/nk-modeling/</link>
+      <pubDate>Thu, 01 Jan 2009 15:33:59 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/nk-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The use of logit and probit models in strategic management research: Critical issues</title>
+      <link>https://ghoetker.github.io/my-website/publication/use-of-logit/</link>
+      <pubDate>Tue, 02 Jan 2007 17:38:33 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/publication/use-of-logit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

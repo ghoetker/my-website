@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masters of Technology Management on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/categories/masters-of-technology-management/</link>
+    <description>Recent content in Masters of Technology Management on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 20 Jan 2007 12:55:49 -0700</lastBuildDate>
+    
+	<atom:link href="https://ghoetker.github.io/my-website/categories/masters-of-technology-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strategy</title>
+      <link>https://ghoetker.github.io/my-website/class/strategy-tech-mgt/</link>
+      <pubDate>Sat, 20 Jan 2007 12:55:49 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/class/strategy-tech-mgt/</guid>
+      <description>The Masters in Technology Management program at Illinois served both managers who found themselves managing technologists and scientists/engineers who are moving towards management. This class customized the standard strategy class to the MSTech context.
+Syllabus Click here to download.</description>
+    </item>
+    
+  </channel>
+</rss>

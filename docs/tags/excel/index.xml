@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Excel on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/tags/excel/</link>
+    <description>Recent content in Excel on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 07 Sep 2010 13:57:08 -0700</lastBuildDate>
+    
+	<atom:link href="https://ghoetker.github.io/my-website/tags/excel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Excel Is evil</title>
+      <link>https://ghoetker.github.io/my-website/post/excel-is-evil/</link>
+      <pubDate>Tue, 07 Sep 2010 13:57:08 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/post/excel-is-evil/</guid>
+      <description>Excel has caused more trouble for more doctoral students than I care to think about. Doctoral students can hurt themselves with Stata in at least two ways (there may be more).
+ Using it to clean, combine and otherwise manage data
+ Cutting and pasting results into Excel (or worse yet, Word) and then formatting them for presentation
+  Both of these a very inefficient uses of time. The first is a disaster for data integrity, because it is hard to document, almost impossible to revise, and very easy to mess up (sort only have the variables, be one row off when pasting, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
