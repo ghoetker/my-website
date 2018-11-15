@@ -65,14 +65,14 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "W.P. Carey School of Business <br> and <br> Julie Ann Wrigley <br>Global Institute Of Sustainability,<br> Arizona State University", url = "" }]
+  organizations = [ { name = "Melbourne Business School, <br> University of Melbourne", url = "" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "HoetkerGlenn.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "Glenn.Hoetker@asu.edu"
-  address = "Box 874006, Tempe, AZ 85287-4006"
+  email = "Glenn.Hoetker@mbs.edu"
+  address = "200 Leicester Street, Carlton, VIC 3053 Australia"
   office_hours = "Email for appointment"
-  phone = "480-965-4566"
+  phone = ""
   #skype = "echo123"
   #telegram = ""
 
@@ -104,8 +104,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 1
   map_api_key = "AIzaSyCzPQwS-SUJ27Uo5UvF0to4WxUu1QxDAVE"
-  latitude = "33.416317"
-  longitude = "-111.934118"
+  latitude = "-37.801254"
+  longitude = "144.961112"
   zoom = 16
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -236,7 +236,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:Glenn.Hoetker@asu.edu"
+    link = "mailto:Glenn.Hoetker@mbs.edu"
 
   # [[params.social]]
   #   icon = "twitter"
