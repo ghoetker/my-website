@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>More software on Glenn Hoetker</title>
+    <title>More Software on Glenn Hoetker</title>
     <link>https://ghoetker.github.io/my-website/categories/more-software/</link>
-    <description>Recent content in More software on Glenn Hoetker</description>
+    <description>Recent content in More Software on Glenn Hoetker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 11 Jan 2017 15:08:10 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jan 2017 15:00:15 -0700</lastBuildDate>
     
 	<atom:link href="https://ghoetker.github.io/my-website/categories/more-software/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tools of the Trade 1</title>
-      <link>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</link>
-      <pubDate>Wed, 11 Jan 2017 15:08:10 -0700</pubDate>
+      <title>Update to Tools of the trade 1 -- Spelling and grammar checkers</title>
+      <link>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</link>
+      <pubDate>Wed, 18 Jan 2017 15:00:15 -0700</pubDate>
       
-      <guid>https://ghoetker.github.io/my-website/post/tools-of-the-trade-1/</guid>
-      <description>&lt;p&gt;This is the first of a series of posts on &amp;ldquo;Tools of the trade.&amp;rdquo; It will focus mostly on software, although you can see my thought on using a Mac rather than a Windows computer &lt;a href=&#34;https://ghoetker.github.io/my-website/post/reasons-to-prefer-a-mac&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://ghoetker.github.io/my-website/post/update-to-tools-of-the-trade-1/</guid>
+      <description>&lt;p&gt;Shortly after I posted Tools of the trade 1—Spelling and grammar checkers, version 3.0 of the Hemingway Editor became available.  The changes are evolutionary, rather than revolutionary, but provide some useful new features. The update is free to owners of version 2, which is generous for an update of this magnitude.&lt;/p&gt;</description>
     </item>
     
   </channel>
