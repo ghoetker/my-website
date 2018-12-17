@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Inter-organizational cooperation",
     "Innovation and technology management",
-    "Globalization"
+    "Globalization",
+    "Sustainability"
   ]
 
 # List your qualifications (such as academic degrees).
