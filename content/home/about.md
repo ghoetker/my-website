@@ -13,7 +13,8 @@ weight = 5
     "Inter-organizational cooperation",
     "Innovation and technology management",
 	"Sustainability",
-	"Globalization"
+	"Globalization",
+	"Research methods"
    ]
 
 # List your qualifications (such as academic degrees).
@@ -44,7 +45,9 @@ weight = 5
 
 I joined Melbourne Business School as HMSTrust Chair in Social Innovation and Professor of Business Strategy in 2018. I work at the intersection of strategy and innovation, with a particular interest in how firms can innovate in response to growing demands that they contribute to society more broadly.  Much of my recent work has explored these issues in the context of clean energy and sustainability more broadly. 
 
-Before joining MBS, I was in the Department of Management at the Arizona State University's W. P. Carey School of Business, with a courtesy appointment in the Department of Supply Chain Management. While at Arizona State, I was named a Senior Sustainability Scholar at ASU's Julie Ann Wrigley Global Institute of Sustainability, an affiliation I maintain. Before ASU, I spent 10 years at the University of Illinois, where I was a member of both the strategy and international business groups in the College of Business, with additional appointments in the College of Law and the Institute for Genomic Biology, where I was part of the BioBEL (Business, Economic and Legal Aspects of Biotechnology) research group.
+Before joining MBS, I was in the Department of Management at the Arizona State University's W. P. Carey School of Business, with a courtesy appointment in the Department of Supply Chain Management. While at Arizona State, I was named a Senior Sustainability Scholar at ASU's Julie Ann Wrigley Global Institute of Sustainability, an affiliation I maintain. I represented ASU as part of the Arizona Solar Summit, an industry-government-academia collaboration to develop Arizona's solar energy industry.
+
+Before ASU, I spent 10 years at the University of Illinois, where I was a member of both the strategy and international business groups in the College of Business, with additional appointments in the College of Law and the Institute for Genomic Biology, where I was part of the BioBEL (Business, Economic and Legal Aspects of Biotechnology) research group.
 
 I am an Associate Editor for the _Strategic Management Journal_ and the Strategic Management Society's new _Strategic Management Review_. I also serve on the Editorial Review Boards of _Organization Science_, _Strategic Organization_ and _Strategy Science_.
 
