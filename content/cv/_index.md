@@ -7,3 +7,4 @@ draft = false
 Click {{% staticref "pdf/hoetker_cv.pdf" "newtab"%}}here{{% /staticref %}} to download.
 
 <embed src="/pdf/hoetker_cv.pdf" type="application/pdf" width="100%" height="1200px">
+
