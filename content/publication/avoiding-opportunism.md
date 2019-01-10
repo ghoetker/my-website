@@ -1,6 +1,6 @@
 +++
-title = "Curbing opportunism in buyer-supplier relationship: A QCA study on effective governance mechanisms"
-date = 2018-11-09T23:53:19-07:00
+title = "Avoiding high opportunism is easy, achieving low opportunism is not: A QCA study on curbing opportunism in buyer–supplier relationships"
+date = 2018-12-09T23:53:19-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Mellewigt T.", "Hoetker, G.","Lütkewitte, M."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Organization Science (Forthcoming)"
+publication = "Organization Science"
 publication_short = ""
 
 # Abstract and optional shortened version.
