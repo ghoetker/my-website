@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-business/Engineering on Glenn Hoetker</title>
+    <link>https://ghoetker.github.io/my-website/categories/non-business/engineering/</link>
+    <description>Recent content in Non-business/Engineering on Glenn Hoetker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Jan 2009 12:51:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://ghoetker.github.io/my-website/categories/non-business/engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strategy</title>
+      <link>https://ghoetker.github.io/my-website/class/strategy-psm/</link>
+      <pubDate>Tue, 20 Jan 2009 12:51:56 -0700</pubDate>
+      
+      <guid>https://ghoetker.github.io/my-website/class/strategy-psm/</guid>
+      <description>A module in the Professional Science Master program, which served engineering and science graduate students who are not intending to pursue an academic career. It provides a bridge between science/engineering and business.
+Syllabus Click here to download.</description>
+    </item>
+    
+  </channel>
+</rss>

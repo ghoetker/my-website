@@ -18,7 +18,7 @@ authors = ["Kim, S.", "Gao, H.", "Hoetker, G.", "Mesquita, L."]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Academy of Management Journal (Under first review)"
+publication = "Working paper"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
